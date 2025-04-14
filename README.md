@@ -1,4 +1,4 @@
-# phd_casestudy-1
+# phd_casestudy_1-2
 Data and code used for Case Study #1 and Case Study #2 for PhD Thesis project, "Chamber of Reflections: Text Mining for a Retrospective Analysis of Archaeological Heritage Discourse under the ‘Academic Gaze’" which was carried out at the Universitat de Barcelona from 2022 to 2025
 
 The result of both Case Study #1 and Case Study #2 are two papers: 
