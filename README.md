@@ -2,6 +2,7 @@
 Data and code used for Case Study #1 and Case Study #2 for PhD Thesis project, "Chamber of Reflections: Text Mining for a Retrospective Analysis of Archaeological Heritage Discourse under the ‘Academic Gaze’" which was carried out at the Universitat de Barcelona from 2022 to 2025
 
 The result of both Case Study #1 and Case Study #2 are two papers: 
+
 1] Text Mining Analysis of Perception in Archaeological Landscapes: The Case of Stonehenge 
 Published: Proceedings of the 7th ACM SIGSPATIAL International Workshop on Geospatial Humanities
 https://dl.acm.org/doi/abs/10.1145/3615887.3627757
