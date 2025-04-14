@@ -1,0 +1,196 @@
+Stonehenge’s Avenue and
+‘Bluestonehenge’
+Michael J. Allen1, Ben Chan2, Ros Cleal3, Charles French4,
+Peter Marshall5, Joshua Pollard6, Rebecca Pullen7, Colin Richards8,
+Clive Ruggles9, David Robinson10, Jim Rylatt11, Julian Thomas8,
+Kate Welham12 & Mike Parker Pearson13,?
+Stonehenge is a site that continues to yield surprises. Excavation in 2009 added a new and unexpected feature: a smaller, dismantled stone circle on the banks of the River Avon, connected to Stonehenge itself by the Avenue. This new structure has been labelled ‘Bluestonehenge’ from the evidence that it once held a circle of bluestones that were later removed to Stonehenge. Investigation of the Avenue closer to Stonehenge revealed deep periglacial fissures within it. Their alignment on Stonehenge’s solstitial axis (midwinter sunset–midsummer sunrise) raises questions about the early origins of this ritual landscape.
+Keywords: Stonehenge, Bluestonehenge, Stonehenge Avenue, West Amesbury, Neolithic, Bronze Age, henge, stone circle
+1 Allen Environmental Archaeology, Redroof, Green Road, Codford BA12 0NW, UK
+2 Faculty of Archaeology, Leiden University, Postbus 9514, 2300 RA Leiden, the Netherlands
+3 Alexander Keiller Museum, High Street, Avebury SN8 1RF, UK
+4 Department of Archaeology & Anthropology, University of Cambridge, Downing Street, Cambridge CB2 3DZ,
+UK
+5 Chronologies, 25 Onslow Road, Sheffield S11 7AF, UK
+6 Department of Archaeology, University of Southampton, Avenue Campus, Southampton SO17 1BF, UK
+7 Historic England, 37 Tanner Row, York YO1 6WP, UK
+8 School of Arts, Languages & Cultures, University of Manchester, Oxford Road, Manchester M13 9PL, UK
+9 School of Archaeology & Ancient History, University of Leicester, Leicester LE1 7RH, UK
+10 School of Forensic and Investigative Sciences, University of Central Lancashire, Preston PR1 2HE, UK 11 16 Carr Road, Sheffield S6 2WZ, UK
+12 Department of Archaeology, Anthropology & Forensic Science, Talbot Campus, Bournemouth University, Bournemouth BH12 5BB, UK
+13 Institute of Archaeology, University College London, 31–34 Gordon Square, London WC1H 0PY, UK
+? Author for correspondence (Email: m.parker-pearson@ucl.ac.uk)
+C Antiquity Publications Ltd, 2016
+ANTIQUITY 90 352 (2016): 991–1008	doi:10.15184/aqy.2016.98
+
+Figure 1. The Stonehenge landscape, showing Stonehenge, the Stonehenge Avenue and Bluestonehenge (drawn by Joshua
+Pollard).
+Introduction
+Stonehenge has long been known to form part of a larger prehistoric landscape (Figure 1). In particular, it is part of a composite monument that includes the Stonehenge Avenue and the newly discovered West Amesbury henge, which is situated at the eastern end of the Avenue beside the River Avon. Inside that henge lies an earlier circle of stoneholes, formerly holding small standing stones; this is known as ‘Bluestonehenge’. The Avenue was first mapped in 1719–1723 by William Stukeley, who recorded that it ran from Stonehenge’s north-eastern entrance for over a kilometre towards the River Avon, bending south-east and crossing King Barrow Ridge, before disappearing under ploughed ground. He also noted that its initial 500m-long stretch from Stonehenge was aligned towards the midsummer solstice sunrise.
+  Archaeological excavations during the twentieth century revealed that the Avenue consists of two parallel banks with external, V-profile ditches, about 22m apart. The dating, phasing and extent of the Avenue, however, remained uncertain. Its length could be traced no closer than 200m from the River Avon (Smith 1973); its two ends were thought to have possibly been built at different times, and there was no knowledge of any monument at its riverside end.
+  In August 2008, the Stonehenge Riverside Project re-opened and extended eight trenches dug across the Avenue during the twentieth century and, in 2008–2009, cut new trenches at West Amesbury beyond the known limit of the Avenue. The aim was to establish whether the Avenue was built in more than one phase, and whether it actually reached the river, thereby addressing the theory that Stonehenge was part of a larger complex linked by the river to Durrington Walls henge and its newly discovered avenue, two miles upstream (Parker Pearson & Ramilisonina 1998; Parker Pearson et al. 2007).
+  In August 2013, Wessex Archaeology carried out an excavation along the line of the decommissioned A344 road (constructed in the 1760s) that ran across the Avenue close to Stonehenge, with the aim of examining the condition of the Avenue and its ditches where it lay under the road.
+The solstice-aligned section of the Stonehenge Avenue
+One of the eight re-opened twentieth-century trenches, Richard Atkinson’s 1956 trench C48 (Cleal et al. 1995: fig. 178), was re-opened and extended 2m southwards to form a trench 4 × 26m in size (Trench 45; Figure 2). Atkinson’s photographs and section drawing revealed gullies within the Avenue that were interpreted as periglacial fissures (Cleal et al. 1995: 311), but their orientation parallel with the Avenue’s axis suggested the possibility that they were, in fact, artificial features.
+  On excavation in 2008, the gullies were confirmed to be surprisingly large and deep periglacial stripes, consisting of 0.5m-deep and 0.4m-wide fissures in the chalk bedrock (Figure 3). They were filled with clean, beige-coloured silt formed from an admixture of materialderivedfromweatheredorsolifluctedchalkandreworkedaeolianloessicsiltdeposits (Figure 4). They were considerably more substantial than the much smaller periglacial stripes (less than 0.2m wide and 0.1m deep) observed in other trenches beside the Avenue and at its bend, and considerably deeper than many others regularly recorded on the chalk. Earth resistance and fluxgate magnetometer surveys reveal linear anomalies running along the line of the Avenue, but cart-tracks running within it on the same axis are most probably responsible, in large part, for these geophysical linear anomalies (see also Darvill et al. 2012a: 83–84). These ruts are only 0.08–0.18m deep, far shallower than the periglacial fissures.
+  Periglacial stripes are frost-heave cryoturbation features primarily created by in situ freeze– thaw alteration of the chalk, combined with ice removal and solution of loose chalk material. On the Wiltshire chalk, these cryoturbation structures are found on slopes of less than 5° (Williams 1973: 26–27): the “general result is [ . . . ] of parallel gullies orientated in a
+
+Figure 2. Trench 45 across the Avenue; the north-eastern half is the part excavated by Atkinson in 1956 (and re-excavated in 2008) and shows the outer ditches as well as the periglacial stripes. The south-western half was excavated in 2008 and shows the outer ditches and the wheel-ruts overlying the periglacial stripes (drawn by Irene de Luis).
+downhill direction” (Evans 1968: 14), and usually at a slight diagonal direction across the slope.
+  The presence of extraordinarily large and closely spaced stripes within the Avenue is possibly explained by the presence of natural ridges on either side of the concentration of
+
+Figure 3. The long section through the central part of Trench 45 with the topsoil removed; the periglacial fissures are especially deep and wide between the two chalk ridges (drawn by Irene de Luis).
+
+Figure 4. Trench 45, viewed from the north-east (photograph by Adam Stanford).
+
+Figure 5. Stonehenge Avenue earthwork, with the natural ridges marked in blue and a suspected natural gully marked in green. The Early Mesolithic postholes lie 200m west-north-west of Trench 45. Trenches excavated along the Avenue in 2008 are outlined in red (from Field et al. 2012, courtesy of English Heritage).
+stripes, and a natural dishing of the area between. This would have acted to concentrate water—and thus freeze–thaw action—within and between these two ridges, thereby accentuating periglacial cryoturbation and infill processes and enlarging the periglacial stripes. The ridges can be seen in Hawley’s photograph of his excavations outside Stonehenge’s north-eastern entrance (Hawley 1925: pl. X; Cleal et al. 1995: fig. 184), and are visible as earthwork features running for 150m or so from the Heel Stone (Field et al. 2012: fig. 10) but not as far as the Avenue bend (Figure 5).
+  These two natural ridges (each 6m wide) were initially thought to result from differential weathering of the chalk surface, with those areas beneath the Avenue banks being protected to a greater degree. The ridges are, however, far wider than the banks, which are up to 4.3m wide and stand only 0.1m high. As is the case with the Stonehenge bank and ditch, such a degree of differential preservation of bedrock can only be achieved at the base of a very substantial bank (see Cleal et al. 1995: fig. 48), and is certainly not possible in the case of the Stonehenge Avenue’s insubstantial banks.
+  The 2008 excavation revealed a small number of features. One of these was a small treehole cutting through the ancient land surface. An irregular, shallow pit (or a pair of pits) lay within the Avenue. The pit went undetected during the 1956 excavation but was found in 2008 to be 1.7m east–west × 1.4m north–south × 0.23m deep, and contained sarsen and
+
+Figure 6. Excavation beneath the tarmac of the A344 road, viewed from the east and showing periglacial stripes between the Avenue ditches; the position of the 2008 trench is marked in red (photograph by Adam Stanford).
+bluestone chips as well as a small antler pick at its base. The pit was partly covered by the edge of the Avenue bank but whether this was primary upcast or secondary material from re-cutting the ditch could not be determined. The slightly ‘dirty’ appearance of the upcast chalk in this part of the bank suggests the latter.
+  Many of the 3535 small flakes and fragments of sarsen and 71 bluestone fragments in Trench 45 came from two patches of buried soil beneath the Avenue banks, confirming that dressingofStonehenge’sstoneswascarriedoutpriortotheAvenue’sconstruction.Excavation of another trench (Trench 44) 50m to the north-west confirmed that the Avenue was cut through the eastern edge of a 100m-wide (east–west) spread of sarsen debris deriving from the dressing of monoliths outside the Stonehenge enclosure (Parker Pearson 2012: 248–52).
+  Towards the end of the solstitial-aligned part of the Avenue, before it bends eastwards at its ‘elbow’, it runs along a very pronounced natural landform (in the area of Trench 48 in Figure 5) before it drops into the dry valley of Stonehenge Bottom. This provides a further indication that those who laid out the Avenue paid close attention to the local topography and the lie of the land.
+The 2013 excavation by Wessex Archaeology along the line of the A344 road
+The road surface and sub-base were removed by machine, down to the lowest chalk and flint bedding layer, which lay directly over the natural chalk (Figure 6). Some, but not all, of this
+
+Figure 7. Periglacial stripes showing as vegetation marks in lightly grazed grassland at Grimes Graves, Norfolk (photograph by Joshua Pollard).
+bedding layer was also removed, exposing parts of both Avenue ditches. These were cleaned by hand, and slots excavated through them; the northern edge of the Heel Stone ring-ditch was also exposed, and a narrow slot excavated through it. Finds from the Avenue ditches included 110 pieces of struck flint, recovered from throughout their fills, and 9 fragments of bluestone and sarsen from their tertiary fills.
+  As some of the bedding layer remained unstripped, the sides of the Avenue ditches were only established at the two excavated slots, and not across the full width of the road. In areas within the Avenue where the bedding layer was removed, the natural geology was exposed; this consisted of degraded chalk with the periglacial stripes aligned north-east to south-west. The Avenue ditches (and the natural geology) had not been significantly truncated by the road construction, both ditches surviving to depths of 0.75–0.8m, comparable with the sections to the immediate north and south previously excavated by the Vatchers and by Pitts (Pitts 1982: fig. 13; Cleal et al. 1995: fig. 180). Not surprisingly, there were no surviving traces of the Avenue banks.
+Geology and the solstice: a meeting of the earth and heavens
+It is possible that the parallel ridges would have been noticed by prehistoric people as earthworks, and the periglacial stripes as areas of lusher vegetation growing on the greater depth of soil in the fissures, in this largely open landscape of Salisbury Plain in the early Holocene (Figure 7; Allen & Gardiner 2009, 2012). This remarkable coincidence of a geologicallandformonasolstitialaxishastobeconsideredasafeaturethatwasmeaningfulto people of the third millennium BC—so much so that they later embellished and accentuated it by heightening the ridges with artificial banks flanked by ditches.
+  The discovery that the Avenue ditches follow the general direction of this series of natural striations adds a new dimension to the interpretation of the solstitial alignment of the Avenue. It could be argued that, if these periglacial features formed a natural approach to the monument, and were in fact a key factor in defining its axial orientation, then the solstitial alignment is fortuitous. But to argue in this way would be to follow an ethnocentric perspective in which the approximate solstitial orientation of the natural striations is viewed as a coincidence of nature. If, on the other hand, the striations were already visible in the landscape and were seen to be aligned upon the setting winter solstice sun, then this would surely have been a powerful affirmation of cosmic harmony (cf. Ruggles 2007: 318, 2014: 2239–41 for examples in Polynesia).
+  A similar phenomenon has been noted at another Neolithic ceremonial complex in Britain, the Ness of Brodgar in Orkney, Scotland (Card 2013), where a large, walled settlement is located on a natural peninsula between the stone circles of the Ring of Brodgar and the Stones of Stenness (Richards 2013: 64–118). The Brodgar peninsula is aligned roughly south-east to north-west along the solstitial line of midwinter sunrise–midsummer sunset (Nick Card & Euan MacKie pers. comm.). As seen from the Ness, the mid-winter solstice sunset (on the other solstitial line) occurs behind the prominent Hills of Hoy (Nick Card pers. comm.). The Ness was thus a prominent natural place in the Neolithic not only because of the terrestrial landscape but also because of the natural solstitial possibilities that it offered.
+  Closer to Stonehenge, the 100m-long Durrington Walls avenue (see Figure 1) is aligned within 1° of the midsummer solstice sunset (Ruggles 2006: 19–20; Parker Pearson et al. 2007: 633). Its artificial flint surface, constructed in 2515–2480 cal BC (95% probability) and leading to the midwinter solstice sunrise-oriented entrance of the Southern Circle (a concentric timber circle), was laid upon a natural deposit of frost-shattered flint that formed a natural ‘avenue’ along the bottom of this roughly solstice-aligned, dry valley.
+  Finally, Stonehenge’s proximity to a line of three Early Mesolithic postholes that held large pine posts (1m in diameter), just 250m to the west of the Avenue (Allen 1995), hints at the possibility that this unusual solstitial alignment, formed by the ridges and stripes, was recognised long before the Neolithic. These vertical pine posts or tree-trunks were erected, probably one after the other, in the centuries around 7000 BC by hunter-gatherers, three millennia before the beginning of agriculture in Britain. Monuments built by huntergatherers are generally rare; although large pits are known from this period, the Stonehenge postholes are unparalleled anywhere for the Early Mesolithic of Northern Europe. It is also notable that the adjacent stretch of the River Avon has revealed traces of Mesolithic activity from the beginning of the eighth millennium BC—earlier than the postholes—through to the early fifth millennium BC (Jacques & Phillips 2014), making it, potentially, an unusually ‘persistent place’ (Barton et al. 1995) within the early Holocene.
+West Amesbury henge and the riverside end of the Avenue
+Two trenches excavated in 2008 and 2009 at the riverside end of the Avenue revealed its two ditches running south-east towards the River Avon (Figure 8). The width of the Avenue here is 19.3m, slightly narrower than at the Stonehenge end. Its ditches here are up to 1m wide × 0.6m deep, containing closely spaced holes for posts or stakes at their base, 0.08m–0.18m in diameter. The basal fill of the east ditch produced a large quantity of worked flints, including a flint core and a ripple-flaked oblique arrowhead, a projectile form dating to c. 2600– 2400 cal BC.
+  The evidence for palisades in the Avenue ditches raises questions about the possible extent of these structures. Did they run from this end of the Avenue for just 100m or so, as far as the nearest previous excavation of the Avenue ditch (Smith 1973)? Or, might a palisade line have been partially or wholly re-cut by a ditch? The riverside terminal of the Stonehenge Avenue remains unfound; it was not revealed by geophysical survey, and the extent of excavation in this area was restricted by the protected status of this site as a Scheduled Ancient Monument. Nonetheless, the Avenue must have ended within 5m north of West Amesbury henge, the small henge at the riverside.
+  This henge was originally around 30m in diameter. Its bank was approximately 3m wide but is almost entirely missing (although its eroded remnants have preserved a pocket of brown forest soils containing a modest assemblage of 268
+Mesolithic–Early Neolithic flints). The lack of redeposited bank material in the henge ditch suggests that it had a relatively wide berm; it was probably circular, 2.6m wide × 1.2m deep with a V-shaped profile
+(Figure 9). On its eastern side, the ditch
+Figure 8. Trenches at the riverside end of the Stonehenge Avenue, showing the Avenue ditches, West Amesbury henge ditch and the stoneholes of Bluestonehenge; the estimated extent of the Avenue is marked in brown (drawn by Irene de
+Luis).appeared to be narrowing to a terminal that probably formed the northern side of an east-facing causeway or entranceway. On the northern side, two opposite,protruding ditch sides suggest the former presence of a north-facing entrance, 2m wide, but removed before silts began to accumulate in the ditch bottom. At least a third of the henge ditch on its southern side has been eroded by the River Avon.
+  The primary fill of the ditch on its north-eastern side produced a broken-off tip of an antler pick, embedded in a pocket in the bedrock and dating to 2460–2210 cal BC (95% confidence; weighted mean of SUERC-23207; 3825±30 BP; OxA-20351; 3891±29 BP and OxA-20357; 3858±27 BP–3859±17 BP (T’=2.5; T’ (5%)=6.0; ?=2)). Farther east, a placed deposit in the ditch terminal consisted of two large pieces of antler, an antler pick, a cattle sacrum, a cattle rib, a small, quartzite hammer-stone, small sherds of Grooved Ware and a small assemblage of worked flints. Beaker pottery came from the layer above this.
+Bluestonehenge
+Within the centre of West Amesbury henge, nine stoneholes (Table 1) were identified within two trenches dug in the western and northern sides of the monument (Figure 10). Five lay entirely within the trenches (B–E & J), and four lay partially or largely within the baulks (A, F, I & K). All the stoneholes had ramps positioned on the outside of the circle, perpendicular to its circumference, and all were set within an inter-connecting arc-shaped feature. The ramps give the arc of stoneholes a scalloped fringe. Distances between centres of stoneholes A–F average 1.16m. If this spacing was continuous around the circle then its radius would be about 4.85m and its circumference 30.45m, providing spaces for 26 standing stones.
+Table 1. Dimensions (in metres) of the Bluestonehenge stoneholes and their ramps.
+
+	Pit	Ramp	Basal impression
+StoneholeDepthWidthLengthWidthLengthAngle°DepthWidthLengthA1.001.400.751.200.80100.100.300.33B1.151.100.950.950.90100.060.430.34C1.201.001.001.000.85350.180.550.40D1.301.501.80–0.90150.140.600.60E0.951.201.451.101.2032–––F–1.75–––––––I–––––––––J1.101.501.501.201.2520–0.700.65K–––––––––
+Figure 9. West Amesbury henge ditch enclosing the stoneholes (A–K) of Bluestonehenge. Later features (apart from the large posthole) have been omitted (drawn by Irene de Luis).
+  The stone circle was preceded by a flat-bottomed, 0.85m-deep pit (pit AA), cut by stoneholes A and B. Within the stoneholes, finds from contexts associated with the removal of the stones included a Grooved Ware sherd and an indeterminate sherd (in stoneholes A and B), a chisel arrowhead (from stonehole A), a micro-denticulate blade and a flake of micaceous Mesozoic sandstone (of southern English provenance) from stonehole D, and two antler picks. One pick from the ramp of stonehole A dates to 2470–2210 cal BC
+
+Figure 10. Bluestonehenge under excavation, viewed from the north; each person stands in a dug-out stonehole (photograph by Adam Stanford).
+(95% confidence; OxA-21278; 3884±30 BP). The other, from the fill of stonehole C, dates to 2470–2200 cal BC (95% confidence; SUERC-27051; 3855±30 BP). A fissured and pitted fragment of pig humerus from the void left by removal of the stone in stonehole C was radiocarbon-dated to 2840–2470 cal BC (95% confidence; SUERC-26460; 4040±35 BP).
+  There were very few finds from construction layers. Packing layers in stonehole J included a micro-denticulate blade, a deer tooth and the tip of a worked bone point, whereas those in stonehole K included a chisel arrowhead. The deer tooth dates to 2480–2230 cal BC (95% confidence; SUERC-32162; 3890±30 BP).
+Bluestone monoliths
+There are good reasons for identifying the holes A–F and I–K as stoneholes and not pits or postholes:
+1. The holes are too shallow for posts, given their widths. They are most closely comparablewith the bluestoneholes at Stonehenge (see Parker Pearson et al. 2009: fig. 8).
+2. A direct comparison of posthole and stonehole was possible within the circle itself, as aposthole of similar diameter (with post pipe) was inserted into the backfilled, dismantled circle; it was deeper (1.4m below the top of the bedrock) than any of the stoneholes.
+3. There was no evidence for any hourglass-shaped disturbance that might have been causedby levering posts back and forth to loosen them.
+4. The considerable weight of the uprights, enough to cause compression through thecushion layers (see below) and into the soft, decayed chalk bedrock beneath, indicates the presence of stone, rather than timber, uprights.
+5. The imprints left by such compression reveal a variety of basal cross-sections from ovalto rectilinear to triangular and indented, in contrast to the usual circular cross-sections of Neolithic timber posts.
+Although no bluestone chips were found within Bluestonehenge, we can be confident that these stones were bluestones rather than local sarsens because:
+1. The dimensions of the imprints and voids left by the stones are directly comparable tothose of the Stonehenge bluestones, whose thin pillar-shaped forms are much narrower than any of the slab-like sarsens from either Stonehenge or Avebury.
+2. The basal imprints of each stone exhibit characteristics shared with Stonehenge’sbluestones, namely rectangular, oval and triangular cross-sections. In particular, the imprint of stone D is similar to the distinctively indented cross-section of Bluestone 68 at Stonehenge (Cleal et al. 1995: figs 116 & 124).
+Sequences of erection and dismantling
+One of the curious features of the construction of the stoneholes was the diversity of methods for preparing the hole to take the stone. In stoneholes A, C, D and F, this involved the laying of a relatively flint-free cushion of clay. In stoneholes B and J, a pad of compactedclayandflintnoduleswaslaiddownfirst,followedbyaflint-freeclay‘cushion’.In stonehole E, an elaborate nest of flint nodules was constructed but without a clay ‘cushion’. Packing layers also varied, with some laid horizontally and others tipped in at an angle. The variation in stonehole preparation suggests that different methods were involved in erecting each of the stones, perhaps employed by separate groups with responsibility for each stone.
+  The current ground surface has been built up by centuries of deposition and cultivation in this area of West Amesbury’s medieval village. Topsoil depth of 0.3m is probably far greater than it was in prehistory; a best-guess estimate for soil depth when the circle was constructed might be 0.1m. The standing stones might thus have been set 0.85m–1.35m (average 1.12m) into the ground. This compares closely to the depths of bluestone oval and circle sockets at Stonehenge, mostly 0.8–1.3m below ground surface (BGS) (average 0.98m–0.99m BGS).
+  The sequence of standing-stone removal involved first loosening, with varying degrees of disturbance of the packing, and then hauling out the stone, estimated to have weighed around 2 tonnes, at angles between 30° and 70° to the horizontal (Figure 11). Some of these angles are considerably steeper than the probable average angle of 35° for withdrawal of stones from the Aubrey Holes, and may even have required heavy-lifting gear in the form of a large, timber A-frame. The ramps may be associated with the stones’ removal
+
+Figure 11. Section through stonehole F, showing the filled-in void (in orange) left after removal of the upright in antiquity (drawn by Irene de Luis).
+rather than their erection: their unusual asymmetrical shapes are not like erection ramps for postholes.
+Dating the Avenue
+Six radiocarbon measurements from samples from excavations at various locations along the Avenue have previously been obtained; one from AERE Harwell (HAR-2013), two from the British Museum (BM-1079 and BM-1164), two from the Oxford Radiocarbon Accelerator Unit (ORAU) (OxA-4884 and OxA-4905), and one from Teledyne Isotopes (USA) (Allen & Bayliss 1995). Two of these measurements can be excluded (Allen & Bayliss 1995: 518–19): I-3216, on the grounds that it contains bones from different trenches, and BM-1079, because of potential contamination by humic acids. Replicate samples from a small antler pick laid on the base of a pit within the Avenue (Figure 2) were dated at ORAU and the Scottish Universities Environmental Research Centre (SUERC).
+  The three measurements on the antler pick from Trench 45 (OxA-20011, OxA-20350 and SUERC-23205) are statistically consistent (T’=5.8; T’ (5%)=6.0; ? =2; Ward & Wilson 1978) and a weighted mean has therefore been taken before calibration (SAV 045, (1027): 3827±17 BP).
+  Stratigraphy indicates that the antler pick from the 2008 excavation was deposited after initial construction of the Avenue bank but prior to the rebuilding of the bank associated with a second episode of re-cutting of the Avenue ditch. The most suitable model is:
+1. Ditch cutting, dated by OxA-4884.
+2. Below/within junction of primary fill and re-cut, dated by HAR-2013.
+3. Under bank of re-cut, dated by OxA-20011, OxA-20350 and SUERC-23205.
+4. About 0.5m above the ditch bottom in a re-cut, dated by BM-1164.
+This model shows good overall agreement between the radiocarbon dates and stratigraphy (Amodel=70; Figure 12a). The antler (OxA-4884) recovered from the bottom of the Stonehenge terminal of the north ditch provides the best estimate for the date of construction of the Avenue of 2500–2270 cal BC (93% probability; Figure 12a) and probably 2420–2285 cal BC (68% probability). The model also provides an estimate for the re-cutting of 2250– 2135 cal BC (67% probability; re_cut; Figure 12a).
+Dating Bluestonehenge
+Four samples were dated from contexts that were most probably associated with the removal of uprights from the stoneholes. The deer tooth from the primary fill of stonehole J only provides a terminus post quem (TPQ) of 2480–2230 cal BC (SUERC-32162; Figure 12b). It could potentially be residual but may just as probably have been introduced as a contaminant into this packing layer when the standing stone was removed. The pig humerus from the disturbed upper fill of stonehole C provides a TPQ for the removal of its stone of 2840–2470 cal BC (SUERC-26460; Figure 12b).
+  The radiocarbon dates are for the dismantling of Bluestonehenge, not its construction. Dates on charred cereal grains from the primary fills of the stoneholes were all medieval, highlightingtheproblemsofbioturbationonsmallitemsinchalklandstratigraphy(Atkinson 1957). The only diagnostic finds from the primary fills of the stoneholes were two chisel arrowheads (c. 3400–2600 cal BC). We suspect that Bluestonehenge was either erected and dismantled after 2465–2295 cal BC (at 68% probability) if the deer tooth with that date is not intrusive, or that it was erected early in the third millennium BC—perhaps contemporary with a bluestone circle in the 56 Aubrey Holes in 3000–2920 cal BC (Parker Pearson et al. 2009; Darvill et al. 2012b: 1026)—and dismantled after the first quarter of the twenty-fifth century cal BC.
+  While the date of construction of Bluestonehenge remains unclear, the date of its dismantling falls in the same time-period as the construction of the Avenue and West Amesbury henge. In engineering terms, it is logical that the orthostats were removed prior to the construction of the henge’s bank and ditch. But what happened to the 26 or so bluestones? The answer is that they probably went to Stonehenge, perhaps transported along the line of the Avenue, as this provides the gentlest gradients between the two points, albeit as far as the Avenue bend. Stonehenge stage 3 dates to this period (2405–2225 cal BC to 2300–2105 cal BC (95% probability); Figure 12b), when its hitherto-blocked entrance
+
+Figure 12. Probability distributions of dates from the Stonehenge Avenue (a) and from Bluestonehenge (b), with selected parameters for the Stonehenge Avenue, the introduction of Beakers into Wessex (Parker Pearson et al. 2016: fig. 2), the end of Grooved Ware (Barclay et al. 2011) and the beginning and end of stage 3 at Stonehenge (Darvill et al. 2012b: fig. 2). Each distribution represents the relative probability that an event occurs at a particular time.
+was re-opened by removing sarsen stones D and E, and an arc or circle of bluestones was erected in the centre (Darvill et al. 2012b: 1026). Although not enough of the central area of Stonehenge has been excavated to reveal more than an arc of five bluestoneholes, they have a similar spacing and estimated ring diameter to Bluestonehenge.
+Conclusion
+Although the date of construction of Bluestonehenge remains uncertain, its dismantling occurred around the same time as the digging of the Avenue’s ditches, the building of West Amesbury henge and a rearrangement of bluestones at Stonehenge during its stage 3, from which time onwards Stonehenge displayed the 80 or so bluestones estimated to have been set up there (Atkinson 1956: 49 & 68). Just why the two monuments were merged into one at this time is a mystery, but the sequence in the ditch of West Amesbury henge—constructed at or shortly after the dismantling—provides a clue. The structured deposit placed in the terminal of this henge ditch contained only indeterminate fragments of sherds, although the layer immediately above, and subsequent layers, contained Beaker sherds. The date of ditch-digging fits well with estimates for the start of Beakers in 2475–2360 cal BC (95% probability; Parker Pearson et al. 2016) and the end of Grooved Ware in the Stonehenge area in 2460–2320 cal BC (Figure 12; Barclay et al. 2011: 180). The arrival of Beakers and accompanying continental European styles of mortuary practice and material culture signalled a major social and cultural transition in Britain, including the decline of large-scale labour mobilisation for megalith-building. Acknowledgements
+We wish to thank Alistair Barclay, Nick Card, David Field, Euan MacKie and Andrew Powell for providing information drawn upon in this paper, and Kenny Brophy and Mike Pitts for their useful comments. The Stonehenge Riverside Project’s excavations were carried out by a large team of students, volunteers and professional archaeologists too numerous to mention here. The research was made possible thanks to the permissions of English Heritage, the National Trust, the Antrobus Estate and Morrison-King Ltd. The Stonehenge Riverside Project was funded largely by the AHRC (grant 119217). Wessex Archaeology’s excavation
+
+of the A344 road line was funded by English Heritage.
+References
+ALLEN, M.J. 1995. Before Stonehenge, in R.M.J. Cleal, K.E. Walker & R. Montague, Stonehenge in its landscape: twentieth-century excavations: 41–62. London: English Heritage.
+ALLEN, M.J. & A. BAYLISS. 1995. Appendix 2: the radiocarbon dating programme, in R.M.J. Cleal, K.E. Walker & R. Montague, Stonehenge in its landscape: twentieth-century excavations: 511–35. London: English Heritage.
+ALLEN, M.J. & J. GARDINER. 2009. If you go down to the woods today: a re-evaluation of the chalk-land post-glacial woodland; implications for prehistoric communities, in M.J. Allen, N. Sharples & T.P. O’Connor (ed.) Land and people: papers in memory of John G. Evans (Prehistoric Society Research Paper 2): 49–66. Oxford: Oxbow.
+– 2012. Not out of the woods yet: some reflections onNeolithic ecological relationships with woodland, in A.M. Jones, J. Pollard, M.J. Allen & J. Gardiner (ed.) Image, memory and monumentality: archaeological engagements with the material world (Prehistoric Society Research Paper 5): 93–107. Oxford: Oxbow.
+ATKINSON, R.J.C. 1956. Stonehenge. London: Hamish Hamilton.
+– 1957. Worms and weathering. Antiquity 33: 219–33. http://dx.doi.org/10.1017/S0003598X00028489
+BARCLAY, A. & P. MARSHALL, with T. HIGHAM. 2011. Chronology and the radiocarbon dating programme, in A.P. Fitzpatrick, The Amesbury Archer and the Boscombe Bowmen: Bell Beaker burials at Boscombe Down, Amesbury, Wiltshire: 167–84. Oxford: Oxbow.
+BARTON, N., P. BERRIDGE, M. WALKER & R. BEVINS. 1995. Persistent places in the Mesolithic landscape: an example from the Black Mountains uplands of
+South Wales. Proceedings of the Prehistoric Society
+61: 81–116. http://dx.doi.org/10.1017/ S0079497X00003042
+CARD, N. 2013. The Ness of Brodgar. British Archaeology 128: 14–21.
+CLEAL, R.M.J., K.E. WALKER & R. MONTAGUE. 1995.
+Stonehenge in its landscape: twentieth-century excavations. London: English Heritage.
+DARVILL, T.C., F. LUTH¨	, K. RASSMANN, A. FISCHER &
+K. WINKELMANN. 2012a. Stonehenge, Wiltshire, UK: high resolution geophysical surveys in the surrounding landscape, 2011. European Journal of
+Archaeology 16: 63–93. http://dx.doi.org/
+10.1179/1461957112Y.0000000025
+DARVILL, T., P. MARSHALL, M. PARKER PEARSON & G.J. WAINWRIGHT. 2012b. Stonehenge remodelled.
+Antiquity 86: 1021–40. http://dx.doi.org/
+10.1017/S0003598X00048225
+EVANS, J.G. 1968. Periglacial deposits on the chalk of Wiltshire. Wiltshire Archaeological and Natural History Magazine 63: 12–29.
+FIELD, D., M. BOWDEN & S. SOUTAR. 2012.
+Stonehenge World Heritage Site landscape project: the Avenue and Stonehenge Bottom. English Heritage Research Report 31—2012. Available at: http://services.english-heritage.org.uk/ ResearchReportsPdfs/031 2012WEB.pdf (accessed 18 March 2016).
+HAWLEY, W. 1925. Report of the excavations at Stonehenge during the season of 1923. The Antiquaries Journal 5: 21–50. http://dx.doi.org/10.1017/S0003581500015250
+JACQUES, D. & T. PHILLIPS. 2014. Mesolithic settlement near Stonehenge: excavations at Blick Mead, Vespasian’s Camp, Amesbury. Wiltshire Archaeological and Natural History Magazine 107: 7–27.
+PARKER PEARSON, M. 2012. Stonehenge: exploring the greatest Stone Age mystery. London: Simon & Schuster.
+PARKER PEARSON, M. & RAMILISONINA. 1998.
+Stonehenge for the ancestors: the stones pass on the message. Antiquity 72: 308–26.
+PARKER PEARSON, M., R. CLEAL, P. MARSHALL,
+S. NEEDHAM, J. POLLARD, C. RICHARDS, C. RUGGLES, A. SHERIDAN, J. THOMAS, C. TILLEY,
+K. WELHAM, A. CHAMBERLAIN, C. CHENERY,
+	J. EVANS, C. KNUSEL¨	, N. LINFORD, L. MARTIN,
+J. MONTGOMERY, A. PAYNE & M. RICHARDS. 2007. The age of Stonehenge. Antiquity 81: 617–39. http://dx.doi.org/10.1017/S0003598X00095624
+PARKER PEARSON, M., A. CHAMBERLAIN, M. JAY,
+P. MARSHALL, J. POLLARD, C. RICHARDS, J. THOMAS, C. TILLEY & K. WELHAM. 2009. Who was buried at Stonehenge? Antiquity 83: 23–39.
+http://dx.doi.org/10.1017/S0003598X00098069
+PARKER PEARSON, M., A. CHAMBERLAIN, M. JAY,
+M. RICHARDS, A. SHERIDAN, N. CURTIS, J. EVANS,
+A. GIBSON, M. HUTCHISON, P. MAHONEY,
+P. MARSHALL, J. MONTGOMERY, S. NEEDHAM,
+S. O’MAHONEY, M. PELLEGRINI & N. WILKIN. 2016. Beaker people in Britain: migration, mobility and diet. Antiquity 90: 620–37.
+PITTS, M.W. 1982. On the road to Stonehenge: report on the investigations beside the A344 in 1968, 1979 and 1980. Proceedings of the Prehistoric Society
+48: 75–132. http://dx.doi.org/10.1017/ S0079497X00008392
+RICHARDS, C. (ed.). 2013. Building the great stone circles of the North. Oxford: Windgather.
+RUGGLES, C.L.N. 2006. Interpreting solstitial alignments in Late Neolithic Wessex. Archaeoastronomy 20: 1–27.
+– 2007. Cosmology, calendar, and temple orientationsin ancient Hawai‘i, in C.L.N. Ruggles & G. Urton (ed.) Skywatching in the ancient world: new perspectives in cultural astronomy: 287–329. Boulder: University Press of Colorado.
+– 2014. Archaeoastronomy in Polynesia, inC.L.N. Ruggles (ed.) Handbook of archaeoastronomy and ethnoastronomy: 2231–45. New York: Springer.
+SMITH, G. 1973. Excavation of the Stonehenge Avenue at West Amesbury, Wiltshire. Wiltshire Archaeological and Natural History Magazine 68: 42–56.
+WARD, G.K. & S.R. WILSON. 1978. Procedures for comparing and combining radiocarbon age determinations: a critique. Archaeometry 20: 19–31. http://dx.doi.org/10.1111/j.1475-
+4754.1978.tb00208.x
+WILLIAMS, R.B.G. 1973. Frost and the works of man.
+Antiquity 47: 19–31. http://dx.doi.org/
+10.1017/S0003598X00034621
+
+
+Received: 4 May 2015; Accepted: 4 August 2015; Revised: 9 November 2015
+Michael J. Allen et al.
+
+Stonehenge’s Avenue and ‘Bluestonehenge’
+
+C Antiquity Publications Ltd, 2016
+992
+
+C Antiquity Publications Ltd, 2016
+993
+
+
+
+991
+

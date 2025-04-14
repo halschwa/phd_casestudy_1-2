@@ -1,0 +1,351 @@
+The dead of Stonehenge
+Christie Willis1, Peter Marshall2, Jacqueline McKinley3, Mike Pitts4,
+Joshua Pollard5, Colin Richards6, Julian Richards7, Julian Thomas6,
+Tony Waldron1, Kate Welham8 & Mike Parker Pearson1,?
+The assemblage of Neolithic cremated human remains from Stonehenge is the largest in Britain, and demonstrates that the monument was closely associated with the dead. New radiocarbon dates and Bayesian analysis indicate that cremated remains were deposited over a period of around five centuries from c. 3000–2500 BC. Earlier cremations were placed within or beside the Aubrey Holes that had held small bluestone standing stones during the first phase of the monument; later cremations were placed in the peripheral ditch, perhaps signifying the transition from a link between specific dead individuals and particular stones, to a more
+diffuse collectivity of increasingly long-dead ancestors.
+Keywords: Stonehenge, Late Neolithic–Early Bronze Age, cremation, Bayesian dating
+Introduction
+Stonehenge, a Late Neolithic–Early Bronze Age monument in Wiltshire, southern England, was constructed in five stages between around 3000 BC and 1500 BC (Darvill et al. 2012). The first stage consisted of a circular ditch enclosing pits thought to have held posts or standing stones, of which the best known are the 56 Aubrey Holes. These are now believed to have held a circle of small standing stones, specifically ‘bluestones’ from Wales (Parker Pearson et al. 2009: 31–33). In its second stage, Stonehenge took on the form in which it is recognisable today, with its ‘sarsen’ circle and horseshoe array of five sarsen ‘trilithons’ surrounding the rearranged bluestones.
+1	UCL Institute of Archaeology, 31–34 Gordon Square, London WC1H 0PY, UK 2	Chronologies, 25 Onslow Road, Sheffield S11 7AF, UK
+3 Wessex Archaeology, Portway House, Old Sarum Park, Salisbury SP4 6EB, UK
+4 Council for British Archaeology, 66 Bootham, York YO30 7BZ, UK
+5 Department of Archaeology, University of Southampton, Southampton SO17 1BF, UK
+6 School of Arts, Languages & Cultures, University of Manchester, Manchester M13 9PL, UK
+7 Archaemedia, Foyle Hill House, Shaftesbury SP7 0PT, UK
+8 Department of Archaeology, Anthropology & Forensic Science, Bournemouth University, Poole BH12 5BB, UK
+?	Author for correspondence (Email: m.parker-pearson@ucl.ac.uk)
+C Antiquity Publications Ltd, 2016
+ANTIQUITY 90 350 (2016): 337–356	doi:10.15184/aqy.2016.26
+  Starting in 2003, the Stonehenge Riverside Project explored the theory that Stonehenge was built in stone for the ancestors, whereas timber circles and other wooden structures were made for the living (Parker Pearson & Ramilisonina 1998). Stonehenge has long been known to contain prehistoric burials (Hawley 1921). Most were undated, so a priority for the project was to establish whether, when and in what ways these dead were associated with the monument. Until excavation in 2008, most of the recovered human remains remained inaccessible for scientific research, having been reburied at Stonehenge in 1935 (Young 1935: 20–21).
+Stonehenge’s human remains
+As reported in a previous issue (Parker Pearson et al. 2009), radiocarbon dating of museum specimens of human bone from Stonehenge (Figure 1) reveals that they date from the third millennium BC (Late Neolithic) to the first millennium AD (Pitts et al. 2002; Hamilton et al. 2007; Parker Pearson et al. 2009; Parker Pearson & Cox Willis 2011). Most of the human remains from Stonehenge were cremated, the excavated sample being recovered largely as cremation deposits by William Hawley between 1920 and 1926. Of these cremated bones, the larger components recognised and hand-collected by Hawley were later reburied, unanalysed, in Aubrey Hole 7 in 1935 (Young 1935: 20–21). This material was re-excavated in2008bytheStonehengeRiversideProjectinordertoassessdemographicstructure,recover pathological evidence and date the burial sequence at Stonehenge. Aubrey Hole 7 was itself investigated to explore whether the Aubrey Holes had formerly held standing stones—the Welsh ‘bluestones’ (Hawley 1921: 30–31; Parker Pearson et al. 2009: 31–33).
+  Hawley excavated cremated remains from many contexts across the south-eastern half of Stonehenge, including the fills of 23 of the 56 Aubrey Holes (AH2–AH18, AH20–AH21, AH23–AH24 & AH28–AH29), the Stonehenge enclosure ditch and the area enclosed by that ditch (Figure 2; Hawley 1921, 1923, 1924, 1925, 1926, 1928). Most of the cremation deposits within the enclosure were found clustered around Aubrey Holes 14–16, with only one (2125) from the centre of the monument, just outside the sarsen circle. Fiftynine deposits of cremated bone are identifiable from Hawley’s records. There was a single grave good: a polished gneiss mace-head from a deposit within the enclosure’s interior (Hawley 1925: 33–34; Cleal et al. 1995: 394–95, 455); pyre goods of bone/antler skewer pins were recovered from Aubrey Holes 5, 12, 13 and 24, and from a deposit in the ditch (Cleal et al. 1995: 409–10). A ceramic object from a disturbed deposit of cremated bone in Aubrey Hole 29 may also be a grave good (Hawley 1923: 17; Cleal et al. 1995: 360–61).
+  Hawley noted that several of the burial deposits had circular margins, suggesting that they had been placed in organic containers such as leather bags. He states that: “in every case [the burials in the Aubrey Holes] had apparently been brought from a distant place for interment” (1928: 158).
+  Young (1935) recorded that four sandbags of bones were brought to the site for reburial in 1935. On re-excavation in 2008, the remains formed an undifferentiated layer at the base of Aubrey Hole 7 (Figure 3). Consequently, it was not possible to distinguish visually either the material from the four sandbags or the original 59 cremation deposits, or to relate the
+
+Figure 1. Stonehenge and its environs on Salisbury Plain (drawn by Josh Pollard).
+remains to the grave or pyre goods. The remains were re-excavated by spit (50mm) and by grid (50mm × 50mm) to allow the formation process to be studied through osteological analysis. The distribution of discrete skeletal elements (e.g. occipital bones, internal auditory meatus (IAM)) deriving from different individuals showed, however, no spatial patterning. This suggests that the remains were thoroughly commingled on deposition rather than having been packed separately by context as individual burials.
+  During re-excavation of Aubrey Hole 7 (Figures 4 & 5), the remains of a hitherto unexcavated cremation burial (007), unaccompanied by any grave goods, was identified
+
+Figure 2. The distribution of third millennium BC burials (in red) at Stonehenge; Aubrey Hole 7 is in the east part of the circle of Aubrey Holes (drawn by Irene de Luis, based on Cleal et al. 1995: tab. 7).
+on the western edge of the Hole. It had a circular margin indicative of a former organic container and was set in its own shallow, bowl-shaped grave (Figure 6).
+  The remains (1173.08g) were identified as those of an adult woman, and were dated to 3090–2900 cal BC (95% confidence; SUERC-30410, 4420±35 BP; and OxA-27086, 4317±33 BP; providing a weighted mean of 4366±25 BP). No stratigraphic relationship survived between the grave and the Aubrey Hole. An adult cremation burial made within the primary fill of Aubrey Hole 32 is dated to 3030–2880 cal BC (OxA-18036, 4332±35 BP; Parker Pearson et al. 2009: 26), so burial 007 may be broadly contemporary with the digging of the Aubrey Holes.
+  The discovery of this grave beside Aubrey Hole 7, in an area already excavated during the 1920s, provides a reminder that Hawley’s methods were not particularly thorough
+
+Figure 3. Cremated human remains being excavated from the base of Aubrey Hole 7 by Jacqui McKinley and Julian Richards. The bone fragments were deposited in this re-opened pit in 1935 (photograph: Mike Pitts).
+(McKinley 1995: 451–55; Pitts 2001: 116–21). An idea of these methods is provided by a diary entry for 25 March 1920: “We sieved the cremated bones [from AH9], keeping the larger ones and casting away the sifted remnant after thoroughly searching” (Hawley 1920: 73). The deposits of bone that Hawley found varied from scattered fragments to the remains of burials; during excavation of Causeway crater 2 on 7 November 1922, he noted that: “There were odd pieces of cremated bone met with occasionally and at one spot about a handful in a small mass” (Hawley 1922: 129). We cannot rule out the possibility that some of these remains might be multiple deposits from single cremations; there may have been a variety of methods of deposition (McKinley 2014).
+  Thus, any assessment of the numbers of such remains and other forms of cremationrelated deposits recovered by Hawley must take into account the likelihood that his retrieval was incomplete. Estimates for the total number of cremation burials at Stonehenge, which range from 150 (Parker Pearson et al. 2009: 23) to 240 (Pitts 2001: 121), must remain informed guesswork.
+Ages of the individuals from Aubrey Hole 7
+During examination of the well-preserved bone retrieved from Aubrey Hole 7 in 2008, a minimum number of individuals (MNI) of 22 adults and five sub-adults was determined by counting the most frequently occurring skeletal element in each of the broad age categories. Fragments of 24 right petrous temporal bones (incorporating internal auditory meati (IAM)) were identified. The second most commonly recovered skeletal element is the occipital bone, of which 22 adult examples were recovered.
+
+Figure 4. Aubrey Hole 7 after removal of the re-deposited cremated bone fragments, viewed from the south. The hole for the intact cremation burial is on the left side of the pit.
+  The MNI of five immature individuals represented in the assemblage was established by looking for the most frequently occurring duplicate elements, and noting obvious agerelated differences in bone growth and development. There was no duplication of skeletal elements within any of the sub-adult age categories, so it can be assumed that only one individual is represented from each (Table 1). Shrinkage was taken into consideration in determining broad age ranges, but more precise determinations of age at death were not possible owing to the fragmented nature of the cremated bones (see McKinley 1997: 131).
+  A MNI of seven adults was identified from fragments of two pubic symphyses and nine auricular surfaces (left and right hips; Table 1). The former indicate individuals aged 15–24 years (Suchey & Brooks 1990) and the latter indicate individuals aged between 25 and 49 years of age (Lovejoy et al. 1985).
+  Some form of intervertebral disc disease (IVDD) was noted in five cervical, six thoracic, three lumbar and one sacral vertebrae (from one or more individuals), all exhibiting osteophytosis along the body surface margins, suggesting mature or older adults. A fragment of molar tooth root showing severe occlusal wear (down to the tooth root) provides further evidence for an older adult.
+  The total MNI of 27 is considerably less than might be expected from Hawley’s record of 59 cremation burials. The quantity of bone included originally in each burial will have varied (see McKinley 1997). For example, Hawley noted that, while most Aubrey Hole burials “seemed to contain all the bones” (1928: 158), burials into the fill of the ditch “were chiefly small and insignificant little collections” (1924: 33).
+  Analysis of ages reveals a high ratio (4.4:1) of adults (n=22) to sub-adults amongst the MNI of 27. Given the smaller sizes of the elements, sub-adult cremated bone fragments are usually more easily recognised, and should thus be well identified against the mass of
+
+Figure 5. Plan of Aubrey Hole 7 and the intact cremation burial to its west (in Cut 008; drawn by Irene de Luis).
+fragmented adult bones. Very few sub-adult bone fragments were, however, recovered from the re-buried assemblage from Aubrey Hole 7. The original ratio of adults to sub-adults in Hawley’s 59 deposits would probably have been much higher.
+  The ratio of adults to sub-adults among Stonehenge’s cremation deposits does not follow expected mortality curves for pre-industrial populations (Chamberlain 2006), where child mortality has been estimated at 30 per cent or more of all deaths (Lewis 2006: 22). The Aubrey Hole 7 ratio is also higher than those recorded for British earlier Neolithic burials of the fourth millennium BC in southern Britain, where the average ratio is 3.9:1 (Smith & Brickley 2009: 87–90). Thus, there may have been a preference for adults to be buried at Stonehenge as opposed to juveniles, children or infants.
+Sex of the individuals in Aubrey Hole 7
+Forensic and archaeological advances in analysing non-cremated and cremated IAMs have produced reliable techniques for determining sex by measuring the lateral angle of the
+
+Figure 6. The intact cremation deposit of an adult woman beside Aubrey Hole 7 during excavation, viewed from the south (photograph: Mike Pitts).
+internal acoustic canal (Wahl & Graw 2001; Lynnerup et al. 2005; Noren´ et al. 2005). This was achieved by taking measurements from CT scans of each of the 24 right and 16 left IAMs from Aubrey Hole 7 (Figure 7). The results from the lateral angles reveal nine males and fourteen females (three are undeterminable). There are potentially some sub-adult IAMs within this assemblage, so these CT-scan results are considered to provide a count for the entire assemblage, not just for adults.
+  Biological sex was also determined from the 22 adult occipital bones: nine are identified as male, and five as female. Given the small sample size, it is not possible to say more than that numbers of males and females were roughly equal.
+Pathology
+The most commonly occurring pathology is IVDD, resulting in changes to the spinal column. Many vertebral bodies exhibit mild to moderate osteophytosis (new bone growth) around their margins, and Schmorl’s nodes (indentations) on their surfaces (Rogers & Waldron 1995: 20–31). Also noted were changes to the neck of a femur and to the intercondylar ridge of a distal femur, linked to osteoarthritis affecting the synovial joints. These changes are most often the result of advanced age but can also derive from occupation, genetic disposition and a highly calorific diet (Roberts & Cox 2003: 32).
+  Periostitis, a non-specific disease affecting the periosteum (connective tissue on the surface of the bones) that results in new bone growth, was noted on fragments of a clavicle, a fibula, a radius and a tibia. Periostitis can be caused by injury, chronic infection or overuse of a particular body part.
+  The distal fifth of a left femur had a defect in the popliteal fossa on the back of the bone just above the femoral condyles (Figure 8), likely to result from the pulsatile pressure caused
+Table 1. Ageing descriptions for bone fragments from Aubrey Hole 7, identifying those bones from which age was determined in each category. The occipital bones and internal auditory meati do not appear in this table; the full sample MNI of 27 is calculated from the adult occipitals and the five sub-adults shown here.
+CategoryBroad age rangeMNIAge-diagnostic skeletal fragmentsFoetus–neonateconception–1 month after birth1scapula?Infant1 month–1 year1mandible, humerus, ulna, ribs, femur?Young child1–5 years1maxilla, humerus, radius, scapula, clavicle, sacrum, pelvis, femur, tibia, patella, metacarpals/metatarsals?Older child5–12 years1maxilla, teeth, humerus, radius, clavicle, ribs, femur, tibia, metacarpals/metatarsals?Juvenile12–18 years1clavicle, femur, tibia, patella?Young adult18–35 years3pubis and auricular surfacesMature adult35–50 years4auricular surfacesOlder adult50+ years1intervertebral disc disease (IVDD) in the spine, severe dental wear to tooth root? As there was no duplication of bones within the sub-adult categories, it is assumed that there is only one individual in each sub-adult age range.
+
+Figure 7. An example of a CT scan’s axial slice through a petrous bone (from grid square 355) to measure the lateral angle of the internal auditory meatus.
+by an aneurysm of the popliteal artery (a widening of the femoral artery where it passes through the popliteal fossa). This condition is rare in women but occurs among 1 per cent of men aged 65–80, and was common in the eighteenth and nineteenth centuries among horsemen, coachmen and young men in physically demanding jobs (Suy 2006). This is the first-recorded palaeopathological case of an aneurysm of the popliteal artery from any archaeological assemblage.
+Radiocarbon dating
+Although the internal auditory meati provided the largest MNI from Aubrey Hole 7, it was decided to select the occipital bones for destructive sampling for radiocarbon dating because of the greater potential of the complex structure of the IAMs to yield future insights into the lives of these individuals buried at Stonehenge. Twentyone adult/probable-adult occipital bone fragments were dated (one was omitted), along with three sub-adult bone fragments. The foetus and infant bone fragments were omitted because they would have been entirely destroyed by sampling. All samples were submitted to the Oxford Radiocarbon Accelerator Unit (ORAU) and samples from six of the 21 adults dated at Oxford were also dated at the Scottish Universities Environmental Research Centre (SUERC)
+Figure 8. A defect in the popliteal fossa on the back of a femur. The defect is oval in shape with its long axis orientated in the long axis of the bone (25.5 × 21.8mm and approximately 10mm in depth); the edges of the lesion are smooth with no evidence of remodelling, and its walls are smooth. It was probably caused by a popliteal aneurysm (photograph: Stuart Laidlaw).as part of a quality assurance programme.
+  Five of the six replicate measurements are statistically consistent (Table 2), with only the measurements on sample 225 (OxA-27089 and SUERC-42886) being statistically inconsistent at 95% confidence(T’=5.5;?=1;T’(5%)=3.8).Themeasurementsonsample225arestatisticallyconsistentat 99% confidence (T’=5.5; ?=1; T’(1%)=6.6), and thus weighted means of all the replicate determinations have been taken as providing the best estimate of the dates of death of these six individuals.
+  Previously dated human remains from the third millennium BC at Stonehenge include two fragments of unburnt adult skull from different segments of the ditch (OxA-V-2232-46 & OxA-V-2232-47; Parker Pearson et al. 2009: 28–29), and cremated bone from Aubrey Hole 32 (see above) and two contexts in the ditch. One of these ditch contexts (3893) contained 77.4g of cremated bone (McKinley 1995: 457), from which a fragment of a young/mature adult radius dates to 2570–2360 cal BC (OxA-17958, 3961±29 BP; Parker Pearson et al. 2009: 26). The other two cremated specimens, both from ditch context 3898,
+  
+Table 2. Radiocarbon dates on cremated human remains from Aubrey Hole 7 and adjacent deposit 007.
+Laboratory numberSample
+referenceMaterial?13C (‰)Radiocarbon age (BP)Weighted meanCalibrated date, cal
+BC (95%
+confidence)Aubrey Hole 7 OxA-26962
+OxA-26963 OxA-26964
+OxA-26965
+OxA-26966
+SUERC-42892
+OxA-27045
+OxA-27046
+SUERC-42893
+OxA-27047
+OxA-27048
+OxA-27049
+OxA-27077
+SUERC-42885
+OxA-27078
+OxA-27079
+SUERC-42883110
+173 221
+223
+227
+227A
+246
+255
+255A
+280
+281
+288
+307
+307A
+330
+334
+334Acremated human occipital bone, probable adult, ?female cremated human occipital bone, probable adult cremated human occipital bone, probable adult cremated human occipital bone, adult, ?male cremated human occipital bone, probable adult, ?female
+as OxA-26966 cremated human occipital bone, adult cremated human occipital bone, probable adult
+as OxA-27046 cremated human occipital bone, adult male cremated human occipital bone, adult, ?male cremated human occipital bone, adult, ?male cremated human occipital bone, adult male
+as OxA-27077 cremated human occipital bone, adult,
+cremated human occipital bone, probable adult, ?female
+as OxA-27079–22.0 –23.5
+–24.3
+–22.6
+–23.7
+–19.7 –21.5
+–18.5
+–20.8 –21.8
+–22.4
+–22.5
+–24.9
+–24.4 –24.2
+–22.8
+–22.341014281416843584325±±±±±3134313029
+410741954456±±±193631
+4164±1931
+4210423743774418±±±±313031
+438543914255±±±203330
+4394	184125(T’(5%)T’±=163.1=BP; ?3.8)=1; 4173(T’(5%)T’±=170.7=BP;3.8)?=1;
+(
+4395T’(5%)T’±=170.8=BP;3.8)?=1;
+4393(T’(5%)T’±=160.0=BP;3.8)?=1;2920–2870
+3090–2890
+3020–2890
+2870–2500
+2865–2585
+3340–2940
+2880–2675
+3100–2900
+2900–2690
+2910–2750
+3095–2920
+2920–2790
+3090–2920±
+Research
+Table 2. Continued.
+Laboratory numberSample
+referenceMaterial?13C (‰)Radiocarbon age (BP)Weighted meanCalibrated date, cal
+BC (95%
+confidence)OxA-27080
+SUERC-42895
+OxA-27081 OxA-27082 OxA-27083
+OxA-27091 OxA-27084 OxA-27085357
+357A
+366 389
+390b
+390b
+596 211cremated human occipital bone, adult male
+as OxA-27080 cremated human occipital bone, probable adult, ?female cremated human occipital bone, probable adult, ?female cremated human occipital bone, adult
+as OxA-27083 cremated human occipital bone, adult male
+cremated human proximal left diaphyseal humerus bone, child, 5–12 years–22.5
+–22.6 –23.0 –19.9
+–19.8
+–20.6 –20.3 –23.34325±32
+4350434844044261±±±±19303026
+434042554364±±±3030314344(T’(5%)T’±=170.5=BP;3.8)?=1;
+4258(T’(5%)T’±=220.0=BP;3.8)?=1;3020–2900
+3090–2890
+3270–2910
+2910–2875
+3090–2900
+3080–2890OxA-27089
+SUERC-42886
+OxA-27090 OxA-27092225
+225A
+336 344cremated human occipital bone, adult male
+as OxA-27089 cremated human occipital bone, probable adult cremated human right diaphyseal humerus bone, child, 1–5 years–20.9
+–21.6 –23.5 –23.64132±31
+442642194413±±±3320324194(T’(5%)T’±=175.5=BP;3.8)?=1;2890–2695
+3310–2910
+3330–2920OxA-27093382+323cremated human proximal left femoral diaphysis bone, juvenile, 12–18 years–23.44180±342890–2630OxA-30294289cremated human occipital bone, adult male–21.74392±303095–2920Cremation deposit adjacent to AH7
+SUERC-30410	007	cremated human bone, femoral shaft fragment
+OxA-27086	007	cremated human bone, femoral shaft fragment–21.54420±35
+4317	334366(T’(5%)T’±=254.6=BP;3.8)?=1;3090–2900±
+  
+date to 2920–2870 cal BC (SUERC-42882, 4289±20 BP; combined with OxA-17957, 4271±29 BP); one of these (if not both) is from a young woman aged around 25 years.
+  Finally, a human tooth from the SPACES project 2008 trench at Stonehenge dates to 2470–2210 cal BC (OxA-18649, 3883±31 BP; Darvill & Wainwright 2009). This has been excluded from this study because it was found immediately below the turf in soil that may not be from Stonehenge (the turf was laid some 20–25 years ago, and may incorporate topsoil from nearby).
+  The radiocarbon dates from all dated human remains group between 3100 and 2600 cal BC (Figure 9), except for one cremation-related deposit dating to 2570–2360 cal BC (context 3893; OxA-17958) and the Beaker-period inhumation burial (Evans 1984) dating to 2400–2140 cal BC (Cleal et al. 1995: 532–33). The measurements are not, however, statistically consistent (T’= 1339.4; ?=38.7; T’(5%)= 26; Ward & Wilson 1978), so they represent more than one burial episode.
+Chronological modelling
+Bayesian statistical modelling was employed because these radiocarbon dates all come from the same site (Buck et al. 1992; Bayliss et al. 2007). A standard approach to modelling, when dealing with chronological outliers such as ditch context 3893, would be to eliminate them manually from the analysis. This was considered an unsuitable method to apply to this assemblage because the late cremation-related deposits (including burials) in the ditch— “small and insignificant little collections” (Hawley 1928: 157), such as the Beaker-period cremated remains from context 3893—appear to be under-represented or entirely missing from the Aubrey Hole 7 sample. Therefore the chronological outliers from Hawley’s ditch contexts are of great significance, especially for the cemetery’s end-date.
+  More useful are trapezoidal models for phases of activity (Lee & Bronk Ramsey 2013) in situations where we expect activity to follow the pattern of a gradual increase, then a period of constant activity and finally a gradual decrease, unlike the assumptions of a uniform model (Buck et al. 1992). The model shown in Figure 10 uses the trapezoid model of Karlsberg (2006) as implemented in OxCal v4.2 (Lee & Bronk Ramsey 2013).
+  A trapezoid prior model more accurately reflects the uncertainties in processes such as the use of a cremation cemetery: in uniform models there is an abrupt increase from no use to maximum use, while the trapezoid model allows for gradual change. The parameters from the trapezoid model represent the very first and last use, and this model is preferred over others because we do not have the archaeological information to show that there were any abrupt changes a priori.
+  This model has good overall agreement (Amodel=93) and provides an estimate for the first burial of 3180–2965 cal BC (95% probability: start_of_start; Figure 10) or 3075– 2985 cal BC (68% probability). This model estimates that the last burial took place in 2830–2685 cal BC (40% probability: end_of_end; Figure 10) or 2565–2380 cal BC (55% probability) and probably 2825–2760 cal BC (28% probability) or 2550–2465 cal BC (40% probability). The model estimates that burial of cremation deposits took place for 170–715 years (95% probability) and probably 225–345 years (26% probability) or 485–650 years (42% probability).
+C
+
+Figure 9. Probability distributions of third millennium cal BC dates on cremated and unburnt human remains from Stonehenge. The distributions are the result of simple radiocarbon calibration (Stuiver & Reimer 1993).
+The development of the cemetery
+The date of 2990–2755 cal BC (95% probability; Ditch_constructed; Marshall et al. 2012: fig. 6) for the digging of the ditch in Stonehenge’s first stage (Darvill et al. 2012: 1028) accords well with the dates of the earliest cremation burials. The use of Stonehenge as a cemetery probably ended with the Beaker-period inhumation burial after 2140 cal BC,
+
+Figure 10. Probability distributions of dates from Stonehenge’s third millennium cal BC burials (trapezium model), excluding the Beaker-period inhumation (Evans 1984) dating to 2400–2140 cal BC.
+by which time Stonehenge stages 2 and 3 were completed (Darvill et al. 2012: 1026). Thus, burials began at Stonehenge before, and continued beyond, the stage when the sarsen trilithons and circle were erected.
+  The re-cutting of the ditch after 2450–2230 cal BC (Darvill et al. 2012: 1038) means that all cremation-related deposits from its upper fills—as many as 15 of Hawley’s “small and insignificant little collections” (1928: 157)—probably date to after 2450 cal BC. Yet only context 3893 has been radiocarbon-dated to this period (Beaker Age), presumably because none of these 15 deposits from the ditch’s upper fills (25 per cent of Hawley’s 59 deposits re-buried in Aubrey Hole 7) was substantial enough to include identifiable occipital bones.
+  Hawley noted that, in contrast, most of the burials in Aubrey Holes “seemed to contain all the bones” (1928: 158), so the dated occipital bones from Aubrey Hole 7 therefore probably provide a representative sample of the individuals originally buried in these pits. Some, such as the adult in the packing of Aubrey Hole 32, were buried at the time of the digging-out of the pit circle. Hawley (1923: 17) considered that others were buried while a pillar stood in the hole: he remarks that the upper edges of many Aubrey Holes had bowl-shaped recesses for containing cremated remains, indicating that interments were made against standing stones after they were erected. He also records one cremation-related deposit that was placed in its Aubrey Hole (24) after the standing stone had been withdrawn (Hawley 1921: 31; he mis-numbered this hole 21). The hypothesis that human cremated remains were introduced into the Aubrey Holes when bluestones were erected within them during stage 1 of Stonehenge, and subsequently (until the bluestones were removed for constructing stage 2), is supported by the date range for the occipital bones.
+  The chronological distribution of age and sex within the cemetery reveals that men and women were buried at Stonehenge from its inception, and that both sexes continued to be buried over the following centuries. This lack of sexual bias is of interest when considering the probable higher social status of those buried, and when compared with higher ratios of adult males to females in earlier Neolithic tombs in southern Britain (Smith & Brickley 2009: 88–90). Stonehenge was a cemetery for a selected group of people who were treated separately from the rest of the population. It was surely a powerful, prestigious site in the Neolithic period, with burial there being a testament to a culture’s commemoration of the chosen dead.
+Cremation practices in Late Neolithic Britain (c. 3000–2500 BC)
+There are very few human remains in Britain dated to the early and mid third millennium cal BC, a period when the rite of inhumation burial seems, by and large, not to have been practised (see Healy 2012 for rare exceptions). Cremation burials that are probably of this date are known from a growing number of sites (Parker Pearson et al. 2009: 34– 36). Stonehenge is the largest-known cemetery from this period, with small cemeteries or groups of burials excavated from former stone circles or stone settings at Forteviot (Noble & Brophy 2011), Balbirnie (Gibson 2010), Llandygai (formerly Llandegai; Lynch & Musson 2004) and Cairnpapple (Sheridan et al. 2009: 214), and from circular enclosures at Imperial College Sports Ground (Barclay et al. 2009) and Dorchester-on-Thames (Atkinson et al. 1951). Cremation burials that may date to this period have also been found at Flagstones (Healy 1997), Barford (Oswald 1969), Duggleby Howe (Mortimer 1905) and West Stow (West 1990).
+  The growing recognition of the extent and number of Late Neolithic cremation burials and cemeteries across Britain has largely resulted from the ability to radiocarbon-date cremated bone in unaccompanied cremation burials. It is now possible to recognise in Britain a major phase, lasting half a millennium, during which cremation was practised almost exclusively. This followed the collective and individual inhumation rites of the Early and Middle Neolithic but occurred prior to the inhumation rites of the Beaker period.
+  With so few cremation burials independently dated, let alone known from this period, the Stonehenge assemblage is the largest and most important in Britain, regardless of the significance of the site itself. Although scattered examples of cremation burial are recorded in the British Early Neolithic (Smith & Brickley 2009: 57–60; Fowler 2010: 10–11), Stonehenge and other Late Neolithic sites mentioned above are the first-known cremation cemeteries in Britain.
+  In contrast, the evidence from Ireland shows a more continuous and extensive tradition of cremation burial stretching back to the first half of the fourth millennium BC (e.g. O’Sullivan 2005; Bergh & Hensey 2013; Cooney 2014). It is possible that the widespread adoption of cremation in Late Neolithic Britain may have been influenced by mortuary practices in Ireland.
+Conclusion
+Our research shows that Stonehenge was used as a cremation cemetery for mostly adult men and women for around five centuries, during and between its first two main stages of construction. In its first stage, many burials were placed within and beside the Aubrey Holes. As these are believed to have contained bluestones, there seems to have been a direct relationship between particular deceased individuals and standing stones.
+  Human remains continued to be buried during and after Stonehenge’s second stage, demonstrating its continuing association with the dead. Most of these later burials appear, however, to have been placed in the ditch around the monument’s periphery, leaving the stones, now grouped in the centre of the site, distant from the human remains.
+  Stonehenge changed from being a stone circle for specific dead individuals linked to particular stones, to one more diffusely associated with the collectivity of increasingly longdead ancestors buried there. This is consistent with the interpretation of Stonehenge’s stage 2 as a domain of the eternal ancestors, metaphorically embodied in stone (Parker Pearson & Ramilisonina 1998; Parker Pearson 2012).
+Technical note
+The calibrated date ranges for the radiocarbon samples were calculated using the maximum intercept method (Stuiver & Reimer 1986), and are quoted with end points rounded outwards to 10 years, or 5 years if the error is <25 years. The probability distributions of the calibrateddates,calculatedusingtheprobabilitymethod(Stuiver&Reimer1993),areshown in Figures 9 & 10. They have been calculated using OxCal v4.1.7 (Bronk Ramsey 2009) and the internationally agreed atmospheric calibration dataset for the northern hemisphere, IntCal09 (Reimer et al. 2009).
+Acknowledgements
+WethankAmandaChadburnforhelpingustomeetEnglishHeritage’srequirementsforsamplingforradiocarbon dating, and David Sugden and Charles Romanowski of the Royal Hallamshire Hospital for scanning and measuring of petrous canals. Useful comments on the manuscript were provided by Duncan Garrow and Derek Hamilton. Funding was provided by the AHRC (Feeding Stonehenge Project; AH/H000879/1) and Oxford
+  
+Scientific Films.
+References
+ATKINSON, R.J.C., C.M. PIGGOTT & N. SANDARS.
+1951. Excavations at Dorchester, Oxon. Oxford: Ashmolean Museum.
+BARCLAY, A., N. BEACAN, P. BRADLEY, G. CHAFFEY,
+D. CHALLINOR, J.I. MCKINLEY, A. POWELL &
+P. MARSHALL. 2009. New evidence for mid–late Neolithic burial from the Colne valley, west London. Past 63: 4–6.
+BAYLISS, A., C. BRONK RAMSEY, J. VAN DER PLICHT & A. WHITTLE. 2007. Bradshaw and Bayes: towards a timetable for the Neolithic. Cambridge Archaeological Journal 17 supplement: 1–28. http://dx.doi.org/10.1017/S0959774307000145
+BERGH, S. & R. HENSEY. 2013. Unpicking the chronology of Carrowmore. Oxford Journal of Archaeology 34: 343–66. http://dx.doi.org/10.1111/ojoa.12019
+BRONK RAMSEY, C. 2009. Bayesian analysis of radiocarbon dates. Radiocarbon 51: 337–60.
+BUCK, C.E., C.D. LITTON & A.F.M. SMITH. 1992. Calibration of radiocarbon results pertaining to related archaeological events. Journal of Archaeological Science 19: 497–512. http://dx.doi.org/10.1016/0305-4403(92)90025-X
+CHAMBERLAIN, A.C. 2006. Demography in archaeology.
+Cambridge: Cambridge University Press. http://dx.doi.org/10.1017/CBO9780511607165
+CLEAL, R.M.J., K.E. WALKER & R. MONTAGUE. 1995.
+Stonehenge in its landscape: twentieth-century excavations. London: English Heritage.
+COONEY, G. 2014. The role of cremation in mortuary practice in the Irish Neolithic, in I. Kuijt,
+C.P. Quinn & G. Cooney (ed.) Transformation by fire: the archaeology of cremation in cultural context: 189–206. Tucson: University of Arizona Press.
+DARVILL, T.C. & G.J. WAINWRIGHT. 2009. Stonehenge excavations 2008. The Antiquaries Journal 89: 1–19.
+http://dx.doi.org/10.1017/S000358150900002X
+DARVILL, T.C., P. MARSHALL, M. PARKER PEARSON & G.J. WAINWRIGHT. 2012. Stonehenge remodelled. Antiquity 86: 1021–40. http://dx.doi.org/10.1017/S0003598X00048225 EVANS, J.G. 1984. Stonehenge—the environment in the Late Neolithic and Early Bronze Age and a Beaker-age burial. Wiltshire Archaeological and Natural History Magazine 78: 7–30.
+FOWLER, C.J. 2010. Pattern and diversity in the Early Neolithic mortuary practices of Britain and Ireland: contextualising the treatment of the dead. Documenta Praehistorica 37: 1–22. http://dx.doi.org/10.4312/dp.37.1
+GIBSON, A. 2010. Dating Balbirnie: recent radiocarbon dates from the stone circle and cairn at Balbirnie, Fife, and a review of its place in the overall
+Balfarg/Balbirnie site sequence. Proceedings of the Society of Antiquaries of Scotland 140: 51–77.
+HAMILTON, D., M. PITTS & A. REYNOLDS. 2007. A revised date for the early medieval execution at Stonehenge. Wiltshire Archaeological and Natural History Magazine 100: 202–203.
+HAWLEY, W. 1920. Diaries. Unpublished manuscript, Salisbury and South Wiltshire Museum.
+– 1921. The excavations at Stonehenge. The Antiquaries Journal 1: 19–39.
+– 1922. Diaries. Unpublished manuscript, Salisburyand South Wiltshire Museum.
+– 1923. Third report on the excavations at Stonehenge.
+The Antiquaries Journal 3: 13–20.
+http://dx.doi.org/10.1017/S0003581500004558
+– 1924. Fourth report on the excavations atStonehenge. The Antiquaries Journal 4: 30–39. http://dx.doi.org/10.1017/S0003581500005357
+– 1925. Report of the excavations at Stonehenge duringthe season of 1923. The Antiquaries Journal 5:
+21–50. http://dx.doi.org/10.1017/S0003581500015250
+– 1926. Report on the excavations at Stonehenge duringthe season of 1924. The Antiquaries Journal 6: 1–25.
+http://dx.doi.org/10.1017/S0003581500013184
+– 1928. Report on the excavations at Stonehenge during1925 and 1926. The Antiquaries Journal 8: 149–76. http://dx.doi.org/10.1017/S0003581500012063 HEALY, F. 1997. Site 3. Flagstones, in R.J.C. Smith,
+F. Healy, M.J. Allen, E.L. Morris, I. Barnes & P.J. Woodward (ed.) Excavations along the route of the Dorchester by-pass, Dorset, 1986–8: 27–48. Salisbury: Wessex Archaeology.
+– 2012. Chronology, corpses, ceramics, copper andlithics, in M.J. Allen, J. Gardiner & A. Sheridan (ed.) Is there a British Chalcolithic? People, place and polity in the later 3rd millennium: 144–63. Oxford: Oxbow.
+KARLSBERG, A.J. 2006. Flexible Bayesian methods for archaeological dating. Unpublished PhD dissertation, University of Sheffield.
+LEE, S. & C. BRONK RAMSEY. 2013. Development and application of the trapezoidal model for archaeological chronologies. Radiocarbon 54:
+107–22. http://dx.doi.org/10.2458/azu_js_rc.v54i1.12397
+LEWIS, M. 2006. The bioarchaeology of children: perspectives from biological and forensic anthropology.
+Cambridge: Cambridge University Press. http://dx.doi.org/10.1017/CBO9780511542473
+LOVEJOY, C.O., R.S. MEINDL, T.R. PRYZBECK & R.P. MENSFORTH. 1985. Chronological metamorphosis of the auricular surface of the ilium: a new method for the determination of adult skeletal age at death. American Journal of Physical Anthropology 68: 15–28. http://dx.doi.org/10.1002/ajpa.1330680103
+LYNCH, F. & C. MUSSON. 2004. A prehistoric and early medieval complex at Llandegai, near Bangor, north Wales. Archaeologia Cambrensis 150: 17–142.
+LYNNERUP, N., M. SCHULZ, A. MADELUNG & M. GRAW. 2005. Diameter of the human internal acoustic meatus and sex determination. International Journal of Osteoarchaeology 16:
+118–23. http://dx.doi.org/10.1002/oa.811
+MARSHALL, P., T.C. DARVILL, M. PARKER PEARSON &
+G.J. WAINWRIGHT. 2012. Stonehenge, Amesbury, Wiltshire: chronological modelling (Research Report Series 1/2012). London: English Heritage.
+MCKINLEY, J.I. 1995. Human bone, in R.M.J. Cleal, K.E. Walker & R. Montague (ed.) Stonehenge in its landscape: twentieth-century excavations: 451–61. London: English Heritage.
+– 1997. Bronze Age ‘barrows’ and funerary rites andrituals of cremation. Proceedings of the Prehistoric Society 63: 129–45. http://dx.doi.org/10.1017/S0079497X00002401
+– 2014. Cremation in archaeological contexts, inC. Smith (ed.) Global encyclopaedia of archaeology: 1730–38. New York: Springer. http://dx.doi.org/10.1007/978-1-4419-0465-2
+MORTIMER, J.R. 1905. Fifty years’ researches in British and Saxon burial mounds of East Yorkshire. London: A. Brown & Sons.
+NOBLE, G. & K. BROPHY. 2011. Ritual and remembrance at a prehistoric ceremonial complex in central Scotland: excavations at Forteviot, Perth and Kinross. Antiquity 85: 787–804.
+http://dx.doi.org/10.1017/S0003598X00068319
+NOREN´ , A., N. LINNERUP, A. CZARNETZKI & M. GRAW. 2005. Lateral angle: a method for sexing using the petrous bone. American Journal of Physical Anthropology 128: 318–23. http://dx.doi.org/10.1002/ajpa.20245
+O’SULLIVAN, M. 2005. Duma na nGiall: the Mound of the Hostages, Tara. Bray: Wordwell.
+OSWALD, A. 1969. Excavations at Barford, Warwickshire. Transactions of the Birmingham and Warwickshire Archaeological Society 83: 3–54.
+PARKER PEARSON, M. 2012. Stonehenge: exploring the greatest Stone Age mystery. London: Simon & Schuster.
+PARKER PEARSON, M. & C. COX WILLIS. 2011. Burials and builders of Stonehenge: social identities in Late Neolithic and Chalcolithic Britain, in M. Furholt, F. Luth & J. M¨	uller (ed.)¨	Megaliths and identities: early monuments and Neolithic societies from the
+Atlantic to the Baltic: 285–93. Bonn: Rudolf Habelt.
+PARKER PEARSON, M. & RAMILISONINA. 1998.
+Stonehenge for the ancestors: the stones pass on the message. Antiquity 72: 308–26. http://dx.doi.org/10.1017/S0003598X00086592
+PARKER PEARSON, M., A. CHAMBERLAIN, M. JAY, P. MARSHALL, J. POLLARD, C. RICHARDS, J. THOMAS, C. TILLEY & K. WELHAM. 2009. Who was buried at Stonehenge? Antiquity 83: 23–39.
+  http://dx.doi.org/10.1017/S0003598X00098069 PITTS, M.W. 2001. Hengeworld. London: Arrow.
+PITTS, M.W., A. BAYLISS, J.I. MCKINLEY, A. BOYLSTON,
+P. BUDD, J. EVANS, C. CHENERY, A. REYNOLDS & S. SEMPLE. 2002. An Anglo-Saxon decapitation and burial at Stonehenge. Wiltshire Archaeological and Natural History Magazine 95: 131–46.
+REIMER, P.J, M.G.J. BAILLIE, E. BARD, A. BAYLISS,
+J.W. BECK, P.G. BLACKWELL, C. BRONK RAMSEY, C.E. BUCK, G.S. BURR, R.L. EDWARDS,
+M. FRIEDRICH, P.M. GROOTES, T.P. GUILDERSON,
+I. HAJDAS, T.J. HEATON, A.G. HOGG, K.A. HUGHEN, K.F. KAISER, B. KROMER, G. MCCORMAC, S. MANNING, R.W. REIMER,
+S. REMMELE, D.A. RICHARDS, J.R. SOUTHON,
+S. TALAMO, F.W. TAYLOR, C.S.M. TURNEY, J. VAN
+DER PLICHT & C.E. WEYHENMEYER. 2009.
+IntCal09 and Marine09 radiocarbon age calibration curves, 0–50,000 years cal BP. Radiocarbon 51: 1111–50.
+ROBERTS, C. & M. COX. 2003. Health and disease in Britain: from prehistory to the present day. Stroud: Sutton.
+ROGERS, J. & T. WALDRON. 1995. A field guide to joint disease in archaeology. Chichester: John Wiley & Sons.
+SHERIDAN, J.A., R.J. BRADLEY & R. SCHULTING. 2009. Radiocarbon dates arranged through National Museums Scotland Archaeology Department during 2008/9. Discovery and Excavation in Scotland 10: 212–14.
+SMITH, M. & M. BRICKLEY. 2009. People of the long
+barrows: life, death and burial in the earlier Neolithic. Stroud: History Press.
+STUIVER, M. & P.J. REIMER. 1986. A computer program for radiocarbon age calculation. Radiocarbon 28: 1022–30.
+– 1993. Extended 14C data base and revised CALIB 3.0 14C age calibration program. Radiocarbon 35: 215–30.
+SUCHEY, J. & S. BROOKS. 1990. Skeletal age determination based on the os pubis: a comparison of the Acsadi–Nemesk´	eri and Suchey–Brooks´ methods. Human Evolution 5: 227–38. http://dx.doi.org/10.1007/BF02437238
+SUY, R. 2006. The varying morphology and aetiology of arterial aneurysms: a historical review. Acta Angiologia 12: 1–6.
+WAHL, J. & M. GRAW. 2001. Metric sex differentiation of the pars petrosa ossis temporalis. International Journal of Legal Medicine 114: 215–23. http://dx.doi.org/10.1007/s004140000167
+WARD, G.K. & S.R. WILSON. 1978. Procedures for comparing and combining radiocarbon age determinations: a critique. Archaeometry 20: 19–31. http://dx.doi.org/10.1111/j.1475-4754.1978. tb00208.x
+WEST, S. 1990. West Stow: the prehistoric and
+Romano-British occupations (East Anglian Archaeology Reports 48). Norwich: East Anglian Archaeology.
+YOUNG, W. 1935. Leaves from my journal VII. Unpublished manuscript, Library of the Wiltshire Archaeological Society, Devizes.
+  
+
+Received: 26 February 2015; Accepted: 21 May 2015; Revised: 5 June 2015
+Christie Willis et al.
+  
+The dead of Stonehenge
+  
+C Antiquity Publications Ltd, 2016
+338
+  
+C Antiquity Publications Ltd, 2016
+339
+  
+
+  
+337
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+Christie Willis et al.
+  
+The dead of Stonehenge
+  
+C Antiquity Publications Ltd, 2016
+338
+  
+C Antiquity Publications Ltd, 2016
+339
+  
+The dead of Stonehenge
+  
+Antiquity Publications Ltd, 2016
+349
+  

@@ -1,0 +1,32 @@
+NOTES AND NEWS	131
+
+HENSHALL, A. s. 1963. The chambered tombs of Scotland, Vol. I (Edinburgh).
+1972. The chambered tombs of Scotland, Vol. 2 (Edinburgh).
+MEGAW, J. V. S. & D. D. A. SIMPSON. 1979. Introduction to British prehistory (Leicester).
+MORRIS, R. w. B. 1977. The prehistoric rock art of Argyll (Poole, Dorset).
+O'KELLY, c. 1973. Passage-grave art in the Boyne Valley, Ireland, Proc. Prehist. Soc., xxxrx (1973), 354—82.
+ORDNANCE SURVEY. n.d. Antiquity Record Cards. Housed at 125, George St., Edinburgh, EH2 4TD.
+RCAMS. 1946. Twelfth report with an inventory of the ancient monuments of Orkney and Shetland. 3 vols. (Edinburgh).
+Another way to lift the Stonehenge lintelsSIMPSON, D. D. A. J. E. THAWLEY. 1973. Single grave art in Britain, Scot. Arch. Forum. 4 (for 1972), 81—104.
+
+This note offers a third possibility for the methods by which the lintels could have been raised. It is less refined than Mr Garfitt's proposed use of sheerlegs (Antiquity, LIV, 1980, 142—4), but more economical in manpower, and only slightly more extravagant in the use of timber. The lintels are raised by rocking them on a stack of squared timbers built up one at a time and wedged between the upright stones (FIG, 1).
+  The calculations which follow are intended merely to demonstrate the feasibility of the method. Among other uncertainties, the forces needed depend on the spacing between the upright stones, and this is not exactly constant. In the diagram, which represents a fairly typical stretch of the sarsen circle, this spacing is taken as 1•25 m. A supply of squared balks is needed, each about m long, m wide, and m thick; untrimmed treetrunks might serve, but without experiment it is not possible to say whether they could be wedged firmly enough to prevent rolling. A beam about seven metres long is lashed firmly to the upper side of the lintel, and cross-beams are fixed at each end. Treating the problem as one in statics, and
+
+
+	o	5m
+
+Fig. r. Possible method for raising Stonehenge lintels
+132 ANTIQUITY
+
+assuming the balks to be rigid, the force required at each end ofthe beam is 7000 X 0•625 + 69 —634 kg, so , allowing a pull or push of 50kg(about a hundredweight) each, 14 persons at each end would be more than suffcient. If the balks are partly crushed so that the effective reaction is 0•05 m from the edge, the force is reduced to about 580 kg. The force needed decreases as the beam moves away from the horizontal, and when the slope is 120 , which would allow the insertion of a balk, it falls to about 540 kg, or 490 if allowance is made for crushing. At each swing the lintel would be raised
+  Professor Atkinson, to whom I am indebted for this and other comments, has suggested that the timber stack would become unstable. Even assuming that all the required data were available, the necessary calculations would be very diffcult, but without such data they are impossible. Intuitively, wedging the balks between the upright stones would seem likely to be suffcient for safety, but as an extra precaution the free ends of the beam could be wedged into a frame with two upright timbers; these timbers would not need to be fixed in the ground.
+  Although it is entertaining to devise ways of building Stonehenge, the attempts are not of much value unless they offer some method for testing the hypotheses. Having regard to the long tradition which must lie behind the Public Works technique of 'brute force and bloody ignorance', the 'cribwork' method seems the most likely on a priori arguments. There is not much to choose between The Bead study Trust
+Mrs Margaret (Peggy) Guido, 44 Long Street, Devizes, Wilts, has asked us to find space to tell our readers about the newly formed Bead Study Trust, and this we gladly do. The Secretary is Mrs Flora Westlake, Chanctonbury, Fullers Road, Rowledge, Farnham, Surrey; Tel. 025125 2658.
+In the last few years the study of ancient beads has gained immensely as the result of the cultural and chronological information that they are now able to produce, from their typology of form and decoration, and from supporting scientific examination.
+  This appreciation of the potential knowledge that beads offer to archaeologists is relatively new. The first intensive studies have been made only in recent years in Germany, Britain, Scandinavia, the use of sheerlegs and the method suggested here, though the former would require some 65 or 70 people to pull on the rope, as against a total team of 30 for the latter. The sheerlegs would require small pits to prevent their feet from slipping and these might possibly survive; the other two methods would leave no recognizable trace. The distribution of debris from dressing the lintels might provide some evidence. With Mr Garfitt's hypothesis, none would be found near the line of the lintels; with cribwork, the dressing would presumably be done on the spot, but the debris would be scattered When the platform was demolished; while with the system suggested here, the most obvious approach would be to raise the lintel with only one end and the underside finished, the remaining faces being left roughly shaped and trimmed after the stone was in place, which should leave a fairly intense scatter of stone fragments on the ground below. Finally, there is the possibility that the lintel might show bruising or abrasion from the method of lifting used. It was the appearance of white bands on the faces of some lintels which suggested that the system of lifting described here had been that used. Professor Atkinson has indeed confirmed that these white bands were in fact caused by lifting the lintels, and points out that the exact date of this occurrence is known. It was during the partial restoration carried out in 1920, when some chemical in the felt packing used to protect the stones destroyed the lichen and algae.
+A. H. A. HOGG
+Poland, Russia and Czechoslovakia, But these studies are devoted to specific periods only, and in order to further research on a wider scale The Bead Study Trust has been formed and registered as a charity.
+The founder Trustees consist of the following:
+Mr G. C. Boon, FSA, Keeper of the Department of Archaeology and Numismatics at the National Museum of Wales, Cardiff (Chairman).
+Mrs Margaret Guido, FSA, author of The Glass Beads of the Prehistoric and Roman Periods in Britain and Ireland, and many specialist reports.
+Dr Alastair Lamb, FSA, author of numerous papers concerning trade beads of Asia and Africa.

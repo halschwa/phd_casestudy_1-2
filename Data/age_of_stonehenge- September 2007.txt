@@ -1,0 +1,288 @@
+The age of Stonehenge
+Mike Parker Pearson1, Ros Cleal2, Peter Marshall3, Stuart Needham4,
+Josh Pollard5, Colin Richards6, Clive Ruggles7, Alison Sheridan8, Julian Thomas6, Chris Tilley9, Kate Welham10, Andrew
+Chamberlain1, Carolyn Chenery11, Jane Evans11, Chris Knusel¨ 12,
+Neil Linford13, Louise Martin13, Janet Montgomery12, Andy Payne13, & Mike Richards14
+Stonehenge is the icon of British prehistory, and continues to inspire ingenious investigations and interpretations. A current campaign of research, being waged by probably the strongest archaeological team ever assembled, is focused not just on the monument, but on its landscape, its hinterland and the monuments within it. The campaign is still in progress, but the story so far is well worth reporting. Revisiting records of 100 years ago the authors demonstrate that the ambiguous dating of the trilithons, the grand centrepiece of Stonehenge, was based on samples taken from the wrong context, and can now be settled at 2600-2400 cal BC. This means that the trilithons are contemporary with Durrington Walls, near neighbour and Britain’s largest henge monument. These two monuments, different but complementary, now predate the earliest Beaker burials in Britain – including the famous Amesbury Archer and Boscombe Bowmen, but may already have been receiving Beaker pottery. All this contributes to a new vision of massive monumental development in a period of high European intellectual mobility . . . .
+Keywords: Stonehenge, Durrington Walls, Amesbury Archer, stratigraphy, radiocarbon dating, Beakers
+Introduction
+The current Stonehenge campaign has three components: the re-examination of the monument and its context, the exploration of the landscape (‘The Stonehenge Riverside
+
+Figure 1. The Stonehenge landscape with the principal monuments marked (drawn by Irene De Luis).14
+Project’, SRP; Figure 1) and a study of the impact and meaning of the Beaker culture (‘The Beaker People Project’, BPP). Much of the success of this campaign will depend on dating, since only with reliable and precise dates can the sequence of one of Europe’s most complex prehistoric landscapes be reduced to a comprehensible narrative.
+Re-dating Stonehenge
+The date of Stonehenge remains a matter of dispute (cf. Atkinson 1952; Figure 2). While the earliest phase (Phase 1) is closely dated to 3015-2935 cal BC,1 the Aubrey Holes (tentatively assigned to Phase 1), the postholes, cremation burials and other human remains (assigned to Phase 2) and the first bluestone setting (Phase 3i) all remain undated. There is no agreement amongst archaeologists as to whether the sarsen stones (Phase 3ii) were erected as early as 2600-2500 cal BC,15 in the period after 2550 cal BC,3 or later around 2300 cal BC, or even at the end of the millennium.16 This is perhaps surprising, given the success of the
+
+Figure 2. The sequence of construction [cf. Table 2] (modified from Cleal et al. 1995 and reproduced with kind permission of English Heritage).
+1994 dating programme which produced three of the four accepted radiocarbon dates from contexts associated with the erection of the sarsen circle and the trilithons (Figures 3 & 6).5
+  Theproblemofdatingthesarsenstonesisduenottoanabsenceofsatisfactoryradiocarbon determinations but to the disparity between the two dates from the ramp used for the great trilithon6 and those from two of the stone holes. The samples from the fill of the ramp provide an estimate for the construction of the great trilithon of 2440-2100 cal BC,7 and the other two dates (from Sarsen Circle Stone 1 [UB-3821] and for Trilithon Stone 53/54 [OxA-4840]) provide an estimate for its construction of 2620-2480 cal BC.8
+5 Phase 3ii; Cleal et al. 1995: 204-5; Bayliss et al. 1997: 56
+6 OxA-4839 and BM-46
+7 95% probability; Allen & Bayliss, 1995; Bayliss et al. 1997: 56
+8 92%probability; the ranges are posteriordensityestimates derived from mathematical modelling of archaeological problems.
+
+Figure 3. The south-west sector of Stonehenge, showing the positions of Atkinson’s and Gowland’s trenches (drawn by Mark Dover from Cleal et al. 1995).
+
+Figure 4. Cutting 52 showing the southern edge of the ‘ramp’ pit running towards the north side of Stone 56, photographed from the north-west in 1956 (by kind permission of Salisbury Museum).
+  The discrepancy between these two sets of dates poses a conundrum. How can the great trilithon, dated to 2440-2100 cal BC, be later than the sarsen circle which encloses it? Was the circle incomplete or even partially dismantled to allow builders to erect this enormous structure within the monument?17 Or should the earlier two dates be dismissed, since these derive from antler picks that might have been ancient when deposited? Yet the process for selecting radiocarbon samples that would date their contexts of deposition was extremely rigorous,18 so there is nothing to be gained by questioning their suitability. Instead, our attention turns to reinterpretation of the excavations which were conducted half a century to a century ago.
+
+Figure 5. Reconstructed longitudinal profile of Atkinson’s ramp for Stone 56, combining information from the 1901, 1956 and 1958 excavations (drawn by Mark Dover from Cleal et al. 1995).
+
+Figure 6. Probability distributions of dates from the stone settings at Stonehenge. Each distribution represents the relative probability that an event occurs at a particular time. For each of the dates two distributions have been plotted: one in outline, which is the result of simple radiocarbon calibration, and a solid one, based on the chronological model. The model incorporates the new interpretation of the sequence outlined in this paper. The overall model is based on that described by Bronk Ramsey and Bayliss (2000), and defined by the large square brackets down the left-hand side along with the OxCal keywords.
+The contexts of the radiocarbon samples
+The contexts of the antlers within the pits of Stone 1 and Stone 53/54 are relatively unproblematic. The samples derive from the bottoms of these stone holes, in features which are spatially isolated and uncomplicated by earlier or later activity. The contexts of the other two samples, in contrast, reveal a different story. Both pieces of antler were excavated by Richard Atkinson, one in Cutting 17 in 1956 and the other in Cutting 52 in 1958 (Figures 3 and 4). Neither sample can be assigned to a precise or certain location. One (OxA4839) appears to be the antler visible near the base of a section recorded in cutting 1719within a deep, sloping feature that Atkinson identified as the erection ramp for Stone 56, the north-west stone of the great trilithon.20 The other was retrieved from a chalk layer which was probably above the layer in which the 1956 find was made. The 1958 find was recovered from Cutting 52 (Figures 3 and 4), slightly further west than Cutting 17, and has been notionally assigned to the ramp of Stone 57, part of the west trilithon,21 although Atkinson originally assigned it to the ramp of Stone 56.
+  Atkinson was convinced that the large east-sloping feature (WA 2448/3773) in which these antlers were deposited was the erection ramp for Stone 56. ‘There can be no doubt that this ramp was used in the erection of Stone 56. And for this purpose a ramp would indeed be very necessary . . . ’.22 If this feature were a ramp, the stone would have had to have been erected from the side, either brought in from the north-west on its narrow side and stood upright, or brought in on its flat, wider side, lifted and then turned 90? to fit into its stone hole. The same applies for the erection of Stone 57, which would also have to have been carried along the northern part of this same ramp to its hole and there lifted northwards on its narrow side into position. Only a few of the other stone holes at Stonehenge have evidence for erection ramps. In each of these examples, it is evident that the stone would have been brought in flat and raised forwards into position, pivoting on its wider face. Raising a stone sideways – on its narrow face – appears to be technically more difficult but cannot be discounted.
+  In 1901 the geologist, William Gowland excavated around the sides of Stone 56 in order for this leaning trilithon stone to be stood upright. Its partner, Stone 55, had long ago fallen and Stone 56 was leaning perilously northwards, towards the centre of the monument. His recording was impeccable for the time and publication was prompt.23 Like Atkinson, he was convinced that he had identified the direction from which Stone 56 was erected: ‘. . . we are led to the irresistible conclusion, the importance of which will be evident later, that this monolith was originally set up by raising it from the interior of the circle’.24 This means erection from the north-east, in a completely different direction from Atkinson’s identified ramp to the west, and therefore contradictory to Atkinson’s interpretation. Although Atkinson recognised the high quality of Gowland’s work,25 he seems not to have noticed this particular detail in Gowland’s report and nowhere does he discuss the relative merits of either alternative. This is puzzling since his trench (Cutting 17) exploring the ramp-like feature ended just inches away from the west end of Gowland’s excavation and there was much to learn in using the records of the adjacent investigation to shed light on his own.
+  By combining the results of the two excavations, it is possible to reconstruct the profile of Atkinson’s ramp along its long axis (Figure 5). With a maximum depth of 2.4m and a length of at least 6m, this is a very large feature, on a scale which Atkinson considered was in keeping with the enormous size of the 9m-long trilithon stone. Yet its length and gentle incline of only 15? make it of little practical use as a fulcrum for raising the trilithon stone off the ground. There was also a step in this ramp26 that seems not to have served any practical purpose relating to stone erection. Had he looked more carefully at Gowland’s report, Atkinson would have realised that the ramp he was excavating did not even lead to the stone hole for Stone 56 (Figures 4 and 5). The southern edge of this ramp was defined by solid chalk which was ‘. . . cut away to form an almost perpendicular face in a line with the middle of the long axis of the base of the monolith No. 56’ (1902: 102). As a result, Stone 56 would have ended up with its base 0.5m north of the actual hole within whose south-west, north-west and south-east sides it was to snugly fit.27 To achieve this position, the stone would have to have been brought in on its side from the west, raised to the vertical, then laid down flat towards the centre of the circle, moved southwards 0.5m and then finally re-erected from the north-east.
+  It is hard to imagine why the ‘ramp’ might have been constructed so as to miss the stone hole. This deep, gently sloping feature does not fulfil the task of a ramp for Stone 56 and cannot be considered as an erection ramp. In contrast, Gowland’s interpretation of Stone 56 as having been lifted from the north-east is far more plausible. Yet he also may have been wrong in identifying a ramp on that side, even though the stone was most probably erected from this north-east direction. On this north-east side, Gowland found that the chalk fill extended to the base of the trilithon. Digging on this side, he discovered that Bluestone 64 was set into the upper layers filling this deep feature.28 He considered that its base was the surface of the ramp, rising gently to the north-east perhaps as far as 25’ (7.6m) away where a small trench of his had hit chalk rock at 0.4m depth.29 The identification of this long, deep feature as an erection ramp raises questions about its efficacy comparable to those concerning Atkinson’s ramp. Was the chalk fill north of the great trilithon deposited within a large feature which extended 9m to the west and perhaps 4m-7.6m to the north-east?
+  Gowland’s records of what he found, and where, are meticulous, far better than those of the excavations half a century later. He refers to the fact that the materials filling the stone hole were considerably different from one side to the other.30 On the southern side, the densities of sarsen hammer stones, mauls, flint artefacts and other finds were more than five times greater than those on the northern side (Table 1). It is extremely unlikely that they indicate the homogeneous fill of a single feature. The low density of artefacts to the north-east of Stone 56 is more closely comparable to the fill of Atkinson’s feature.31 The evidence – the deep feature encountered by Gowland and Atkinson, and the inconsistent
+Table 1. Stone artefacts recovered by Gowland from around Stone 56.
+Approx.ArtefactFlintSarsenSarsenNon-sarsencubicdensityTrenchesimplementshammerstonesmaulsimplementTotalmetresper m3SouthernI, II, III,491481728.38.7sideVII, QNorthernIV, V,118012012.51.6sideVI, VIIIfinds densities - may be more satisfactorily interpreted as indicating the presence of a large pit that was dug after the erection of the sarsens (Phase 3ii) but before the construction of the bluestone oval (Phase 3iv). This is reinforced by the total absence of packing stones on the north-east side of Stone 56: why are they missing here when they were used within the stone holes of the other trilithons? The simplest explanation is that they were removed when the pit was dug.
+The date of the sarsens
+The difficulties of sustaining Atkinson’s interpretation of WA 2448 as an erection ramp for Stone 56 are so great that we can no longer consider that its fill constitutes a reliable context for dating the erection of the great trilithon. As a result, the two associated radiocarbon determinations do not date the erection of the sarsens in Phase 3ii. Similar difficulties surround any interpretation of the ‘ramp’ as being associated with the erection of Stone 57 in the western trilithon (Figure 3). In this case, Atkinson recorded the edge of the pit as adjacent to Stone 57’s stone hole but, on the basis of the photographs,32 there is no visible relationship between the pit’s edge (identified as the edge of feature WA 3733) and the packing stones within that stone hole. In any case, Atkinson identified holes for anti-friction posts on the south-east side of Stone 57, leading him to conclude that the stone had been erected from the north-west and not from within this pit to its south.33
+  Rejection of the two dates from WA 2448 as being stratigraphically linked to Phase 3ii leaves us with just two acceptable dates for the sarsen monument’s construction (UB-3821 and OxA-4840). Incorporating this new interpretation into the Stonehenge model described by Bronk Ramsey and Bayliss (2000) (see Figure 6) provides estimates for the construction of the sarsen circle of 2580-2470 cal BC (95% probability; LAST Sarsen Circle; Figure 6) and of one of the sarsen trilithons of 2600-2400 cal BC (95% probability; LAST Sarsen Trilithon; Figure 6). These are considerably earlier than most commentators have acknowledged and have major implications, discussed below (see also Table 2).
+
+Table 2. The revised Stonehenge chronology.
+
+
+Phase 3iPre-2470 cal BCPhase 3ii2580-2470 cal BC and
+2600-2400 cal BC
+(95% probability)Phase 3iii2450-2210 cal BC (95% probability)Phase 3iv2270-2020 cal BC (95% probability)Phase 3v2210-1930 cal BC (95% probability)Phase 3vi2020-1740 cal BC
+1630-1520 cal BC
+(95% probability)Bluestone arc	Beakers in use?
+Sarsen circle and trilithons	Beakers in use?
+(bluestones set inside trilithon horseshoe?) Erection of Slaughter
+Stones (incl. Stonehole E)
+Large pit and features in west	Beaker inhumation rite begins
+(dismantling of bluestone setting?)	(Amesbury Archer, Boscombe
+Dismantling of Stonehole E	Bowmen)
+Bluestone oval	Beaker inhumation rite continues
+(Amesbury G51, Hemp Knoll,
+Irthlingborough) Grooved Ware ends
+Bluestone horseshoe	Food Vessel burials (Bulford)
+Z Holes	End of Beaker burials
+Y Holes
+Durrington Walls Southern Circle Phase 1 (timber fac¸ade)?
+Durrington Walls Southern Circle Phase 2, Avenue and
+settlement. Initial construction of Stonehenge Avenue
+Woodhenge ditch Beaker-age burial in Stonehenge ditch Recutting of Stonehenge Avenue
+Recutting of Stonehenge Avenue Round barrows
+Recutting of Stonehenge Avenue Round barrows
+Recutting of Stonehenge Avenue
+Round barrows
+
+
+Research
+
+The date of the Stonehenge avenue
+Stonehenge is connected to the River Avon by a ditch-lined avenue whose first stretch is aligned on the midsummer sunrise (Figure 1). The building and use of this monument are considered to represent one main phase of activity during Phase 3 but the four radiocarbon determinations on antler and animal bone from the lower layers of the ditches place this only broadly between the middle and the end of the third millennium. There is good evidence for re-cutting of the avenue ditch, visible both in section drawings and photographs.3435 As a result, most of the radiocarbon measurements are from samples which are unlikely to have been deposited when the ditch was first dug. The likely date of construction, 2580-2280 cal BC,27 is a measurement from an antler pick recovered from the bottom of the Stonehenge terminal of the north ditch by William Hawley in 1923.28 The other three measurements come from finds in contexts which are either higher in the fill or are probably within re-cuts of the ditch.36
+Durrington Walls
+The relationship between Stonehenge and Durrington Walls has been speculated upon for some time.37 Durrington Walls is one of Britain’s biggest henge monuments and is located 3km to the north-east of Stonehenge, close to the bank of the River Avon (Figure 7).38
+Woodhenge is a small annexe on the south side of this monument; dates from an antler pick (3817 +? 74 BP; BM-677) and animal bone (3755 +? 54 BP; BM-678) from its ditch place its digging in the period 2480-2030 cal BC. In contrast, the wide calibrated date ranges on the radiocarbon measurements from Geoffrey Wainwright’s 1966-68 excavation of the ditch and timber circles of Durrington Walls henge have allowed it to be positioned only broadly within the middle of the third millennium cal BC.
+  In 2003 the Stonehenge Riverside Project39 commenced with an investigation of Durrington Walls’ relationship to the River Avon, to investigate whether it was linked to the river by an avenue. The Stonehenge avenue, further downstream, is 21.5m wide at the monument and widens to 30m nearer the river.40 In 2004 trial trenches located surviving archaeological deposits outside the east entrance of Durrington Walls and, in 2005 and 2006, excavations were undertaken in this area as well as within the interior and on an undisturbed part of the Southern Circle, the large timber circle inside the henge’s east entrance which was excavated in 1966-68 (Figures 7 and 8).41
+
+Figure 7. Plan of Durrington Walls, showing positions of trenches excavated in 2004 and 2005 (drawn by Mark Dover from Wainwright with Longworth 1971).
+
+Figure 8. Plan of the 2005 trench into the Southern Circle (drawn by Mark Dover and with kind permission of Geoffrey Wainwright and the Society of Antiquaries).
+The Southern Circle
+Over two-thirds of the Southern Circle lay within the road line excavated by Wainwright, and this included the timber circle’s entrance on its south-east side, aligned precisely on the midwinter sunrise (mean axial orientation through centre of entrance = 130.4?, horizon altitude = 0.6?, yielding declination ?23.8? [Ruggles forthcoming], corresponding almost exactly to the upper limb of the winter solstice sun in 3000-2500 cal BC [Ruggles 1999: 57]). Magnetometry and ground penetrating radar surveys in 2006, combined with stripping and mapping of that part of the Southern Circle west of the roadline, established that the second innermost ring of the circle was oval rather than circular. With the long axis of this oval aligned north-east/south-west, the architectural plan of the innermost four rings closely resembles that of Stonehenge 3ii-3iv. The two outermost rings of the Southern Circle’s posts were incomplete on the north-west side, strengthening the likelihood that this was never a roofed building, as has been speculated.42 The geophysical response to post pits is often quite varied43 and it is possible that further analysis of the 2006 GPR data may further elucidate the interpretation of the individual anomalies, for example through distinguishing the relative size and apparent presence of packing material in the base of the pits (Linford forthcoming).
+  Newly excavated postholes within the Southern Circle all had evidence of re-cutting by pits (formerly identified as weathering cones by Wainwright) into the tops of the holes containing the decayed posts. This appears to have been a deliberate act involving the deposition of artefacts (including Beaker sherds) and animal bones on the bases of these re-cut pits.44 An antler pick from the re-cut pit in the top of a posthole (099) within the fourth ring (ring 2C), excavated in 2005, has recently been dated to 2570-2350 cal BC (95% confidence; 3966 +? 33 BP; OxA-14976). Of course, its deposition within a re-cut feature means that it may have been deposited initially within the packing fill of the posthole rather than into the pit which cuts that posthole.
+The western enclosures
+The western half of Durrington Walls contains a line of circular ditched enclosures, of which the largest and most central is 40m across.45 Excavation in 2006 of this and a 12m-diameter enclosure46 directly south of it revealed that each had a house at its centre, enclosed within a fence built with sturdy posts. Both houses were about 4m square with rounded corners and stake holes supporting their walls. Their clay floors had been entirely eroded except in the areas of their central hearths where the hard-baked clay partially survived. The house within the large enclosure was set within a large terraced platform cut into the valley slope. In front of it there was a post fence and a pair of large postholes, similar in size to those of the Southern Circle, just inside the enclosure ditch’s east entrance. This ditch had its bank on the inside whereas the southern enclosure’s bank was on the outside. There was no evidence of an entrance to this smaller enclosure and unfortunately it was not possible to establish whether the two circular ditches were dug before, during or after the houses were built.
+The Durrington Walls avenue
+Outside the east entrance of the main henge enclosure, excavations have revealed a large, embanked avenue 30m across, similar to the width of the Stonehenge avenue. The Durrington Walls avenue is different, however, in having low banks outside its avenue (Figure 9). Parts of the Durrington Walls avenue have been destroyed by later cultivation
+
+Figure 9. Plan of Durrington Walls Trench 1 showing the avenue with adjacent houses, pits and other features (drawn by Mark Dover).
+but sections of its 100m-length are well preserved and demonstrate that it was surfaced with rammed flint, animal bone and pottery to form a roadway which was heavily trampled along its central axis. It aligns with the Southern Circle and we can now interpret the gravel and flint platform in front of that monument as the north-west end of the avenue.47 The avenue is not aligned on the midwinter sunrise but, when looking in the opposite direction westwards towards the henge, is within about 1? of midsummer sunset (azimuth 306.7?, estimated horizon altitude 4.0?, yielding declination +25.2? [Ruggles forthcoming], as compared with +24.3? for the upper limb of the summer solstice sun in 3000-2500 cal BC [Ruggles 1999: 57]). Normally, with a flat horizon the solstice directions are more or less diametrically opposite each other; Durrington Walls is on a steep slope so the midsummer sun sets further south than it would on the flat. The avenue also runs slightly across the grain of the valley’s contour, further suggesting that its alignment on this solstitial direction was deliberate. Together with the Southern Circle’s midwinter sunrise axis, the Durrington Walls avenue provides a complementary arrangement to that at Stonehenge where the avenue and stone circle are aligned on the midwinter sunset in one direction and the midsummer sunrise in the other.
+Houses by the avenue
+Extensive areas of Neolithic ground surface were discovered either side of the Durrington Walls avenue and under the external bank of the henge. In most areas the ground surface was covered by deep middens of wood ash and cultural debris, both under the bank and outside it. Remains of three Grooved Ware-associated house floors were found on the north side of the avenue, together with the entrance area of a fourth. Two more were built opposite each other on the avenue’s banks. Four of these houses are associated with clusters of extraction pits from which the chalk matrix for their floors and walls was presumably obtained. The multiple pits in each of the intercutting groups were dug and filled at different times, hinting at sequences of wall re-plastering over many years during the lifetime of each house. The houses are all small and square or rectangular. The largest is over 5.5 × 5.5m and shares a possible compound with a small ancillary hut 3 × 2.5m. Their oval, sunken hearths are set centrally within thick clay floors surrounded by walls supported on lines of stake holes. In two of the houses there are beam slots for wooden box beds and furniture between the edge of the clay floor and the wall.
+  A pit full of animal bones, pottery and lithics was dug into the south-west corner of one of these houses after its abandonment. Its filling is dated by articulated pig bone to 28302470 cal BC (95% confidence; 4036 +? 32BP; OxA-14801). Amongst the copious food and ceramic waste in this pit there was an abraded human, probably male, femur with two projectile injuries. This individual’s ?13C value (?21.5‰) indicates that he did not consume marine foods in any significant amounts (i.e. less than 95% of dietary protein) and his ?15N value (11.6‰) is unusually high for the Neolithic in southern Britain (Richards 2000). It is unlikely that this elevated value is due to local conditions as the cattle, sheep/goat, red deer and pig bones sampled from Durrington Walls do not have unusually high ?15N values.
+  The human femur is only one of a handful of human bones to come from the entire assemblage of over 50 000 animal bones.48 This dearth contrasts dramatically with the large quantities of burnt and unburnt human remains from Stonehenge49 which derive from just some of the hundreds of individuals whose remains were probably interred there.50 This contrast between living and dead has been linked to a broad segregation of Grooved Ware with timber monuments and non-funerary contexts and early Beaker pottery with stone monuments and contexts for funerary purposes or commemorating the ancestors.51
+The arrival of Beakers in Britain
+At Stonehenge the sarsen circle and trilithons (Phase 3ii) were preceded stratigraphically by an arc of bluestones (Phase 3i) whose erection remains undated by radiocarbon methods. The clear stratigraphic relationship between the sarsen circle (Phase 3ii) and the bluestone arc (Phase 3i) is visible in the east sector of the monument where the hole of sarsen Stone 3 cuts through the fill of Bluestone Q Hole 4.52 The positions of two comb-decorated Beaker sherds were marked on Atkinson’s section drawing almost halfway up the chalk and earth fill of another bluestone hole (Q Hole 5)53 in a zone unaffected by later intrusions. This places these Beaker sherds from Phase 3i unassailably in the period before 2480 cal BC (at the end of the date range for Phase 3ii), most probably in the twenty-sixth century cal BC if they were introduced into the bluestone hole when the bluestone was pulled out, prior to the stones of Phase 3ii being erected.
+  This poses a major problem for any Bell Beaker chronology relying entirely on dates from Beaker burials alone. Outside Britain, the earliest dates for Bell Beakers are from Iberia where Beakers appeared by 2700 cal BC.54 Recent syntheses of British dates for Beaker burials55 and modelling56 suggest English Beakers burial beginnings in 2475–2315 cal BC (95% probability) or 2425–2350 cal BC (68% probability); and Scottish Beakers beginnings in 2385–2235 cal BC (95% probability) or 2345–2270 cal BC (68% probability). But might Beaker ceramic styles have been in use in Britain before the appearance of this new inhumation rite, if only by a few generations?57 Radiocarbon determinations from Beaker burials would thus date only the appearance of the burial rite and not necessarily the first adoption of Beaker pottery in Britain.
+  Within West Kennet long barrow, Beaker pottery was deposited in the uppermost layers of its filled-in chambers and single small sherds appear to have dropped into lower layers of the loose fill.58 Yet large sherds of an unusually large, finger-tip decorated Beaker (B1 and probably B2) – are restricted to deeper layers (layer 10 in the south-east chamber, layer 4 in the north-west chamber, and layer 9 in the north-east chamber) which, in the north-west and south-east chambers, lay beneath deposits from which partially articulated remains have been dated.59 There were a partially articulated goat skeleton (dated to 2560-2300 cal BC [95% confidence; 3934 +? 36 BP; OxA-13202]) in layer 3 of the north-west chamber, and from two disarticulated but near-complete infant skeletons (each dated to 2870-2490 cal BC [95% confidence; 4103 +? 38 BP; OxA-13183; and 95% confidence; 4105 +? 35 BP; OxA-13181]) in layers 4 and 2 of the south-east chamber. If these particular sherds are not contaminants falling through voids from above (which cannot be entirely ruled out given the looseness of the fill and the early date of the excavation) then they may possibly have been in use prior to 2400 cal BC.
+  Richard Atkinson left no detailed notes about the context of the Beaker sherds in Q Hole 5 at Stonehenge and so it is impossible to establish whether the fill had been disturbed by rabbits or whether the sherds had been introduced into an earlier fill by some such post-depositional agency. Poor excavation methods (by today’s standards) and taphonomic uncertainties conspire against a clear-cut case for Beakers at Stonehenge prior to 2400 cal BC yet the evidence is tantalising, and presents a challenge to find other, firmer evidence for pre-2500 cal BC Beaker contexts in Britain. Beaker pottery has been found in mid-late third millennium cal BC contexts at Durrington Walls within a predominantly Grooved Ware assemblage60 and this site offers the possibility of more secure dating before 2400 cal BC. The 71 Beaker sherds came from the midden and postholes of the Southern Circle and from the henge ditches. New excavations at Durrington Walls are finding Beaker pottery and Grooved Ware with Beaker-style decoration in contexts that may well belong to this early period although none of these are directly dated as yet.54
+Beakers and Stonehenge
+Two extraordinary Beaker burials, the Amesbury Archer (Boscombe Down West 1) and the Boscombe Bowmen (Boscombe Down ‘collective grave’), have been claimed as graves of those who might have had a hand in the building of Stonehenge (Fitzpatrick 2002; 2004). Yet their radiocarbon determinations can now be seen to fall after the period in which the sarsens were erected (2470-2280 cal BC [95% confidence; 3895 +? 32 BP; OxA-13541] and 2460-2200 cal BC [95% confidence; 3845 +? 27 BP; OxA-13624]) Instead, they are broadly contemporary with Phases 3iii and 3iv, when the bluestones were dismantled and re-erected within the already-standing sarsen setting.
+  The Amesbury Archer could be considered as the embodiment of a culture-historical interpretation of the Beaker people as a migrating population from central Europe (see Clarke 1970). With the oxygen isotope values of his teeth indicating European residence as a child, his discovery has revived thoughts of the Beaker people as immigrants bringing metallurgy and other innovations to Britain around 2400 cal BC. Yet the earlier date for Stonehenge now casts his arrival in a different light. This was no architect of Stonehenge. Nor was he necessarily among the earliest waves of Beaker immigrants, despite his long-distance journey to Britain.
+  Much the same can be said of the multiple burial of seven individuals (or parts thereof) in the Boscombe Down ‘collective grave’ at Amesbury, east of Stonehenge (Fitzpatrick 2004). They lived too late for the building of the sarsens, let alone the erection of the bluestones, to be anything more than a distant oral tradition. In any case, it is not certain that the three adults actually came from Wales, as was originally claimed (Fitzpatrick 2004). The values of oxygen and strontium isotopes in their teeth are indeed consistent with the maritime climate and igneous rocks of Wales. Yet identical isotopic values can also be obtained from northern France (Evans et al. 2006). It is worth noting that their style of multiple burial is similar to collective burials found in France during this period (Chambon 2004).
+  Since the Beaker People Project61 is now analysing isotopes from 250 Beaker-period burials from across Britain, there will soon be an opportunity to place these exceptional burials from near Stonehenge within a broader context of human mobility and migration in the period after c. 2470 cal BC.
+Conclusion
+The two radiocarbon determinations on an antler pick and pig bone from Durrington Walls are the first high-precision dates for activity at this monument. Since Stonehenge’s Phase 3ii can now be re-dated to 2580-2470 cal BC (95% probability; Sarsen Circle) and 2600-2400 cal BC (95% probability; Sarsen Trilithon) these dates for Durrington Walls are statistically indistinguishable from those for the sarsen circle and trilithons (T 7.8; ? = 3; Ward & Ward 1978). These are only the first of many measurements which should allow the entire sequence of activity at Durrington Walls to be precisely dated perhaps to within two or three generations. Yet they already offer the possibility that Durrington Walls was constructed and used at exactly the same time as the sarsen phase at Stonehenge. That both were designed and built as a single development is further strengthened by their complementary differences – one in stone with predominantly Beaker pottery (229 Beaker sherds to 11 of Grooved Ware), cattle bones and human remains, the other in wood with predominantly Grooved Ware, pig bones and a near absence of human remains. Other examples of complementarity are the opposed solstice alignments of Stonehenge and the Durrington Southern Circle, and their similarity in plan, in which an oval arrangement was set within concentric circles. Such a dramatic dichotomy has been viewed as the product of two ‘cultures’ living side by side.62 But other explanations are perhaps more satisfactory for the time being: that their differentiated but integrated purpose were opposed stages of a funerary process whereby the dead became ancestors.63
+Acknowledgements
+Our title – referring to both the date of Stonehenge and its contemporary sphere of action – is also the title of Colin Burgess’ book (1980). Richard Atkinson’s stratigraphic error at Stonehenge was first recognised by Peter Berridge during his time as Atkinson’s research assistant; after our re-discovery of the error, Mike Hamilton recalled Peter’s observation and brought it to our attention. Jane Ellis-Schon of Salisbury & South Wiltshire¨ Museum is thanked for her help with the Stonehenge archive. We thank our Stonehenge Riverside Project colleagues, particularly Umberto Albarella, Mike Allen, Charly French, Karen Godden, the site supervisors (Bob Nunn, Dave Robinson and especially Dave Aspden and Becca Pullen), the outreach team and the many students and volunteers who have made this work such a success so far. We also thank Amanda Chadburn, Richard Osgood, Mike Pitts and Julian Richards for their advice and support. Karen Kirk and Sian Price from Time Team are thanked for their involvement in 2005, particularly for funding the new radiocarbon determinations from Durrington Walls. Thanks also to Peter Saunders and Jane Ellis-Schon of Salisbury & South Wiltshire¨ Museum and Alex Bayliss of English Heritage. Other funds for the SRP were provided in 2004, 2005 and 2006 by the Arts and Humanities Research Council, the British Academy, English Heritage, the McDonald Institute, the National Geographic Society, the Prehistoric Society (who awarded it the Bob Smith Prize), the Royal Archaeological Institute and the Society of Antiquaries. We thank the Rawlins family, the National Trust, Wiltshire County Council and the Ministry of Defence for permissions to excavate on their land. The Beaker People Project is funded by the Arts and Humanities Research Council.
+
+References
+Allen, M. & A. Bayliss. 1995. Appendix 2: the radiocarbon dating programme, in R.M.J. Cleal, K.E. Walker & R. Montague (ed.) Stonehenge in its Landscape: twentieth-century excavations: 511-35. London: English Heritage.
+Ashbee, P. 1998. Stonehenge: its possible non-completion, slighting and dilapidation. Wiltshire Archaeological and Natural History Magazine 91: 139-42.
+Atkinson, R.J.C. 1952. The date of Stonehenge.
+Proceedings of the Prehistoric Society 18: 236-7.
+–1979. Stonehenge (third edition). Harmondsworth: Penguin.
+Barrett, J.C. 1994. Fragments from Antiquity: an Archaeology of Social Life in Britain, 2900-1200 BC. Oxford: Blackwell.
+Bayliss, A., C. Bronk ramsey & F.G. Mccormac.
+1997. Dating Stonehenge, in C. Renfrew & B.
+Cunliffe (ed.) Science and Stonehenge (Proceedings of the British Academy 92): 39-59. Oxford: Oxford University Press.
+Bayliss, A., F. McAvoy & A. Whittle. 2007. The world recreated: redating Silbury Hill in its monumental landscape. Antiquity 81: 26-53.
+Bayliss, A., A. Whittle & M. Wysocki. 2006. Talking about my generation: the date of the West Kennet long barrow. Cambridge Archaeological Journal 17: 85-101.
+Bronk Ramsey, C. & A. Bayliss. 2000. Dating Stonehenge, in K. Lockyer, T.J.T. Sly & V. Mihailescu-B?	ˆ?rliba (ed.) CAA96: computer applications and quantitative methods in archaeology (British Archaeological Reports) 845: 29-39. Oxford: Archaeopress.
+Burgess, C. 1980. The Age of Stonehenge. London: J.M. Dent.
+Case, H. 1997. Stonehenge revisited. Wiltshire Archaeological and Natural History Magazine 90: 161-8.
+Chambon, P. 2004. Collective graves in France during the Bell Beaker phenomenon, in M. Besse & J. Desideri (ed.) Graves and Funerary Rituals during the Late Neolithic and the Early Bronze Age in Europe (2700-2000 BC) (British Archaeological Reports International Series 1284): 69-78. Oxford: Archaeopress.
+Clarke, D.L. 1970. Beaker Pottery of Great Britain and Ireland. Cambridge: Cambridge University Press.
+Cleal, R.M.J., K.E. Walker & R. Montague. 1995.
+Stonehenge in its Landscape: twentieth-century excavations. London: English Heritage.
+Crawford, O.G.S. 1929. Durrington Walls. Antiquity 3: 49-59.
+David, A., M. Cole, T. Horsley, N. Linford, P. Linford & L. Martin. 2004. A rival to Stonehenge? Geophysical survey at Stanton Drew, England. Antiquity 78: 341-58.
+David, A. & A. Payne. 1997. Geophysical Surveys within the Stonehenge Landscape: A Review of Past Endeavour and Future Potential, in B. Cunliffe & C. Renfrew (ed.) Science and Stonehenge (Proceedings of the British Academy 92): 73-114. Oxford: Oxford University Press.
+Evans, J., C. Chenery & A. Fitzpatrick. 2006.
+Bronze Age childhood migration of individuals near Stonehenge revealed by strontium isotope tooth enamel analysis. Conference paper presented at the Institute of Field Archaeologists annual conference, April 2006, Edinburgh.
+Farrer, P. 1918. Durrington Walls, or Long Walls. The Wiltshire Magazine 40: 95-103.
+Fitzpatrick, A.P. 2002. ‘The Amesbury archer’: a well-furnished Early Bronze Age burial in southern England. Antiquity 76: 629-30.
+–2004. The Boscombe bowmen: builders of Stonehenge? Current Archaeology 193: 10-6.
+Gowland, W. 1902. Recent excavations at Stonehenge. Archaeologia 58: 37-105.
+Harrison, R.J. & A.M. Mart´in. 2001. Bell Beakers and social complexity in central Spain, in F. Nicolis (ed.) Bell Beakers Today: pottery, people, culture, symbols in prehistoric Europe: 111-24. Trento:
+Provincia Autonoma di Trento, Servizio Beni Culturali.
+Linford, N. Forthcoming. Durrington Walls Henge, Wiltshire. Report on Ground Penetrating Radar
+Surveys, September 2004, August 2005 and August 2006. English Heritage, Research Department Report Series.
+McKinley, J. 1995. Human bone, in R.M.J. Cleal,
+K.E. Walker & R. Montague (ed.) Stonehenge in its Landscape: twentieth-century excavations: 451-61. London: English Heritage.
+Montague, R. 1995. Construction and use of the Avenue, in R.M.J. Cleal, K.E. Walker & R. Montague (ed.) Stonehenge in its Landscape: twentieth-century excavations: 291-327. London: English Heritage.
+Muller, J. & S. van Willigren. 2001. New radiocarbon evidence for European Bell Beakers and the consequences for the diffusion of the Bell Beaker phenomenon, in F. Nicolis (ed.) Bell Beakers Today: pottery, people, culture, symbols in prehistoric Europe: 59-80. Trento: Provincia Autonoma di Trento, Servizio Beni Culturali.
+Musson, C. 1971. Appendix VII. A study of possible building forms at Durrington Walls, Woodhenge and the Sanctuary, in G.J. Wainwright with I.H. Longworth Durrington Walls: excavations
+1966-1968: 363-77. London: Society of Antiquaries.
+Needham, S. 2005. Transforming Beaker culture in north-west Europe: processes of fusion and fission. Proceedings of the Prehistoric Society 71: 171-217.
+Parker Pearson, M. 2000. Ancestors, bones and stones in Neolithic and Early Bronze Age Britain and Ireland, in A. Ritchie (ed.) Neolithic Orkney in its European Context: 203-14. Cambridge: McDonald Institute for Archaeological Research.
+–2005. Bronze Age Britain (second edition). London: Batsford/English Heritage.
+Parker Pearson, M. & Ramilisonina. 1998.
+Stonehenge for the ancestors: the stones pass on the message. Antiquity 72: 308-26.
+Parker Pearson, M., C. Richards, M. Allen,
+A. Payne & K. Welham. 2004. The Stonehenge
+Riverside Project: research design and initial results. Journal of Nordic Archaeological Science 14: 45-60.
+Parker Pearson, M., J. Pollard, C. Richards, J.
+Thomas, C. Tilley, K. Welham & U. Albarella. 2006a. Materiality and Stonehenge: the Stonehenge
+Riverside Project and new discoveries. Journal of Material Culture 11: 227-61.
+Parker Pearson, M., A. Chamberlain, C. Chenery, N. Curtis, J. Evans, A. Fitzpatrick, M. Jay, P. Mahoney, J. Montgomery, S. Needham, M.
+Richards & A. Sheridan. 2006b. The Beaker People Project: mobility and diet in the British Early Bronze Age. The Archaeologist 61: 14-5.
+Phillips, C.W. 1936. The excavation of the Giants’ Hills long barrow, Skendleby, Lincolnshire. Archaeologia 85: 37-106.
+Piggott, S. 1962. The West Kennet Long Barrow: excavations 1955-56. London: HMSO.
+Pitts, M. 2000. Hengeworld. London: Arrow Books.
+Powers, R. 1971. Report on the human bones, in G.J. Wainwright with I.H. Longworth, Durrington Walls: excavations 1966-1968: 351. London: Society of Antiquaries.
+Pryor, F. 2003. Britain BC: Life in Britain and Ireland Before the Romans. London: Harper Collins.
+Richards, C. & J. Thomas. 1984. Ritual activity and structured deposition in later Neolithic Wessex, in R. Bradley & J. Gardiner (ed.) Neolithic Studies: a review of some current research (British Archaeological Reports British Series 133):
+189-218. Oxford: British Archaeological Reports.
+Richards, M.P. 2000. Human consumption of plant foods in the British Neolithic: direct evidence from bone stable isotopes, in A. Fairbairn (ed.) Plants in Neolithic Britain and Beyond: 123-35. Oxford: Oxbow.
+Ruggles, C. 1999. Astronomy in Prehistoric Britain and Ireland. London: Yale University Press.
+–Forthcoming. Stonehenge Solstices Revisited: interpreting solstitial alignments in Neolithic Wessex.
+Sheridan, A. In press. Scottish Beaker chronology: an assessment of the currently available radiocarbon dating evidence, in J. Turek & M. Krutova (ed.) Beaker Days in Bohemia and Moravia. Prague: Archaeologica.
+Wainwright, G.J. with I.H. Longworth. 1971.
+Durrington Walls: excavations 1966-1968. London: Society of Antiquaries.
+Ward, G.K. & S.R. Ward. 1978. Procedures for comparing and combining radiocarbon age determinations: a critique. Archaeometry 20: 19-31.
+1 Department of Archaeology, University of Sheffield, Sheffield S1 4ET, UK (Email: m.parker-pearson@ sheffield.ac.uk)
+2 Alexander Keiller Museum, Avebury, Wiltshire, UK
+3 ARCUS, University of Sheffield, Sheffield, UK
+4 British Museum, London, UK
+5 Department of Archaeology, University of Bristol, Bristol, UK
+6 Department of Art and Archaeology, University of Manchester, Manchester, UK
+7 Department of Archaeology, University of Leicester, Leicester, UK
+8 National Museums of Scotland, Chambers Street, Edinburgh, UK
+9 Department of Anthropology, University College London, London, UK
+10 School of Conservation Sciences, University of Bournemouth, Bournemouth, UK
+11 British Geological Survey, Keyworth, Nottingham, UK
+12 School of Archaeological Sciences, University of Bradford, Bradford, UK
+13 English Heritage, Fort Cumberland, Portsmouth, UK 14 Max Planck Institut, Leipzig, Germany
+Received: 7 March 2007; Accepted: 23 April 2007; Revised: 8 May 2007 antiquity 81 (2007): 617–639
+14 % probability; Bayliss et al. 1997: 46-8
+15 Parker Pearson et al. 2006a 3	Cleal et al. 1995: 167
+16 Pitts 2000: 144; Case 1997: 164
+17 see Ashbee 1998
+18 Allen & Bayliss 1995: 512-15
+19 Cleal et al. 1995: Figures 105 & 137
+20 Designated by two context numbers: WA 2448 in its western half and WA 3733 in its eastern and northern half; Cleal et al. 1995: Figure 100
+21 Cleal et al. 1995: 205 & 524
+22 Atkinson 1979: 207, cited in Cleal et al. 1995: 202
+23 Gowland 1902
+24 Gowland 1902: 55
+25 Atkinson 1979: 193
+26 Cleal et al. 1995: 201-2, Figure 137
+27 Gowland 1902: Figures 7, 9 & 10; Cleal et al. 1995: Figures 149 & 150
+28 Bluestone 64 is part of the bluestone oval of Phase 3iv, estimated to have been constructed in 2280-2030 cal BC (95% probability)
+29 Gowland 1902: 81
+30 1902: 56, 99
+31 WA 2448/3733, in which just 3 stone artefacts were recorded; Jane Ellis-Schon pers. comm.¨
+32 Cleal et al. 1995: Figures 104 & 106
+33 Atkinson 1979: 207
+34 Cleal et al. 1995: 307, 323-4, 327, Figures 174, 180 & 185
+35 Cleal% confidence[OxAet al. 1995: 327-4884; 3935 +? 50 BP]
+36 see Cleal et al. 1995: 307, 323-4, 327, Figures 174, 180 & 185
+37 Barrett 1994: 47; Parker Pearson & Ramilisonina 1998
+38 Wainwright with Longworth 1971
+39 Parker Pearson et al. 2004; 2006a; directed by MPP, JP, CR, JT, CT and KW
+40 Montague 1995: 291-327
+41 Wainwright with Longworth 1971: 23-38
+42 Musson 1971: 365-68
+43 e.g. David et al. 2004
+44 Richards & Thomas 1984
+45 Crawford 1929: Figure 3; marked as A in David & Payne 1997: 91-3, Figure 11
+46 Marked as B in David & Payne 1997: Figure 11
+47 Wainwright with Longworth 1971: 32
+48 see also Powers 1971; Farrer 1918: 100
+49 McKinley 1995: 451-61
+50 Pitts 2000: 116-21
+51 Parker Pearson & Ramilisonina 1998; Parker Pearson 2000; Parker Pearson et al. 2006a.
+52 Cleal et al. 1995: 177, 192, Figures 92 & 140
+53 Cleal et al. 1995: Figure 195
+54 Harrison & Mart´?n 2001; Muller & van Willigen 2001¨
+55 Needham 2005; Sheridan in press
+56 Bayliss et al. 2007
+57 Parker Pearson 2005: 74-5. The Beaker pottery from the mound of Giant’s Hills long barrow, Skendleby, Lincs. (Phillips 1936), has long raised suspicions about the early appearance of this ceramic style in Britain but, in this case, is best explained by Beaker-period re-cutting of the ditch and re-building of the mound of this fourth millennium BC monument.
+58 Piggott 1962: 44-5, Figure 14: B5, B6, B7, B8, B9
+59 Bayliss et al. 2006: 90-3
+60 Wainwright with Longworth 1971: 71-3 54	Parker Pearson et al. 2004; 2006a
+61 The team includes MPP, AC, MR, CC, JE, JM, SN and AS; for a summary of initial results, see Parker Pearson et al. 2006b
+62 Case 1997: 167
+63 Parker Pearson & Ramilisonina 1998; Parker Pearson 2000; Pitts 2000: 251-77; Pryor 2003: 230-45; Parker Pearson et al. 2006a
+---------------
+
+------------------------------------------------------------
+
+---------------
+
+------------------------------------------------------------
+
+The age of Stonehenge
+
+Mike Parker Pearson et al.
+
+617
+
+617
+
+
+
+617
+
+
+
+
+
+
+
+
+
+
+
+
+
+The age of Stonehenge
+
+Mike Parker Pearson et al.
+
+617
+
+617
+
+The age of Stonehenge
+
+617
+

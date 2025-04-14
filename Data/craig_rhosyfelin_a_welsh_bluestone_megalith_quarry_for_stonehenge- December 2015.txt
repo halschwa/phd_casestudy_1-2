@@ -1,0 +1,289 @@
+Craig Rhos-y-felin: a Welsh bluestone megalith quarry for Stonehenge
+Mike Parker Pearson1, Richard Bevins2, Rob Ixer1, Joshua Pollard3,
+Colin Richards4, Kate Welham5, Ben Chan6, Kevan Edinborough1,
+Derek Hamilton7, Richard Macphail1, Duncan Schlee8,
+Jean-Luc Schwenninger9, Ellen Simmons10 & Martin Smith5
+The long-distance transport of the bluestones from south Wales to Stonehenge is one of the most remarkable achievements of Neolithic societies in north-west Europe. Where precisely these stones were quarried, when they were extracted and how they were transported has long been a subject of speculation, experiment and controversy. The discovery of a megalithic bluestone quarry at Craig Rhos-y-felin in 2011 marked a turning point in this research. Subsequent excavations have provided details of the quarrying process along with direct dating evidence for the extraction of bluestone monoliths at this location, demonstrating both Neolithic and Early Bronze Age activity.
+Keywords: Britain, Preseli, Stonehenge, Mesolithic, Neolithic, megalithic, bluestone, rhyolite, dolerite, prehistoric quarrying
+1 Institute of Archaeology, University College London, 31–34 Gordon Square, London WC1H 0PY, UK (Email: m.parker-pearson@ucl.ac.uk)
+2 National Museum of Wales, Cathays Park, Cardiff CF10 3NP, UK
+3 Department of Archaeology, University of Southampton, Avenue Campus, Highfield, Southampton SO17 1BF,
+UK
+4 School of Arts, Languages and Cultures, University of Manchester, Oxford Road, Manchester M13 9PL, UK
+5 Department of Archaeology, Anthropology and Forensic Science, Bournemouth University, Talbot Campus, Fern Barrow, Poole BH12 5BB, UK
+6 Faculty of Archaeology, Leiden University, Postbus 9514, 2300 RA Leiden, the Netherlands
+7 Scottish Universities Environmental Research Centre, Rankine Avenue, Scottish Enterprise Technology Park, East Kilbride G75 0QF, UK
+8 Dyfed Archaeological Trust, Shire Hall, Llandeilo SA19 6AF, UK
+9 Research Laboratory for Archaeology and the History of Art, University of Oxford, Dyson Perrins Building, South Parks Road, Oxford, UK
+10 Department of Archaeology, University of Sheffield, Northgate House, West Street, Sheffield S1 4ET, UK
+C Antiquity Publications Ltd, 2016. This is an Open Access article, distributed under the terms of the Creative CommonsAttributionlicence(http://creativecommons.org/licenses/by/4.0/),whichpermitsunrestrictedre-use, distribution, and reproduction in any medium, provided the original work is properly cited.
+ANTIQUITY 89 348 (2015): 1331–1352	doi:10.15184/aqy.2015.177
+1331
+Mike Parker Pearson et al.
+
+Figure 1. The locations of Craig Rhos-y-felin and Carn Goedog within the watershed of the Nevern valley on the northern edge of Mynydd Preseli, Pembrokeshire, Wales; drawn by Irene de Luis.
+Introduction
+Stonehenge is notable for the unusually distant origins of some of its stones. The larger stones are of sarsen, a silicified sandstone that is found in dense concentrations within 20 miles of Salisbury Plain. The smaller ones, known as ‘bluestones’, are of a variety of lithologies that can have only come from in and around Mynydd Preseli (Preseli mountains) in west Wales, c. 140 miles away (Figure 1). Of the 43 identified Welsh bluestones at Stonehenge, 30 are of dolerite (mostly spotted). These have long been recognised as coming from Preseli (Thomas 1923), although only recently has a large sample of them been pinpointed to three sources, most on the northern flank of Mynydd Preseli (Bevins et al. 2014):
+ Group 1: from the outcrop of Carn Goedog.
+ Group 2: from the outcrops of Cerrigmarchogion and Craig Talfynydd (these lack the distinctive spotting).
+ Group 3: from Carn Breseb, Carn Gyfrwy, the Carn Alw area or an un-named outcrop west of Carn Ddafad-las; Group 3 might also come from an unsampled part of Carn Goedog.
+The largest of the spotted dolerite outcrops, Carn Menyn (or Carn Meini), was once suggested as the source of the Stonehenge bluestones (Thomas 1923), although the sample set currently available provides no geological evidence for this (contra Darvill & Wainwright
+C Antiquity Publications Ltd, 2016
+1332
+2014; their description of Group 3 as ‘Carn Gyfrwy/Carn Menyn’ is unsupportable because Carn Menyn is not among the potential geological sources identified for Group 3 on the basis of the present sample set).
+  Other types of Welsh bluestone at Stonehenge are at least three different types of rhyolite, two types of sandstone (one of them is a meta-sandstone, the other, the Altar Stone; Ixer & Turner 2006), and various argillaceous tuffs. One of the types of rhyolite, known from stone chippings found within and around the monument, is described macroscopically as ‘rhyolite with fabric’. This has recently been provenanced to an isolated outcrop at Craig Rhos-y-felin within the Brynberian valley, two miles downstream from Carn Goedog (Ixer & Bevins 2011). The sources of the remaining rock types have yet to be located within the Preseli area, although the Altar Stone derives from the Senni Beds, perhaps from 50 miles east of Mynydd Preseli in the Brecon Beacons; the Cosheston Beds near Milford Haven can be ruled out (Ixer & Turner 2006; Thomas et al. 2006).
+  The distant origins of some of Stonehenge’s monoliths have given rise to a variety of hypotheses about how and why they might have come so far. The theory that the stones were carried by glaciers, transported during an Ice Age to Salisbury Plain or its margins (Kellaway 1971; Thorpe et al. 1991; Williams-Thorpe et al. 1997, 2006), has not been refuted until now, even though there is no evidence for glacial deposition within southern central England (Thomas 1923; Green 1973; McMillan et al. 2005; Gibbard & Clark 2011; Clark et al. 2012).
+  The bluestones were certainly in place at Stonehenge around 2500 BC within the Q and R Holes (Atkinson 1956: 46–50; Darvill et al. 2012: fig. 4), and were probably first set up within the Aubrey Holes (Darvill et al. 2012: fig. 3), forming a stone circle at Stonehenge around 3000 BC, long before the sarsen circle and trilithons were erected (Parker Pearson et al. 2009; Parker Pearson 2012: 193).
+Geological prospection of the ‘rhyolite with fabric’ source
+More than 1200 chippings from the 2008 Stonehenge Riverside Project (Parker Pearson 2012) and the SPACES project (Darvill & Wainwright 2009), and from excavations at Stonehenge in 1980 (Pitts 1982), have been characterised as ‘rhyolite with fabric’ (Ixer & Bevins 2010; Bevins et al. 2011). Most of these have been found in the centre of Stonehenge, but they also occur in its environs, almost as extensively as the spotted dolerite chippings. Six ‘rhyolite with fabric’ chippings were recovered from Aubrey Hole 7 in 2008. Of the 27 from the Stonehenge Avenue, one was found in a layer beneath the Avenue’s banks, and was thus deposited before 2480–2280 cal BC (see Darvill et al. 2012), indicating that ‘rhyolite with fabric’ was present at Stonehenge before the Early Bronze Age.
+  The fabric of this particular type of rhyolite is macroscopically typically planar, with a prominent foliation developed on the millimetre scale. In thin section, the foliation is seen to be slightly lensoidal, and contains flattened, ovoid lithic clasts (2–5cm) of microtonalite. Locally, the fabric is extremely well developed and described as ‘Jovian’ because it resembles the swirling weather patterns on Jupiter (Ixer & Bevins 2011). The main rock is commonly traversed by thin quartz veins that are tightly folded, with their folds being axial planar to
+
+
+Figure 2. The outcrop at Craig Rhos-y-felin under excavation (viewed from the north-west): 1) the prone 4m-long monolith; 2) the threshold slab; 3) the artificial platform; 4) the recess left by the extracted monolith; 5) the orthostat beside the prone monolith; 6) the orthostat beside the recess of the removed monolith; 7) the Neolithic hearth; 8) the Neolithic occupation area; 9) the Early Mesolithic hearths; 10) the lower platform and revetment; 11) the location of the close match for Stonehenge ‘rhyolite with fabric’. Photograph by Adam Stanford.
+
+
+Figure 3. Excavations at Stonehenge in 1954, showing Stone 32d (the middle of the three stone stumps); its laminated structure appears most like that of the Craig Rhos-y-felin rhyolite; by permission of English Heritage.
+the foliation, suggesting that the rock fabric is most probably not a primary texture but a later (tectonic) flattening fabric.
+  A strong petrographic match for these rhyolite fragments has been found with outcrops in the Pont Saeson area just north of Mynydd Preseli, specifically the outcrop of Craig Rhos-y-felin, belonging to the Fishguard Volcanic Group, of Ordovician age (Ixer & Bevins 2010; Bevins et al. 2011). This match is closest for samples from the north end of the outcrop’s near-vertical western edge (Figure 2 [location marked as 11]).
+  The actual position of a ‘rhyolite with fabric’ monolith (or monoliths) at Stonehenge has not yet been positively determined; the four currently exposed rhyolitic orthostats are not of this type, and the highly protected status of Stonehenge and its stones makes access for sampling difficult. On the basis of macroscopic appearance, Bevins and Ixer identify SH32d, a buried and unsampled laminated stump recorded by Atkinson and Piggott in 1954 as a ‘spotted dolerite’ bluestone, even though its appearance is most unlike spotted dolerite (Figure 3). Its dimensions of c. 0.4 × 0.45m in width and thickness (Cleal et al. 1995: 226, figs 120 & 141) correspond closely with those of a recess at Craig Rhos-y-felin, adjacent to the location of the matching sample (location 4 adjacent to location 11 in Figure 2).
+Archaeological excavation of the Craig Rhos-y-felin ‘rhyolite with fabric’ source
+Five field seasons of excavation were carried out in 2011–2015 to the north and west of this north-east–south-west oriented outcrop. Archaeological deposits form a 2m-deep
+
+Figure 4. South-east–north-west (A–B) section of the stratigraphic sequence on the west side of the outcrop, with the latest radiocarbon date for each layer; drawn by Irene de Luis.
+
+Figure 5. South-west–north-east (B–C) section of the stratigraphic sequence on the west side of the outcrop, with the latest radiocarbon dates for each layer (selected layers only); drawn by Irene de Luis.
+stratigraphic sequence on the west side that extends from the Early Mesolithic, through the Neolithic and Bronze Age to the Iron Age, to the ninth to eleventh centuries AD onwards (Figures 4–6). Colluvium has buried and protected the remains of prehistoric quarrying from subsequent stone removal and disturbance in the medieval and modern era. The archaeological sequence lies on a bed of glacial till within a small tributary valley on the west side of the outcrop. This tributary valley feeds into the Brynberian stream, which rises at various points in Mynydd Preseli, including the dolerite bluestone sources of Carn Goedog (Group 1) and Cerrigmarchogion (Group 2).
+
+Figure 6. Locations of the sections (marked in red) in Figures 4–5; photograph by Adam Stanford.
+Mesolithic activity
+Four Early Mesolithic hearths were set sequentially within the top of a large, humanly dug pit. Eight dates on carbonised hazelnut shell and roundwood from these hearths show little stratigraphic consistency but range between 8550–8330 cal BC (SUERC-50761; 9229±21 BP), and 8220–7790 cal BC (SUERC-51165; 8851±44 BP) at 95.4% probability (Figure 7; Table 1). The hearths were incorporated within the A horizon of a buried soil (098) containing oak charcoal that dated to 7490–7190 cal BC at 95.4% probability (combine of OxA-30523 and SUERC-51163). Another date for Mesolithic activity comes from a carbonised hazelnut shell in layer 069 at the northern tip of the outcrop: 5210–4947 cal BC (SUERC-46204; 6114±31 BP). The only artefact from the sequence of hearths was a tiny flint flake. There was no evidence of any Mesolithic quarrying or working of rhyolite from the outcrop.
+
+Figure 7. Chronological model of radiocarbon dates from the stratigraphic sequence at Craig Rhos-y-felin; those inconsistent with the stratigraphy are shown in green (thought to be later contaminants) and red (thought to be residual material, mostly from pit fills); compiled by Derek Hamilton.
+Table 1. Radiocarbon and OSL dates from Craig Rhos-y-felin in stratigraphic order. Calibrated dates are given at 95.4% probability.
+ContextContext typeDate cal BC/ADDate BPSample numberMaterialSpecies5 8
+9Colluvium Colluvium
+ColluviumAD 780–1040
+AD 810–1030
+AD 780–970109010801165±±±13011035OSL X5455
+OSL X5456
+SUERC-38133RoundwoodCorylus avellana39 20
+20
+41Ash layer
+Buried soil
+Buried soil
+Occupation layerAD 570–650
+AD 540–650
+750–390 BC
+373–203 BC1470240022161444±±±±17303535SUERC-46207 SUERC-38132 SUERC-38134 SUERC-44285Roundwood Grain
+Roundwood RoundwoodPomoideae Hordeum sp. Unidentified Quercus sp.41Occupation layer540–405 BC2416±16SUERC-44286RoundwoodCorylus avellana44Charcoal concentration540–390 BC2387±29SUERC-43194RoundwoodCorylus avellana44Charcoal concentration750–400 BC2434±29SUERC-43195RoundwoodQuercus sp.44Charcoal concentration710–390 BC2377±29SUERC-43196RoundwoodQuercus sp.63Charcoal concentration390–200 BC2243±27SUERC-46198WoodQuercus sp.66Charcoal concentration745–410 BC2434±20SUERC-46480;RoundwoodQuercus sp.66Charcoal concentration735–410 BC2432±19SUERC-46481RoundwoodQuercus sp.42 42
+42Upper pit fill Upper pit fill
+Upper pit fillAD 430–535
+1415–1305 BC
+2840–2495 BC157530814074±±±191819SUERC-42903 SUERC-42905 SUERC-42906Roundwood
+Roundwood
+NutshellTilia sp.
+Tilia sp.
+Corylus avellana43Lower pit fill1765–1635 BC3410±21SUERC-46482RoundwoodCorylus avellana43Lower pit fill3095–2925 BC4400±23SUERC-46483NutshellCorylus avellana081Lower topsoilAD 1660–. . .161±35SUERC-51161RoundwoodCorylus avellana081Lower topsoil740–390 BC2394±35SUERC-51162NutshellCorylus avellana081Lower topsoil1050–910 BC2825±25OxA-30504RoundwoodCorylus avellana081Lower topsoil790–540 BC2504±29OxA-30546NutshellCorylus avellana35
+35 35 40Colluvium
+Colluvium Colluvium
+Sediment with charcoal1030–890 BC
+1090–920 BC
+5410–3590 BC
+2200–2030 BC6500284137172799±±±±910272830SUERC-46199
+SUERC-46203 OSL X5454
+SUERC-46206Wood
+Wood
+RoundwoodQuercus sp.
+Quercus sp.
+PomoideaeTable 1. Continued.
+ContextContext typeDate cal BC/ADDate BPSample numberMaterialSpecies40Sediment with charcoal1415–1265 BC3076±26OxA-30508NutshellCorylus avellana115Platform under monolith2140–1950 BC3665±28OxA-31779RoundwoodCorylus avellana115Platform under monolith2200–1980 BC3700±30OxA-31780RoundwoodCorylus avellana115Platform under monolith4330–4050 BC5367±33OxA-31812NutshellCorylus avellana59Occupation layer3500–3120 BC4590±30SUERC-46205NutshellCorylus avellana59Occupation layer3620–3360 BC4667±30OxA-30502NutshellCorylus avellana110Orthostat pit fill7940–7650 BC8750±30Beta-392850RoundwoodCorylus avellana116Orthostat pit fill8280–7970 BC8966±38OxA-30504RoundwoodCorylus avellana116Orthostat pit fill8190–7680 BC8795±40OxA-30547RoundwoodQuercus sp.69Sediment with charcoal5210–4950 BC6114±31SUERC-46204NutshellCorylus avellana69Sediment with charcoal7490–7190 BC8301±37OxA-30503RoundwoodCorylus avellana153Palaeochannel basal fill5800–5640 BC6833±40OxA-32021RoundwoodCorylus avellana153Palaeochannel basal fill5620–5460 BC6543±37OxA-32022WoodTilia sp.98
+98
+100Buried soil
+Buried soil
+Hearth7460–7180 BC
+7540–7300 BC 8290–7970 BC898482798355±±±374847OxA-30523
+SUERC-51163
+SUERC-51164Wood
+Wood
+RoundwoodQuercus sp.
+Quercus sp.
+Corylus avellana100Hearth8210–7790 BC8848±37OxA-30506RoundwoodCorylus avellana102Hearth8290–7970 BC8970±45OxA-30548RoundwoodCorylus avellana102Hearth8240–7850 BC8890±40OxA-30549RoundwoodCorylus avellana106Hearth8210–7790 BC8851±44SUERC-51165RoundwoodCorylus avellana106Hearth8530–8280 BC9157±40OxA-30507NutshellCorylus avellana111Hearth8210–7960 BC8888±21SUERC-50760RoundwoodCorylus avellana111Hearth8550–8330 BC9229±21SUERC-50761NutshellCorylus avellana
+Figure 8. East–west section showing Neolithic layer 059 = 159 in relation to earlier and later deposits at the north end of the outcrop, with radiocarbon dates from each context; the location of this section is shown as the solid white line in Figure 11; drawn by Irene de Luis.
+Neolithic activity
+The Mesolithic layer 069 was covered by a localised Neolithic occupation layer (059 = 159), which includes a hearth against the north end of the outcrop (Figure 8). Two radiocarbon dates on carbonised hazelnut shells from this layer provide dates of 3500–3120 cal BC (SUERC-46205; 4590±30 BP) and 3620–3360 cal BC (OxA-30502; 4667±30 BP), both at 95.4% probability. Within this stratigraphic horizon are three features associated with the quarrying of megaliths. Two of these are stone orthostats set in pits that contained carbonised wood or nutshell fragments dating to the late ninth to early eighth millennium BC; these fragments are probably thus residual from the Early Mesolithic layers into which the pits were cut (as detailed below).
+  The Neolithic occupation layer (2m NE–SW × 3.5m SE–NW) consists of dark brown, charcoal-rich sediment (059 = 159) at the foot of the northern tip of the outcrop. Its focus was a small but multi-layered hearth, set in a small bowl-shaped pit, close to the vertical face of the outcrop and associated with 5kg of burnt stone (Figure 8). The complexity of the hearth and the quantity of localised burnt stone in its vicinity indicate that it was used many times. Finds include a small flint flake and rhyolite flakes.
+Bronze Age deposits
+The Neolithic layer 059 = 159 was covered by a deposit (040) radiocarbon dated by carbonised Pomoideae roundwood to 2200–2030 cal BC (SUERC-46206; 3717±27 BP) and by hazelnut shell to 1420–1260 cal BC (OxA-30508; 3076±26 BP). Farther south, beside the outcrop’s north-west face, a prone monolith rests on a level artificial terrace that contains charcoal of Mesolithic and Early Bronze Age date. The monolith probably dates to the Early or Middle Bronze Age (see below) as the terrace is stratigraphically below Late Bronze Age and Iron Age deposits.
+  Most of the site was then covered by a layer of yellow colluvium (035), dated by oak charcoal to 1030–910 cal BC (combine SUERC-46199; 2799±30 BP and SUERC-46203; 2841±28 BP). This deposit is contemporary with the uppermost fill of a palaeochannel of the Brynberian stream that flowed past the northern tip of the outcrop. Charcoal of Corylus and Tilia from the basal fill of this palaeochannel dates to 5800–5640 cal BC (OxA32021; 6833±40 BP) and 5620–5460 cal BC (OxA-32022; 6543±37 BP), both at 95.4% probability.
+Iron Age occupation
+The Late Bronze Age colluvial deposit did not reach the north-western face of the outcrop, where the prehistoric buried soil (098) was covered by a layer (081) with a wide range of dates from the Late Bronze Age onwards. Layer 81 was covered by a sequence of Iron Age layers (041 and 020) and localised deposits (e.g. pit 047). The Iron Age activity consisted of a sequence of two cultural layers with cut features, an iron artefact, worked flints and sherds of pottery. Dates of 3095–2925 cal BC (SUERC-46483; 4400±23 BP) and 2840–2495 cal BC (SUERC-42906; 4074±19 BP) fall within the Neolithic but come from hazelnut shell fragments in the fill of an Iron Age pit (047). Thus, their context cannot be considered to relate to the Neolithic horizon.
+Megalith-quarrying features
+Six megalith-quarrying features have been discovered at Craig Rhos-y-felin, three of them dating to the Bronze Age. From south-west to north-east, they consist of a prone monolith sitting on an artificial platform, a threshold slab embedded in the north end of this platform, two stone orthostats set in pits, a recess from which a pillar has been removed and a lower artificial platform revetted with a drystone wall above the bank of the palaeochannel.
+Bronze Age quarry features: the prone monolith and platform
+A 4m-long prone megalith sits on a bed of horizontally laid stones, the largest of which are two rail-like pillars to its rear (south-west) end (Figure 9). This bed of stones lies on a level artificial terrace 6m long and at least 4m wide, built on the sloping ground beside the outcrop. This platform was formed from at least 8 tons of 0.3–0.4m-diameter dumps of sediment and stones (layer 115), to reach a depth of 0.5m at its north end. Three determinations on Corylus charcoal from this platform fill date to 2140–1950 cal BC (OxA31779; 3665±28 BP), 2200–1980 cal BC (OxA-31780; 3700±30 BP) and 4330–4050 cal BC (OxA-31812; 5367±33 BP), all at 95.4% probability.
+  The megalith is matched petrographically with the adjacent near-vertical face of the outcrop. It has been split off the rock face but is not dressed or shaped in any way. A large stone shard has splintered off the base of the monolith, possibly explaining why the monolith was never moved out of the quarry.
+
+Figure 9. The 4m-long prone monolith (viewed from the south), showing one of two long pillars beneath the south-west end; along its south-east side a large flake has detached from the underside of the monolith; to the left is an archaeological trench dug through the artificial platform on which the monolith sits; photograph by Adam Stanford.
+Bronze Age quarry feature: the threshold slab
+In front (north-east) of this prone megalith, a large ‘threshold’ slab lies perpendicularly at the front of the artificial terrace. Crush and scrape marks indicate that a large stone was pulled over the top of this slab, possibly when a previously extracted megalith was removed from the quarry.
+Undated quarry feature: the orthostat north-east of the threshold slab
+Immediately north-east of the threshold slab, prone monolith and platform (and stratigraphically earlier than them; see layers 110 and 115 in Figure 5), a 1m-high orthostat was set upright within a hole, densely packed with stones of different sizes (Figure 2). This small standing stone has crush damage on its top, indicating that it must have supported a heavy stone at some point. It appears to have served as a prop or fulcrum for moving a megalith within the quarry. This feature was set into a larger Early Mesolithic pit with a sequence of hearths.
+Undated quarry feature: the recess left by a pillar removed from the outcrop
+The geological sample that provides the closest match for the ‘rhyolite with fabric’ bluestone chippings from Stonehenge was taken near the north end of the outcrop. Its precise location is immediately beside a recess in the otherwise even surface of the rock face, just 1.5m west of the Neolithic occupation layer. The dimensions of the recess indicate that a pillar 2.5m long, 0.4m wide and c. 0.4m thick was removed from here in antiquity (Figure 10).
+Undated quarry feature: the orthostat associated with the recess
+At the foot of the recess, 0.5m from the rock face, a 0.65m-high standing stone was set vertically in a pit amongst large packing stones. Signs of damage on the standing stone’s top and the stone’s evident displacement suggest that it once supported a heavy weight. It is interpreted as a fulcrum for pivoting a monolith after it had been detached from the outcrop.
+Undated quarry feature: the platform above the palaeochannel
+A level terrace or platform, 4.3m E–W × 3.5m N–S, was constructed 4m north of the north-east end of the outcrop by levelling up the uneven surface of the underlying glacial till with re-deposited sediment. Five stones were set on edge within this sediment, forming an arc with its open side facing north-eastwards (Figure 11). This array may have served to consolidate the platform’s looser material. Remains of a three-course drystone revetment wall (Figure 12) form the platform’s north-eastern edge, located above the Mesolithic sediments of the palaeochannel but covered by those of the Bronze Age. This artificial stone wall would originally have stood 0.9m high. We suspect that this platform and revetment wall formed a ‘loading bay’ where monoliths could be lowered onto wooden sledges or cradles to be transported away from the quarry. Two very large stone blocks sit at each end of the platform, although one of these—the north-eastern one—has slid off the wall. A flat-bottomed hollow way (not illustrated) leads northwards from the foot of the platform.
+Figure 10. The recess left by the extracted monolith, with the standing orthostat at its base (left), viewed from the west (photograph by Mike Parker Pearson).
+Dating the quarrying activity
+Most of the quarry features at Craig Rhos-y-felin cannot yet be dated more closely than to the fourth to second millennia BC. The prone monolith and its artificial platform date to after
+
+Figure 11. The Middle Neolithic occupation area north of the recess from which a monolith was detached (viewed from the north-east): 1) the hearth; 2) the occupation area (outlined by white dashed lines); 3) the arc of stones on edge within the lower platform; 4) the revetment of the south bank of the palaeochannel; 5) the recess left by the extracted monolith; the solid white line shows the location of the section illustrated in Figure 8. Photograph by Adam Stanford.
+2140–1950 cal BC (at 95.4% probability) and thus are many centuries later than the dates of the bluestone erections at Stonehenge. The most probable dates associated with the removal of the rhyolite pillar from its recess are 3500–3120 cal BC (SUERC-46205; 4590±30 BP) and 3620–3360 cal BC (OxA-30502; 4667±30 BP), both at 95.4% probability, provided by carbonised hazelnut shells from the small occupation layer just 1.5m away from it.
+  The later phase of quarrying at Craig Rhos-y-felin, represented by the prone monolith and its platform, dates to the Early Bronze Age, more than a thousand years after the Middle Neolithic activity. Intriguingly, the quarrying of a spotted dolerite pillar at Carn Menyn also dates to the Early Bronze Age (start of quarrying dating to 2160–1960 cal BC at 95.4% probability [start of dolerite-working]; Darvill & Wainwright 2014). This suggests that the Early Bronze Age was a period when numerous standing stones were quarried and erected in Pembrokeshire, long after the bluestones had been taken to Stonehenge.
+How were the bluestones extracted and when were they dressed?
+There is relatively little debris within the quarry to indicate the methods used for detaching monoliths from the rock face. Nor is there any evidence of fire-setting to split the monoliths from the rock, as is known from the north Italian Alps where it was used to detach long thermal flakes from jadeite boulders to make axeheads (Petrequin´ et al. 2008).
+
+Figure 12. The surviving courses at the west end of the revetment wall forming the north end of the lower platform, viewed from the north; photograph by Mike Parker Pearson.
+  The rock’s tendency to break into natural pillars makes the outcrop’s near-vertical northwest face an ideal place to extract such pillars with comparatively little effort and little need for stone tools. It seems probable that monoliths were detached by exploiting preexisting fissures in the rock, hammering in wooden wedges and perhaps enlarging fissures to allow access for such wedges. In the case of the recess from which the ‘rhyolite with fabric’ monolith was extracted, a 0.07m-wide indentation on its north edge appears to be a hollowed-out wedgehole. The only other archaeological excavation of a Neolithic megalith quarry in Britain, at Vestra Fiold (Orkney), provides similar inferences that monoliths were detached by driving wooden wedges into jointing fissures (Richards et al. 2013: 140).
+  Stonehenge is the only stone circle in Britain to have dressed stones. Current evidence suggests that this happened long after the bluestones reached Stonehenge. Most of Stonehenge’s bluestones, however, were never dressed. Of those that were, most form the inner horseshoe of bluestones that share a pattern of dressing similar to that of the sarsen trilithons but not the sarsen circle (Abbott & Anderson-Whymark 2012: 25), making it probable that these inner-horseshoe bluestones and the sarsen trilithons were dressed at the same time: this was probably around 2780–2485 cal BC at 95.4% probability (Model 1: start_stone_settings) (Darvill et al. 2012; Marshall et al. 2012: 38).
+How were the bluestones moved to Stonehenge?
+There are four hypothesised routes for taking the bluestones from Mynydd Preseli to Stonehenge:
+ Overland south to Milford Haven where they were loaded onto boats and brought around the south Wales coast to England, crossing the Severn Estuary and then up the Somerset Avon towards Salisbury Plain (Atkinson 1956: 104).
+ The longer and more hazardous sea route, initially along the south Wales coast and then around Land’s End to the mouth of the Wiltshire Avon (Atkinson 1956: 103).
+ Overland north to the valley of the River Nevern, then westwards to the sea at Newport, Pembrokeshire, and thence by sea around St David’s Head, a route considered improbable because of dangerous cliffs and currents (Atkinson 1956: 101).
+ Alternatively, overland eastwards along the upper Nevern valley and thence along a series of conjoining flat-bottomed, glaciated valleys of the Teifi, Tywi, Usk and Wye to meet the River Severn at Longford, north of Gloucester. The River Severn could have been forded here, and the bluestones taken over the pass beside Crickley Hill Neolithic causewayed enclosure and thence south to Salisbury Plain. Whilst the shorter sea route is about 180 miles long, this land route is around 220 miles.
+Although there is no evidence along any of the hypothesised routes (Figure 13) for the bluestones having passed that way—whether by sea or by land—a number of points can be made about the probable methods and directions of megalith transport. The position of the Craig Rhos-y-felin monolith quarry north of Mynydd Preseli, together with the recent discovery of the dominant source of the spotted dolerite bluestones on the northern slopes of these mountains, makes it unlikely that the bluestones were ever taken southwards to Milford Haven. To do this, the megaliths would have to have been brought up the steep northern edge of Mynydd Preseli before being carried down the southern slopes to the valley of the Afon Cleddau to Milford Haven. The most obvious route out of the quarries would have been northwards to the foot of the Preseli mountains before heading inland.
+  The overland route can be favoured for two reasons. The rejection of the Altar Stone’s source as being Milford Haven (Ixer & Turner 2006) reduces the likelihood that Milford Haven served as an entrepot for the bluestones. Secondly, a study of animal migration as aˆ proxy for human routes of movement through south Wales identified this overland route through Brecon as a major corridor in prehistory (Webley 1976). Webley even goes so far as to state that ‘Although the Prescelly [sic] Stones at Stonehenge suggest a coastal route, it was the inland route that was most favoured’ (1976: 26).
+  The sea route for the bluestones has been popular for decades, yet there is new information that suggests that the land route may have been less challenging than previously thought. The recent analysis of laser-scanned images of Stonehenge’s stones reveals that the bluestones were on average much lighter than Richard Atkinson’s estimate of 4 tons each; the new analysis provides more accurate estimates of 2 tons or less (Abbott & Anderson-Whymark
+
+Figure 13. Hypothesised routes for the bluestones to be moved to Stonehenge; the land route is suggested as the most probable; drawn by Irene Deluis.
+2012: 60). Monoliths of this weight can be easily moved by lifting and carrying them on rows of poles and rectangular frameworks of poles, as recorded in China, Japan and India, especially across hilly and forested terrain (Gowland 1902: 74, pl. 5; Hutton 1929: 337, pl. 14). A 4m-long monolith of 2 tons could have been carried by up to 60 people, with the average weight thus borne by each carrier being no more than 30–50kg. Such a mode of transport would enable the weight-bearers to protect the monolith from breakage while traversing uneven ground. In our view, the land route is the most probable because of this simple carrying arrangement, the minimisation of risk by avoiding open water, and the capacity for integrating communities along the route into the ceremony and spectacle that the megalith-moving would have attracted as the stones were passed from community to community.
+When did the bluestones travel? The mystery of Boles Barrow
+The Neolithic long barrow known as Boles or Bowls Barrow at Heytesbury, 12 miles west of Stonehenge, was excavated by William Cunnington in 1801. At a depth of 1.37m he found a ridge of stones and flints, and at 3.2m a surface of flints on which were laid the remains of 13 skeletons. He notes: “I discover among them [the ridge of stones] the Blue hard Stone also, ye same to some of the upright Stones in ye inner Circle atStonehenge” (Cunnington 1924). It is highly probable that this is the broken but un-dressed bluestone pillar fragment currently in Salisbury Museum (Figure 14; Pitts 2001: 198–204), now identified as spotted dolerite of Group 3 (Bevins et al. 2014). Given that British long barrows were constructed in the fourth millennium BC and Stonehenge was built in the third millennium BC, this discovery has proved something of a puzzle. Why would such
+Figure 14. The bluestone pillar fragment thought to come
+from Boles Barrow, Wiltshire; from Cunnington (1924). a stone have arrived on Salisbury Plain so early, well before even the commencement of the first stage of Stonehenge in 3100– 2920 cal BC (95.4% probability, ditch constructed; Darvill et al. 2012; Marshall et al. 2012: 13)?
+  Although the Group 3 spotted dolerite source remains unexcavated, the dates of 3620– 3360 cal BC and 3500–3120 cal BC for Neolithic activity beside the recess for a rhyolite monolith at Craig Rhos-y-felin raise the possibility that some or all of Stonehenge’s bluestones were obtained at this early date. Within this period, Amesbury 42 and Winterbourne Stoke long barrows were built on Salisbury Plain (dated to 3520–3350 cal BC [SUERC-24308; 4645±30 BP] and 3630–3360 cal BC [SUERC-42530; 4680±29 BP] respectively). Other Wessex long barrows have multiple phases of construction, commencing with burial deposits in the first half of the fourth millennium BC and culminating with stone structures, infillings and/or enlargements in the second half of the millennium or later (Whittle 1994; Schulting 2000; Bayliss et al. 2007; Whittle et al. 2007). Of the 13 primary inhumations from Boles Barrow, five have been dated, the latest to 3760–3630 cal BC at 95.4% probability (Wk18474; 4896±31 BP). It is possible that, as with other Wessex long barrows, Boles Barrow’s stone phase was not constructed until the second half of the fourth millennium, after the quarrying events at Craig Rhos-y-felin in 3620–3360 cal BC and 3500–3120 cal BC.
+  Were bluestones brought en masse to Salisbury Plain at this early date, perhaps to form kerbs and fac¸ades for Wessex long barrows in the same manner as documented for sarsen orthostats at Millbarrow near Avebury (as recorded by William Stukeley; Whittle 1994), Arn Hill, Warminster, and possibly King Barrow, Bishopstrow (Eagles & Field 2004: 59)? Or were they brought at many different dates, ultimately to be rounded up and installed at Stonehenge within its Aubrey Holes during Stage 1? In this respect, it is interesting that Stonehenge’s enclosing ditch contains curated animal bones collected in 3400–2910 cal BC (68.2% probability, start structured deposit; Marshall et al. 2012: 14).
+Why were the bluestones moved to Stonehenge?
+The discovery that the dominant bluestone sources (so far provenanced) lie on the north side of Mynydd Preseli removes one of the main lines of evidence for the healing theory proposed to explain the bluestones’ transportation, for as yet there is no convincing geological evidence that Carn Menyn provided pillars for Stonehenge (Bevins et al. 2014). Associations with medieval holy wells and healing-related springs on the south side of Preseli (Darvill 2007; Darvill & Wainwright 2009: 17–18; 2014: 1112) are thus no longer sustainable on the current evidence. Similarly, the relevance of the infirmities of the Beaker-period Amesbury Archer and Early Bronze Age trepanned individuals from the Stonehenge environs (Darvill 2007), all of them a thousand years after the Middle Neolithic quarrying at Craig Rhos-yfelin, can now be called into question.
+  So why might the bluestones have been brought to Stonehenge around 3000 BC? Gordon Childe (1957: 331) suggested that they were indicative of political unification or a sacred peace. Unification is certainly a possibility given the increasingly widespread distribution of shared styles of material culture such as Middle Neolithic Peterborough Ware (c. 3400– 2900 BC) across southern Britain at this time (Darvill 2010: 132–36). Equally, the date of quarrying at Craig Rhos-y-felin is around the same time or shortly after evidence of conflict (c. 3400 BC) at the causewayed enclosures of Crickley Hill, Gloucestershire, and Hambledon Hill, Dorset (Dixon 1988; Mercer 1999; Mercer & Healy 2008).
+  Alternatively, the bluestones were brought by communities migrating eastwards and settling on Salisbury Plain. This could explain the recent strontium and oxygen isotopic results for a male burial (3630–3360 cal BC at 95.4% confidence; SUERC-42530; 4680±29 BP) in a single grave beneath Winterbourne Stoke long barrow, 1.5 miles (2.4km) from Stonehenge (Alistair Pike & Susan Greaney pers. comm.). He grew up on Silurian and Devonian substrate in a region of high rainfall, characteristic of western Britain.
+  Thus the motivation for moving the bluestones such a distance was probably related to their significance as symbols of identity. This supports the hypothesis that their identity was ancestral, with stones representing the deceased ancestors (Parker Pearson & Ramilisonina 1998), because the earliest contexts in which bluestones were placed—Boles Barrow and the Aubrey Holes—were monuments with ancestral and funerary associations (Parker Pearson et al. 2009; Parker Pearson 2012).
+  It is possible that the bluestone monoliths were taken directly from their quarries to Salisbury Plain. An alternative explanation postulates ‘the removal of a venerated stone circle from Preseli to Salisbury Plain’ (Thomas 1923: 258). Might the bluestones have formed one or more monuments within Wales that were dismantled and moved in order to be incorporated, eventually, into Stonehenge? Such an act could have served to merge two sacred centres into one, to unify two politically separate regions, or to legitimise the ancestral identity of migrants moving from one region to another. Future research into Neolithic monuments within north Pembrokeshire may shed light on these possibilities.
+Acknowledgements
+We thank landowners Huw and Dilys Davies, our many project staff and volunteers, Phil Bennett and colleagues at the Pembrokeshire Coast National Park, Christian Baars and Jim Turner (photomicrography), Amanda Valentine-Baars (thin sections), D.Q. Bowen (for drawing our attention to recent literature on the lack of any evidence for ice sheets reaching Salisbury Plain), R.K. Mohanty of Deccan College, India (for his suggestion that bluestone monoliths were carried), Tim Daw, Paul Rainbird (for further observations on stone-carrying and moving), Vicki Cummings, Dave Field and Alison Sheridan (for comments on an earlier version of this paper). The Stones of Stonehenge project is funded by the National Geographic Society, the Natural Environment Research Council (radiocarbon dating), the Society of Antiquaries of London, the National Museum of Wales
+
+and the Royal Archaeological Institute.
+References
+ABBOTT, M. & H. ANDERSON-WHYMARK with D. ASPDEN, A. BADCOCK, G. DAVIES, M. FELTER, R.A. IXER, M. PARKER PEARSON & C. RICHARDS.
+2012. Stonehenge laser scan: archaeological analysis report. London: English Heritage Research Report 32/2012. Available at:
+http://services.english-heritage.org.uk/ ResearchReportsPdfs/032_2012WEB.pdf (accessed 28 August 2015).
+ATKINSON, R.J.C. 1956. Stonehenge. London: Hamish Hamilton.
+BAYLISS, A., A.W.R. WHITTLE & M. WYSOCKI. 2007.
+Talking about my generation: the date of the West Kennet long barrow. Cambridge Archaeological Journal 17 (supplement): 85–101. http://dx.doi.org/10.1017/S0959774307000182
+BEVINS, R.E., N.G. PEARCE & R.A. IXER. 2011. Stonehenge rhyolitic bluestone sources and the application of zircon chemistry as a new tool for provenancing rhyolitic lithics. Journal of Archaeological Science 38: 605–22. http://dx.doi.org/10.1016/j.jas.2010.10.014
+BEVINS, R.E., R.A. IXER & N.G. PEARCE. 2014. Carn Goedog is the likely major source of Stonehenge doleritic bluestones: evidence based on compatible element geochemistry and principal components analysis. Journal of Archaeological Science 42: 179–93. http://dx.doi.org/10.1016/j.jas.2013.11.009
+CHILDE, V.G. 1957. The dawn of European civilization. London: Routledge & Kegan Paul.
+CLARK, C.D., A.L.C. HUGHES, S.L. GREENWOOD, C.J. JORDAN & H.P. SEJRUP. 2012. Pattern and timing of retreat of the last British-Irish Ice Sheet.
+Quaternary Science Reviews 44: 112–46. http://dx.doi.org/10.1016/j.quascirev.2010.07.019
+CLEAL, R.M.J., K.E. WALKER & R. MONTAGUE. 1995.
+Stonehenge in its landscape: twentieth-century excavations. London: English Heritage.
+CUNNINGTON, B.H. 1924. The ‘blue stone’ from Boles Barrow. Wiltshire Archaeological and Natural History Magazine 42: 431–37.
+DARVILL, T.C. 2007. Towards the within: Stonehenge and its purpose, in D.A. Barraclough & C. Malone
+(ed.) Cult in context: reconsidering ritual in archaeology: 148–57. Oxford: Oxbow.
+– 2010. Prehistoric Britain. London: Routledge.
+DARVILL, T.C. & G.J. WAINWRIGHT. 2009. Stonehenge excavations 2008. Antiquaries Journal 89: 1–19. http://dx.doi.org/10.1017/S000358150900002X
+– 2014. Beyond Stonehenge: Carn Menyn quarry andthe origin and date of bluestone extraction in the Preseli Hills of south-west Wales. Antiquity 88:
+1099–114. http://dx.doi.org/10.1017/S0003598X00115340
+DARVILL, T.C, P. MARSHALL, M. PARKER PEARSON & G.J. WAINWRIGHT. 2012. Stonehenge remodelled. Antiquity 86: 1021–40. http://dx.doi.org/10.1017/S0003598X00048225
+DIXON, P. 1988. The Neolithic settlements on Crickley
+Hill, in C. Burgess, P. Topping, C. Mordent &
+M. Maddison (ed.) Enclosures and defences in the
+Neolithic of Western Europe (British Archaeological Reports international series 403): 75–88. Oxford: Archaeopress.
+EAGLES, B. & D. FIELD. 2004. William Cunnington and the long barrows of the River Wylye, in R.M.J. Cleal & J. Pollard (ed.) Monuments and material culture: papers in honour of an Avebury archaeologist: Isobel Smith: 47–69. Salisbury: Hobnob.
+GIBBARD, P.L. & C.D. CLARK. 2011. Pleistocene glaciation limits in Great Britain, in J. Ehlers,
+P.L. Gibbard & P.D. Hughes (ed.) Quaternary glaciations—extent and chronology—a closer look (Developments in Quaternary Science 15): 75–93.
+Cambridge (MA): Elsevier. http://dx.doi.org/
+10.1016/B978-0-444-53447-7.00007-6
+GOWLAND, W. 1902. Recent excavations at Stonehenge.
+Archaeologia 58: 37–105. http://dx.doi.org/10.1017/S0261340900008882
+GREEN, C.P. 1973. Pleistocene river gravels and the Stonehenge problem. Nature 243: 214–16. http://dx.doi.org/10.1038/243214a0
+HUTTON, J.H. 1929. Assam megaliths. Antiquity 11: 324–38.
+IXER, R.A. & R.E. BEVINS. 2010. The petrography, affinity and provenance of lithics from the Cursus Field, Stonehenge. Wiltshire Archaeological and Natural History Magazine 103: 1–15.
+– 2011. Craig Rhos-y-felin, Pont Saeson is the dominant source of the Stonehenge rhyolitic ‘debitage’. Archaeology in Wales 50: 21–32.
+IXER, R.A. & P. TURNER. 2006. A detailed re-examination of the petrography of the Altar Stone and other non-sarsen sandstones from
+Stonehenge as a guide to their provenance. Wiltshire Archaeological and Natural History Magazine 99: 1–9.
+KELLAWAY, G.A. 1971. Glaciation and the stones of Stonehenge. Nature 232: 30–35. http://dx.doi.org/10.1038/233030a0
+MARSHALL, P., T. DARVILL, M. PARKER PEARSON &
+G.J. WAINWRIGHT. 2012. Stonehenge, Amesbury, Wiltshire: chronological modelling. London:
+English Heritage Research Report 1/2012.
+Available at: http://services.english-heritage.org.uk/ ResearchReportsPdfs/001_2012WEB.pdf (accessed 28 August 2015).
+MCMILLAN, A.A., R.J.O. HAMBLIN & J.W. MERRITT. 2005. An overview of the lithostratigraphical framework for the Quaternary and Neogene deposits of Britain. British Geological Survey Research Report RR/04/04.
+MERCER, R. 1999. The origins of warfare in the British Isles, in J. Carman & A. Harding (ed.) Ancient warfare: archaeological perspectives: 143–56. Stroud: Sutton.
+MERCER, R. & F. HEALEY. 2008. Hambledon Hill, Dorset, England: excavation and survey of a Neolithic monument complex and its surrounding landscape. London: English Heritage.
+PARKER PEARSON, M. 2012. Stonehenge: exploring the greatest Stone Age mystery. London: Simon & Schuster.
+PARKER PEARSON, M. & RAMILISONINA. 1998.
+Stonehenge for the ancestors: the stones pass on the message. Antiquity 72: 308–26.
+PARKER PEARSON, M., A. CHAMBERLAIN, M. JAY,
+P. MARSHALL, J. POLLARD, C. RICHARDS, J. THOMAS, C. TILLEY & K. WELHAM. 2009. Who was buried at Stonehenge? Antiquity 83: 23–39. http://dx.doi.org/10.1017/S0003598X00098069
+PETREQUIN´	, P., A.-M. PETREQUIN´	, M. ERRERA, J. JAIME RIVERON, M. BAILLY, E. GAUTHIER & G. ROSSI. 2008. Premiers episodes de la fabrication des´ longues haches alpines: ramassage de galets ou chocˆ thermique sur des blocs? Bulletin de la Soci´et´e pr´ehistorique fran¸caise 105: 309–34.
+PITTS, M.W. 1982. On the road to Stonehenge: report on the investigations beside the A344 in 1968, 1979 and 1980. Proceedings of the Prehistoric Society 48: 75–132. http://dx.doi.org/10.1017/S0079497X00008392 – 2001. Hengeworld. London: Arrow.
+RICHARDS, C., J. BROWN, S. JONES, A. HALL & T. MUIR. 2013. Monumental risk: megalithic quarrying at Staneyhill and Vestra Fiold, Mainland, Orkney, in C. Richards (ed.) Building the great stone circles of the North: 119–48. Oxford: Windgather.
+SCHULTING, R.J. 2000. New AMS dates from the Lambourn long barrow and the question of the earliest Neolithic in southern England: repacking the Neolithic package. Oxford Journal of Archaeology 19: 25–35. http://dx.doi.org/10.1111/1468-0092.00097
+THOMAS, H.H. 1923. The source of the stones of Stonehenge. Antiquaries Journal 3: 239–60. http://dx.doi.org/10.1017/S0003581500005096
+THOMAS, R.G., B.P.J. WILLIAMS, L.B. MORRISSEY, W.J. BARCLAY & K.C. ALLEN. 2006. Enigma
+variations: the stratigraphy, provenance, palaeoseismicity and depositional history of the Lower Old Red Sandstone Cosheston Group, south Pembrokeshire, Wales. Geological Journal 41:
+481–536. http://dx.doi.org/10.1002/gj.1053
+THORPE, R.S., O. WILLIAMS-THORPE, D.G. JENKINS & J.S. WATSON. 1991. The geological sources and transport of the bluestones of Stonehenge, Wiltshire, UK. Proceedings of the Prehistoric Society 57: 103–57. http://dx.doi.org/10.1017/S0079497X00004527
+WEBLEY, D. 1976. How the west was won: prehistoric land-use in the southern marches, in G.C. Boon & J.M. Lewis (ed.) Welsh antiquity: 19–35. Cardiff: National Museum of Wales.
+WHITTLE, A.W.R. 1994. Excavations at Millbarrow chambered tomb, Winterbourne Monkton, north Wiltshire. Wiltshire Archaeological and Natural History Magazine 87: 1–53.
+WHITTLE, A.W.R., A. BAYLISS & M. WYSOCKI. 2007. Once in a lifetime: the date of the Wayland’s Smithy long barrow. Cambridge Archaeological Journal 17 (supplement): 103–21. http://dx.doi.org/10.1017/S0959774307000194
+WILLIAMS-THORPE, O., C.P. GREEN & J.D. SCOURSE.
+1997. The Stonehenge bluestones: discussion, in B. Cunliffe & C. Renfrew (ed.) Science and Stonehenge: 315–18. London: British Academy & Oxford University Press.
+WILLIAMS-THORPE, O., M.C. JONES, P.J. POTTS & P.C. WEBB. 2006. Preseli dolerite bluestones: axe-heads, Stonehenge monoliths, and outcrop sources. Oxford Journal of Archaeology 25: 29–46.
+http://dx.doi.org/10.1111/
+j.1468-0092.2006.00247.x
+
+
+Received: 9 January 2015; Accepted: 3 April 2015; Revised: 18 April 2015
+
+
+Craig Rhos-y-felin
+
+
+
+C Antiquity Publications Ltd, 2016
+1333
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mike Parker Pearson et al.
+
+Craig Rhos-y-felin
+
+C Antiquity Publications Ltd, 2016
+1336
+
+C Antiquity Publications Ltd, 2016
+1333
+
+Craig Rhos-y-felin
+
+C Antiquity Publications Ltd, 2016
+1333
+

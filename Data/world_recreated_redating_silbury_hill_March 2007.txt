@@ -1,0 +1,352 @@
+The world recreated: redating Silbury Hill in its monumental landscape
+Alex Bayliss1, Fachtna McAvoy2 & Alasdair Whittle3
+A classic exposition of the difficulties of dating a major monument and why it matters. Silbury Hill, one of the world’s largest prehistoric earth mounds, is too valuable to take apart, so we are reliant on samples taken from tunnels and chance exposures. Presenting a new edition of thirty radiocarbon dates, the authors offer models of short- or long-term construction, and their implications for the ritual landscape of Silbury and Stonehenge. The sequence in which monuments, and bits of monuments, were built gives us the kind and history of societies doing the building. So nothing matters more than the dates . . .
+Keywords: Europe, Late Neolithic, Early Bronze Age, Beaker, ritual landscape, radiocarbon dating, Silbury Hill, Stonehenge
+Introduction
+There came a time in many past societies when prodigious amounts of labour were directed into great tasks of construction, and few parts of the world are without mounds, pyramids, ziggurats or other substantial earthworks of some kind. Some of these are historically late, such as the mounds of the Mississippian culture, which was at its peak in the period AD 1200-1400. Others go back much earlier, such as the temple platforms of Mesopotamia from the fifth to the fourth millennia BC, followed by the ziggurats of the third millennium, or the first pyramids in Egypt, the earliest of which is the Step Pyramid of Djoser at Saqqara (after 2686 BC, the start of the Third Dynasty) (summarised in Whittle 1997a: 143-4; with references). No one sequence is quite the same, and these massive undertakings were often preceded by smaller enterprises. This sense of change and the scale which developed monuments can reach have prompted many questions. Who thought up these investments? What imperatives drove them? Whose social and political interests did they serve? Did they recurrently appear at significant points in sequences?
+  The Late Neolithic in southern Britain, broadly speaking in the third millennium BC, is one example of a society which engaged in enterprises of this kind, though not quite on the scale of some of the most extravagant examples worldwide. Impressive constructions in timber, earth, chalk and stone were numerous, but mostly grouped into local complexes, the best known spread across central-southern England (or Wessex) (Renfrew 1973; Wainwright
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+1989). The earthwork enclosures (‘henges’) of Avebury and Durrington Walls, containing substantial internal settings of stone and timber, and Stonehenge itself, are prime examples. Clearly these were collective undertakings, in that vast amounts of labour were needed, but how was this mobilised and who, if anyone, directed it? Compared with earlier constructions in the fourth millennium such as long barrows, causewayed enclosures and cursus monuments, what does the change of scale signify?
+  Many answers have been given to these sorts of questions, which we will return to below. Much is at stake, in terms of the kind of society and the pace and trajectory of change which we envisage at this time. Perhaps all answers so far – and perhaps all the questions too – have been offered within a rather loose or imprecise chronological framework. Material culture studies and individual site sequences offer some sense of order, but radiocarbon dating in this period has usually relied on small numbers of samples, often poorly selected, the results of which have normally been examined informally (cf. Bayliss et al 2007a). Only the chronology of Stonehenge itself has been explicitly modelled (Cleal et al. 1995: 511-35; Bayliss et al. 1997; Bronk Ramsey & Bayliss 2000), and as we shall see below, other readings are possible. This lack of chronological precision means that, whatever interpretive camp we may belong to, monuments tend to be lumped together (for an honourable exception, see Garwood 1991). What potentially may have been varied sequences structured by dramatic events, gaps, resumptions, accelerations and decelerations, have not so far been seen, both because we have not been willing to engage with chronology and because the now available methodology which can serve to redress the situation has not yet been consistently applied.
+  Silbury Hill is a case in point. Despite a long history of investigation and a general ascription to the Late Neolithic, the monumental mound has never been reliably dated. Recent disturbance to the mound, however, has allowed the collection of new samples, and other samples have been obtained from the archive. Thirty radiocarbon measurements are now available, which we interpret within a Bayesian statistical framework. From this, we present two chronological models. These agree in suggesting a date in the third quarter of the third millennium cal BC for the construction of the primary turf mound. Alternative readings are presented for the later history of the monument. In one, the mound is seen as a sequential series of constructional episodes and does not take on its completed form until the turn of the third millennium; in the other, construction is a much swifter process and the mound is essentially completed during the third quarter of the third millennium. Neither model is entirely satisfactory, but we feel that a more extended process of construction conforms better to our existing data. We then go on to discuss the implications of this for our understanding of the regional sequence and beyond, including comparison with the sequence at Stonehenge and the appearance of Beakers. We have the methodology now to offer much more precise estimates of date and we should be much more ambitious in our efforts to apply this to the Late Neolithic in southern Britain – and elsewhere.
+Silbury Hill
+The monumental mound of Silbury Hill sits on the edge of the upper Kennet valley, Wiltshire, close to the Avebury henge, the West Kennet Avenue, The Sanctuary, the West
+Kennet palisade enclosures and the West Kennet long barrow (SU 100 685; 51.24.56N,
+27
+Redating Silbury Hill in its monumental landscape
+
+Figure 1a. Silbury Hill from the north-east (NMR 21810/24 c English Heritage, NMR).
+01.51.25W; Figures 1a & 1b). It is thus part of one local complex, others lying to the north in the upper Thames valley and to the south at intervals across the Wessex Chalk (Wainwright 1989). Despite a long, punctuated history of investigation from the eighteenth to the twentieth centuries, and a general ascription to the Late Neolithic, Silbury Hill has not so far been reliably dated (Whittle 1997a). How therefore does it relate to the construction of Avebury and other local monuments, or further afield to Stonehenge?
+  We know, especially from the excavations of Richard Atkinson in 1968-70, that Silbury Hillwasdevelopedfromalayeredandperhapsstake-revettedprimarymoundbytheaddition of prodigious amounts of chalk, derived from flanking quarries and ditches, to reach its final dimensions of around 160m in diameter and 40m in height (some 30m above the buried old land surface). No clear evidence was recorded in the Atkinson excavations for prolonged breaks in the process of construction, in the form of major or developed turflines (Whittle 1997a: 25), and there are none in the six vertical cores through the mound obtained in
+2001-2003 (see below). While arguing that construction was a single process, Atkinson
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+
+Figure 1b. Diagrammatic section through Silbury Hill.
+(1968; 1970; 1978) suggested three major stages in its development (I: primary mound; II: first chalk enlargement; and III: final chalk enlargement; summarised in Whittle 1997a: 26; Figure 1b). Whittle suggested a series of more individual constructional events or phases (a-l: Whittle 1997a: 25) and the possibility of a lengthier span over which construction took place, over ‘one or more generations’ rather than the decade or so envisaged by Atkinson.
+  The four radiocarbon dates obtained using non-experimental methods on material from the 1968-70 excavations suggested a date in the third millennium cal BC (Figure 2), thus placing the monument in a Late Neolithic context rather than an early Bronze Age one which had been previously considered plausible. It was not, however, possible, on the samples available (and see below), to do more than suggest a date for construction between ‘2800/2500-2400/2000 BC’ (Whittle 1997a: 26).
+  The programme reported here sought to redress both these uncertainties, over the date of construction and the span of construction.
+Previous dating
+Ten radiocarbon measurements had been obtained previously (Whittle 1997a: Table 1; Table 1; Figures 2 & 3). Two were obtained in the late 1960s from Isotopes Inc., New Jersey. One of these (I-2795) was made on a mixture of antler fragments from the 1867 and 1922 excavations in the flank of the mound on its eastern side (Atkinson 1967: 262). As these antlers may have been of a range of actual ages, this result does not provide an accurate date for the chalk mound. A second bulk sample, consisting mainly of unburnt fragments of hazel with a small quantity of the roots and stems of other plants, was collected from the turves of the primary mound (I-4136; Atkinson 1969). This was pretreated and dated by gas proportional counting of carbon dioxide according to methods outlined in Walton et al. (1961), Trautman and Willis (1966), and Buckley et al. (1968).
+29
+Redating Silbury Hill in its monumental landscape
+
+Figure 2. Calibrated radiocarbon dates from non-experimental radiocarbon measurements from Silbury Hill available in 1997.
+
+Figure 3. Calibrated radiocarbon dates from different fractions of the turves used to build the primary mound.
+  Another series of measurements was undertaken on the turves of the primary mound, as part of an experimental programme at the Smithsonian Institution to determine the feasibility of dating prehistoric earthworks by dating turf buried during construction. Insoluble organic matter of different particle sizes was dated after hot alkali and acid pre-treatment (Stuckenrath & Mielke 1973), and alkali-soluble fractions were also dated from two of the samples (Table 1; Figure 3). This was done using gas proportional counting of methane (Sigalove & Long 1964). Only one of these results is statistically inconsistent
+  
+Table 1. Radiocarbon results from Silbury Hill.
+Calibrated datePosterior densityLaboratoryRadiocarbonrange (95%)estimate (probability)number	Material and contextage (BP)?13C (‰)Weighted mean (BP)confidence(see Figure 4)Old land surface OxA-13211?Sample 4 (Bone 690 find 433), indeterminate mammal bone, sheep/goat size, from the old land surface below the primary mound (0.87E, 1.31N-1.26N, at eastern edge of ‘pit’ or disconformity in layers at base of the primary mound: Whittle 1997: 20)2792 +? 34?20.41020-840 cal BC-OxA-13333?Sample 5, proximal pig radius (Bone 559 find 241), from old land surface at ring 4 of western lateral tunnel, in area of primary mound (Whittle 1997: Figure 12)3916 +? 28?20.83944
+T2550-2345 cal BC2550-2535 cal BC
+(1%) or 2495-
+2340 (94%)GrA-27332 Primary mouSample 5, replicate of OxA-13333 nd4015 +? 45?21.4I-4136Small twigs, hazel from bark
+(excavator’s identification), and plant stems and roots, from surface of turves in core of
+primary mound; all unburnt material4095 +? 952900-2450 cal BC-SI-910AH
+SI-910A
+SI-910BNaOH-soluble portion of SI-910A of turf from the primary mound Organic matter 2mm size from turf of primary mound
+Organic matter 1-2mm size from turf of primary mound5995 +? 185 4675 +? 110
+4315 +? 110SI-910AH is significantly too old (T	75.2;
+T
++ 52
+9.5;5330-4450 cal BC
+3370-3020 cal BC-
+-
+-Research
+Table 1. (Contd.).
+
+	Calibrated date	Posterior density
+Laboratory	Radiocarbon	range (95%)	estimate (probability)
+number	Material and context	age (BP)	?13C (‰)	Weighted mean (BP)	confidence	(see Figure 4)
+
+SI-910C	Organic matter 0.5-1mm size from	4570 +? 120	turf of primary mound
+from the primary mound (NaOH-soluble fraction)GrA-28555Sample 6 (TS1a), replicate of OxA-14640 (NaOH-soluble
+fraction)3710 +? 80?29.9OxA-14642Sample 7 (TS2b), dried mosses (see Table 2), from surface of a turf from the primary mound
+(NaOH-soluble fraction)3612 +? 31?28.GrA-28467Sample 7 (TS2a), replicate of OxA-1642 (NaOH-soluble
+fraction)3585 +? 40?29.9SI-910CH	NaOH-soluble portion of SI-910C	4465	130	-
+SI-910D	Organic matter under 0.5mm size	110	from turf of primary mound
+OxA-11663	Sample 6A (SILB3), dried mosses	3295 +? 60 ?28.1	(T	1740-1430 cal BC	-
+(see Table 2) from surface of a turf from the primary mound (acid wash only)
+OxA-11647	Sample 6B (SILB5), dried mosses	3746 +? 40 ?30.4	2290-2040 cal BC	-
+(see Table 2) from surface of a turf from the primary mound (acid wash only)
+OxA-14640	Sample 6 (TS1b), dried mosses (see	3735 +? 50 ?28.9	3634	7.0;	2120-1935 cal BC	-
+	Table 2) from surface of a turf	T
+OxA-14641	Sample 6 (TS1b), dried mosses (see	3898 +? 31 ?28.1	3848	6.4;	2560-2205 cal BC	2460-2415 cal BC
+	Table 2) from surface of a turf	T(11%) or 2410-
+from the primary mound (NaOH and HCl-insoluble fraction)2275 cal BC
+(84%)Table 1. (Contd.).
+Calibrated datePosterior densityLaboratoryRadiocarbonrange (95%)estimate (probability)numberMaterial and contextage (BP)?13C (‰)Weighted mean (BP)confidence(see Figure 4)GrA-28465Sample 6 (TS1a), replicate of OxA-14641 (NaOH- and
+HCl-insoluble fraction)3770 +? 40?28.9OxA-14643Sample 7 (TS2b), dried mosses (see Table 2), from surface of a turf from the primary mound (NaOH and HCl-insoluble fraction)3848 +? 31?27.8GrA-28466Sample 7 (TS2a), replicate of OxA-14643 (NaOH and
+HCl-insoluble fraction)3840 +? 40?28.9Chalk mound OxA-13210*Sample 1, antler tine, probably red deer. Not precisely located, but from early part of tunnel excavation in April 1968 and recorded as ‘e.side of chalk block wall’; There are chalk block walls around rings 11-13/14 on both sides of the tunnel (Whittle 1997: Figures 10-11) about 14-18 m into the mound, in the makeup of the chalk mound, and the sample should belong here3401 +? 36?22.13396
+T1750-1620 cal BC-GrA-27336 OxA-11970Sample 1, replicate of OxA-13210
+Sample 2, red deer antler, from clean chalk material above floor of tunnel at ring 12 on west side of tunnel, in the outer part of the mound (Whittle 1997: Figures
+10-11)33903633
+T2125-1920 cal BC21
+(
+135-2085 cal BC
+18%) or 2045-
+935 (77%)GrA-27335Sample 2, replicate of OxA-119703630 + 45?23.7?
+Research
+Table 1. (Contd.).
+
+Calibrated datePosterior densityLaboratoryRadiocarbon	range (95%)	estimate (probability)numberMaterial and contextage (BP)?13C (‰)Weighted mean (BP)confidence(see Figure 4)GrA-27331Sample 661-200100864, red deer antler, from context 30, large chalk blocks, approximately 2m below the top of the mound, seen in the sides of the hole recorded in 20013655 +? 45?23.22200-1890 cal BCI-2795A mixture of antler fragments from the 1867 and 1922 cuttings on the east mound side2750 +? 100--	-Chalk wallin OxA-13328?g at top of mound
+Sample 661-851, red deer antler, from context 7, the outer face of a
+very substantial chalk wall, approximately 70 cm below the top of the mound in Trench B of
+excavations in 20013856 +? 39?22.63870
+T2465-2210 cal BC	-OxA-14118Sample 661-851, replicate of OxA-133283878 +? 31?22.5South ditch
+BM-841Red deer antler, from near the excavated base (not more precisely recorded) of the south ditch cutting of 1969 (Whittle 1997: Figure 23). The cutting reached to within 1m of the base of the ditch.3752 +? 502300-2020 cal BC	22
+(90-2030 cal BC 95%)BM-842Red deer antler, as BM-8413849 +? 432470-2140 cal BC	2350-2130 cal BC
+(95%)  
+(SI-910AH) with the series. As a whole, however, these results are significantly earlier than the date on the plant material from a similar context provided by Isotopes Inc. (I-4136; see above).
+  Finally, two samples each consisting of a single antler recovered from the lowest excavated part of the south ditch cutting of 1969, were dated at the British Museum in the early 1970s (Burleigh et al. 1976). Collagen was extracted from these samples and dated as described by Barker et al. (1971). Probing suggested that the base of the ditch was about 1m below the base of the trench, so these results should be reasonably close in date to the digging of the quarry.
+  These dates from the ditch (BM-841-2) fall rather later than that from the vegetable material from the turves of the primary mound (I-4136). These results provided the basis for the estimate of a construction date somewhere between 2800/2500-2400/2000 BC suggested by Whittle (1997a: 26).
+Changed circumstances: the new dating programme
+Concluding the report on previous research on Silbury Hill, one of us noted the roughly 70-year intervals at which fieldwork had taken place up to the end of the twentieth century, but also claimed that ‘it is hard to envisage that future researchers will resist the challenge of the unanswered aspects of Silbury Hill’, including specifically its dating (Whittle 1997a: 167). That wish was granted much sooner than expected, and in far from ideal conditions, when part of the top of the mound collapsed in 2000, because of settling of the fill of previous tunnels. That led to remedial works, accompanied by further investigations and recording of the constituents of the mound in 2001 (Chadburn et al. 2005). That work provided some of the samples reported here. It was also the spur for further survey of, and research on, the mound (Field 2005; Harding et al. 2005; McAvoy 2005). Further remedial work on the tunnels will take place in due course to ensure they are properly backfilled, and repair work will be accompanied by an appropriate level of further archaeological investigation. It is likely that the repair will involve the re-opening of the Atkinson tunnel of 1968-9 and the Merewether tunnel of 1849, both of which are blocked at the entrance but not properly backfilled along their length (Amanda Chadburn, English Heritage, pers. comm., 27 March 2006).
+  Meanwhile, the new work at the top of the mound provided the spur for a reassessment of the unsatisfactory existing dating and led to our acquiring a few more samples from the archive of the Atkinson work assembled in the course of the 1997 publication. This was further extended by the late John Evans, who provided samples from the buried soil under the primary mound, which he had collected on his own initiative, for reference purposes, during the 1968-9 excavations. This helped to broaden the new dating programme.
+Objectives
+Further dating of the development of Silbury Hill was undertaken in response to the circumstances of 2000-2001, which highlighted the limitations of the existing dating, and to contribute to one of the research priorities identified in the archaeological research agenda for the Avebury World Heritage Site (AAHRG 2001). The availability of AMS and methodological advances which have been made in the interpretation of radiocarbon dates over the past decade or so provided the means to produce a rather more robust chronology for this monument (Bayliss & Bronk Ramsey 2004). This was also the opportunity to compare the dating of the monumental mound with other constructions in its local area (summarised in AAHRG 2001; Pollard & Reynolds 2002; Gillings & Pollard 2004) and beyond, for example at and around Stonehenge (Cleal et al. 1995: 511-35; Bayliss et al. 1997; Bronk Ramsey & Bayliss 2000).
+  Specifically, the new dating programme was designed to address the following objectives:
+ to date the constructional stages of the mound
+ and thereby to be able to compare the development of the mound with other Late Neolithic constructions in the Avebury area and beyond.
+Sampling
+The sampling programme was severely restricted by the circumstances of previous excavations of the monument. Rather little material survives in the archives, and contextual information is frequently not available or is imperfect. We have sampled as much reliably contexted material as we could locate. Our programme has concentrated on the archive of the 1968-70 excavations held in the Alexander Keiller Museum, Avebury, and on material recovered and excavated in 2000-2001. The archives from all previous work have not been located, although it should be noted that Richard Atkinson had access in the late 1960s to at least some material from the 1922 excavations.
+  Two scraps of animal bone were located from the old land surface under the primary mound (samples 4 & 5, Table 1). Three blocks of turf were found from the primary mound. These had been recovered at the time of the excavations of 1968-9 by John Evans and kept by him; their primary context is confirmed by the calcareous nature of the attached soil (Cornwall et al. 1997: 28). Dried mosses were picked from the surface of these turves, to form six bulk samples for AMS dating (Table 1). The identification of the species of moss in each sample is given in Table 2. In effect, these are replicate samples, and also replicate the earlier sample (I-4136) from an equivalent context. Multiple chemical fractions were dated from these samples. Three samples of red deer antler (one from the side of the crater at the top of the mound caused by the 2000 collapse) have been dated from contexts which appear to form the makeup of the chalk mound. One further sample of red deer antler was found in the recent excavations next to what may have been substantial chalk walling very near the top of the mound, presumably indicating that this sample is later than those from the main body of the chalk mound.
+  Because of the difficulties of removing contamination from samples from the mound (see below), and the technical problem identified with the bone preparation method used in the Oxford Laboratory when the samples were initially processed (Bronk Ramsey et al. 2004a), all but one of the new samples have been measured in replicate.
+Table 2. Identification of mosses.
+Sample numberLaboratory numbersMosses identifiedSample 6A (SILB3)OxA-11663Mainly Rhytidiadelphus squarrosus (Hedw.)
+Warnst., with some Calliergon cuspidatum (Hedw.) Kindb., cf. Plagiomnium sp(p), and some moss indet (mainly leafless or otherwise eroded shoots)Sample 6B (SILB5)OxA-11647Mainly Calliergon cuspidatum (Hedw.) Kindb., with some moss indet (mainly leafless or otherwise eroded shoots)Sample 6 (TS1)OxA-14640, GrA-28555, OxA-14641, GrA-28465Mainly Rhytidiadelphus squarrosus (Hedw.)
+Warnst., with some cf. Eurynchium sp(p),
+Neckara complanata (Hedw.) Hub.,¨
+Pseudoscleropodium purum (Hedw.) Fleisch, cf Plagiomnium sp(p), and some moss indet
+(mainly leafless or otherwise eroded shoots)Sample 7 (TS2)OxA-14642, GrA-28467, OxA-14643, GrA-28466Mainly Rhytidiadelphus squarrosus (Hedw.)
+Warnst., with some Calliergon cuspidatum (Hedw.) Kindb., cf. Plagiomnium sp(p), and some moss indet (mainly leafless or otherwise eroded shoots).
+Results
+Thirty radiocarbon results are now available from Silbury Hill (Table 1). They are conventionalradiocarbonages(Stuiver&Polach1977).ThecalibrateddaterangesinTable1 have been calculated using the maximum intercept method (Stuiver & Reimer 1986) and provide a simple summary of the radiocarbon date of each sample; all other distributions are based on the probability method (Stuiver & Reimer 1993). All results have been calibrated using OxCal (v3.10) (Bronk Ramsey 1995; 1998; 2001) and data from Reimer et al. (2004).
+  Nineteen new measurements were made between 2001 and 2005. Eight of these results were produced by the Centre for Isotope Research, Rijksuniversiteit Groningen, in 2005. These samples were prepared and dated as described by Aerts-Bijma et al. (1997; 2001) and van der Plicht et al. (2000). The other eleven results were produced by the Oxford Radiocarbon Accelerator Unit between 2001 and 2005. The six samples of dried moss were processed according to methods outlined in Hedges et al. (1989). The five samples of bone and antler were initially processed using the gelatinisation protocol described by Bronk Ramsey et al. (2000). Following the discovery in the laboratory of a contamination problem associated with this method, in four cases the contaminated material was re-processed, graphitised, and dated, as described by Bronk Ramsey et al. (2004a). These results are denoted by an asterisk in Table 1. One of these samples, 661-851, was dated for a second time using collagen extraction (Law & Hedges 1989; Hedges et al. 1989), followed by the revised gelatinisation and filtration protocol described by Bronk Ramsey et al. (2004a). The two measurements (OxA-13328 and OxA-14118) are statistically consistent (Table 1; Ward & Wilson 1978), as are the pairs of measurements on the two samples where dates from Oxford on re-filtered material have been replicated by Groningen (samples 1 & 5; Table 1).
+This consistency gives us further confidence in the effectiveness of the re-purification process applied to these samples (see also Bayliss et al. 2007a: Figure 26). Sample 2 was also processed according to the method described by Bronk Ramsey et al. (2000) at Oxford, but does not seem to have been affected by the contamination problem, as this result (OxA-11970) is also statistically consistent with a replicate from Groningen. All these samples were dated by AMS as outlined in Bronk Ramsey et al. (2004b), except for OxA-11647 and OxA-11663 (a carbon dioxide target) which were dated as described by Bronk Ramsey and Hedges (1997).
+  The ten new radiocarbon results from samples of mosses retrieved from the surfaces of turves incorporated in the primary mound are statistically significantly different, from each other (T 9), from the series of results from bulk organic soil fractions measured by the Smithsonian Institution in the 1960s (excluding SI-910AH)
+14), and from the sample of plant material dated from
+a similar context in 1968 (T 10). The bulk soil samples probably contained organic matter dating from the whole period of the soil’s formation. The consistency of the results of the different particle size fractions suggests that these measurements are probably reliable estimates of the radiocarbon content of this material, although the resultant date only provides a terminus post quem for the mound. The wide variation in the new measurements appears to relate to contamination by a younger humic component in the samples. The four measurements on the acid/base insoluble fraction of this material are statistically consistent (Table 1) and are considered to be the most reliable for determining the age of the mosses. Since this material was growing on the surface of the turf, all the fragments of moss must have grown in the few years before the mound was raised. The results on the alkali-soluble (‘humic fraction’) are also statistically consistent but are significantly younger (Table 1). Since humics can be mobilised and remobilised within sediments, particularly in an alkaline environment such as the chalk mound of Silbury, it is likely that these results relate to later contaminants. The varying results on OxA-11663 and OxA11647 also seem to relate to the incomplete removal of a younger humic component, as these samples were fragile and light and so were only treated with acid. For these samples, this appears to have been insufficient to remove all contaminants. The four new results on the acid/alkali insoluble fraction of the moss are, however, significantly later than that of the bulk sample of equivalent material previously dated (I-4136; T 4). As thissampleconsistedofunburntplantmaterialfrom within theturvesoftheprimarymound, rather than from their surface, the incorporation of some slightly earlier material preserved in the turf is perhaps not unexpected. For these reasons the four measurements on the acid/ alkali insoluble fraction of the moss have been incorporated in the models presented below.
+Interpretation
+The new programme for dating Silbury Hill was conceived from the outset within a Bayesian statistical framework. This allows the chronology of the monument to be formally estimated, using an explicit statistical methodology, from both the radiocarbon dates and the stratigraphic sequence revealed by archaeological excavation. This approach was introduced for the construction of archaeological chronologies more than a decade ago (Buck et al. 1991; 1992; 1994a-c; Bronk Ramsey 1995; Buck et al. 1996), and the impact of its routine application is beginning to become apparent (Bayliss & Bronk Ramsey 2004; Whittle et al. 2007). Since this approach integrates more than one type of information, it provides date estimates that are not only formal but also more robust and precise than those reliant on only one element of the chronological information available about a site (i.e. either the stratigraphy or the radiocarbon dating). To distinguish them from simple calibrated radiocarbon dates, ranges derived from chronological modelling are printed in italics in this paper, following emerging convention, along with the relevant parameter name (often the laboratory number). Such chronologies are interpretative and, particularly for sites such as Silbury Hill, where analysis of the archaeological record is not unambiguous, it can be essential to explore alternative readings (Bayliss et al. 2007a).
+  The chronological model which incorporates the recorded stratigraphic sequence of all these samples is infinitely improbable. The most dramatic disconformity is between sample 4 (OxA-13211) and its recorded position as being from the old land surface beneath the primary mound. This date is at least a millennium later than the replicated samples of moss fragments from the turves forming the primary mound: from the stratigraphy an unimpeachably later context. The survival of uncharred mosses and grasses on the surface of these turves strongly indicates that the mound cannot be of Late Bronze Age date, as such material would not survive in aerobic conditions for an entire millennium. There is no obvious explanation for this result, but it is just possible that younger material was inadvertently introduced (on the soles of footwear for example) into the centre of the mound either during the eighteenth-century vertical tunnel or the nineteenth-century horizontal tunnel, or in the subsequent individual and unauthorised explorations of the collapsing 1849 tunnel after 1915, as recorded in correspondence with Richard Atkinson (Whittle 1997a: 10), or indeed during the 1968-9 excavations. An alternative is that the very small sample in question had been mis-recorded during the excavations.
+  Sample 661-851, adjacent to the chalk walling very near the top of the mound, recovered in the recent excavations, also has poor agreement with its apparent stratigraphic position on top of, i.e. later than, the antler samples from within the makeup of the chalk mound. In this case, either this sample is redeposited from an earlier context or the dated samples from the chalk mound do not relate to its primary construction but to later episodes of modification. In more detail, sample 661-851 was found at the interface of the ‘outer’ face of a possible chalk ‘wall’ (7) and a chalk layer (11). Sample 661-200100864 is from a layer of chalk (30) that is similar in appearance to layer 11, but lower in the uppermost part of the mound. These layers were found in separate parts of the summit and their stratigraphic relationship is therefore not strictly known. Sample 2 came from the outer part of the chalk mound at ring 12 of the 1968-9 tunnel (Whittle 1997a). This is from the outer body of Silbury III, but perhaps sufficiently close to its sloping outer face to conceivably represent later modification or slippage.
+Model 1
+A chronological model for the development of Silbury Hill is shown in Figure 4. This model incorporates the interpretation that sample 661-851 (Wall; Figure 4) is redeposited, and so the construction of the chalk mound is best dated by the antlers recovered within it.
+
+Figure 4. Probability distributions of dates from Silbury Hill. Each distribution represents the relative probability that an event occurs at a particular time. For each of the dates, two distributions have been plotted: one in outline, which is the result of simple radiocarbon calibration, and a solid one, based on the chronological model used (in this case model 1); the ‘event’ associated with, for example, GrA-27331, is the growth of the dated antler. Distributions other than those relating to particular samples correspond to aspects of the model. For example, the distribution ‘construct Silbury I’ is the estimated date when the primary turf mound was raised. Measurements followed by a question mark have been excluded from the model for reasons explained in the text, and are simple calibrated dates (Stuiver & Reimer 1993). The large square brackets down the left-hand side along with the OxCal keywords define the overall model exactly.
+Sample 1 has been excluded from the model on the grounds that its location within the outer chalk mound was not precisely located, that it is statistically significantly later than the other two samples from the chalk mound, and that it may therefore relate to later, peripheral modification of the mound. Consequently, we think that samples 2 and 661-200100864 (sample 2 and GrA-27331; Figure 4) may provide a more reliable indication of the date of the chalk mound. This is reinforced by the dates obtained on antlers from near the base of the south ditch cutting of 1969 (BM-841-2; Figure 4), since the chalk from this quarry must presumably have gone into the formation of the mound. The two south ditch dates are statistically significantly different to those from the chalk mound (T 7.8; ? = 3) and so we further suggest that these samples may provide a terminus ante quem for the initiation of the chalk mound as a whole.
+  This reading of the archaeological sequence formalised in model 1 allows us to estimate that the primary mound of Silbury Hill was raised in 2415-2190 cal BC (95% probability;
+
+Figure 5. Probability distributions of dates from Silbury Hill, based on model 2. The format is identical to that for Figure 4. The large square brackets down the left-hand side along with the OxCal keywords define the overall model exactly.
+
+Figure 6. Probability distributions showing the number of calendar years taken to construct Silbury Hill. These distributions are derived from the models shown in Figures 4 and 5.
+construct Silbury I; Figure 4), or 2335-2235 cal BC (68% probability). The chalk mound was constructed in 2125-2075 cal BC (11% probability) or 2055-1915 cal BC (84% probability; construct Silbury II-III; Figure 4), or 2035-1950 cal BC (68% probability). It should be noted that both of the dated antler samples from the chalk mound come from its outer or uppermost parts – in Atkinson’s terms from Silbury III. It is possible therefore that the antlers from the south ditch cutting, which are earlier, may relate to the episode of construction which in Atkinson’s terms formed Silbury II.
+  By comparing the estimates for the construction of Silbury I and what we have argued is an estimate for the construction of Silbury III in model 1, we can suggest that the Silbury Hill mound was a phased development, taking 140-435 years (95% probability; build Silbury (Model 1); Figure 6), or 220-365 years (68% probability) to reach its near-final form. On the basis of the date of sample 1, further modification of the outermost parts of the mound is indicated as lasting into the early second millennium cal BC (sample 1; Figure 4).
+Model 2
+An alternative reading of this sequence is shown in the chronological model defined in Figure 5. In this case, all four antler samples from the chalk mound are considered to relate to later modifications of the outer and uppermost parts of Silbury III, and the antler sample from the chalk walling at the top of the mound (661-851; Wall; Figure 5) is interpreted as a tool relating to topping out the chalk mound. This early construction of the chalk phase of the mound conforms with the dates of the antlers from the south ditch cutting (BM-841-842; Figure 5), given that chalk from that ditch contributed to the make-up of the chalk mound.
+  Model 2 suggests that the primary mound was constructed in 2445-2265 cal BC (95% probability; construct Silbury I; Figure 5), or 2390-2295 cal BC (68% probability). Silbury III was topped out in 2405-2270 cal BC (79% probability) or 2260-2205 cal BC (16% probability; Wall; Figure 5). By taking the difference between these two estimates, it can be suggested that the principal building phase of Silbury Hill took between 1115 years (95% probability; build Silbury (Model 2); Figure 6), or 1-50 years (68% probability).
+  Although this estimate is more in line with previous interpretations of a shorter rather than longer building process (Atkinson 1968; 1970; 1978; Whittle 1997a: 26), we feel that this is the less plausible of the two models. This is because of the consistently late dates from antlers recovered from the chalk mound. I-2795 was made on bulk material from at least two areas of excavation on the eastern flank of the mound, and so may easily contain material of a range of ages. It is more difficult to dismiss samples 1 and 2 as later. The precise location of sample 1 is uncertain and so might relate to later modifications, but sample 2 is securely located (see above, and Table 1), some metres within the outer part of the chalk mound. It is even more difficult to overlook the result from 661-200100864 (GrA-27331). This antler is from the recent excavation of 2001, securely located in a deposit of chalk blocks 2m from the top of the mound, apparently below the level from which sample 661-851 was recovered.
+  We would like to stress that neither of the models for the chronology of Silbury Hill presented here is entirely satisfactory. We prefer model 1 because it requires less special pleadingthanmodel2.Thisprogrammehas,however,substantiallyadvancedourknowledge of the chronology of the monument. Both models agree in placing the raising of the primary mound in the twenty-fourth or twenty-third century cal BC (Figure 7). On the basis of the antler samples from the south ditch cutting, they agree in suggesting that at least some part of the chalk mound was raised shortly after. The interpretations differ as to whether the monument reached its near-final form at this time or whether there was a major phase of enlargement (Silbury III) in the years around 2000 cal BC (construct Silbury II-III; Figure 7). Under either reading, further modifications around the margins of the mound continued well into the Bronze Age.
+
+Figure 7. Probability distributions of key dates from Silbury Hill, derived from model 1 (Figure 4) and model 2 (Figure 5). The format is identical to that for Figure 4.
+Discussion: the world recreated
+Social explanations have tended to dominate interpretive discussion of Silbury Hill, but the great monumental undertaking was both a social fact and an expression of cosmology and worldview. How do the chronological models presented here change our views of the heroic enterprises of the Late Neolithic of southern Britain?
+  Previous estimates of the time it may have taken to construct Silbury Hill were strongly influenced by the absence of visible hiatus in the form of turflines reflecting periods of standstill; recent remedial work appears to have confirmed their absence. Richard Atkinson favoured a quick build, perhaps over a decade or so (1968; 1970; 1978), while Whittle suggested a slightly more extended process of ‘one or more generations’ (1997a: 26). Our preferred model 1 now suggests a significantly longer span over which building took place (build Silbury (Model 1); Figure 6).
+  These estimates, especially those of model 1, have important implications for how we view the sociality of the building process. Previously, one temptation (classically in Renfrew 1973) has been to see major earthwork and related enterprises as the expression of chiefdom society: concentrated programmes under the influence of dominant figures able to exercise their authority and influence, if not power, to mobilise labour over finite periods of time. If the building process, however, took in this case rather longer – and we can refer also to extended chronologies for both Avebury (Pollard & Cleal 2004) and Stonehenge (Cleal et al. 1995: 511-35; Bayliss et al. 1997) – how does that view stand up? We cannot dismiss the idea of centralised authority on the basis of a longer timescale alone, since that is quite compatible with more concentrated episodes of political activity within it. Perhaps all monuments of any scale may have involved considerable discussion and contestation (Richards 2005). The goal of extending and perhaps eventually completing a major place of devotion, pilgrimage and labour could have been a focus for the activities, claims and propaganda of putative chiefs or other leaders over several generations. And we can summon other new evidence for the possibility, if not likelihood, of dominant social personae at this time, seen for example in the recent discovery of the probably broadly contemporary Beaker-associated ‘Amesbury Archer’ near Stonehenge (Fitzpatrick 2002).
+  On the other hand, an extended timescale for construction seems rather to throw the enterprise into a more fluid social setting. Arguments and contestation surrounding the construction process as envisaged by Richards (2005) suggest a lack of clearly established leadership. Dominant figures may have emerged, and by the end of the long and perhaps episodic process (see Barrett 1994: 163) of deciding to build, mobilising the labour of the wider community, energising subsequent generations after short-term lapses, and directing the great works as they rose higher and higher and nearer to the limits of what was possible in that particular form. Another account stressed the likely importance of charismatic individuals (Whittle 1997a: 147-9), and the timescales offered here may suggest that it was a succession of these, within a more widely shared agreement through the moral community about the necessity and desirability of the massive undertaking, who kept the project going for so long.
+  It is not possible to keep the social, conceptual and spiritual dimensions of the monumental mound apart. The possibility of broad general agreement (if regularly contested in details) about the project through the moral community can be linked to the notion of ritual cycle: ideas about sacred realms, the past and the beginnings of the world, which led people to such communal undertakings of prodigious labour investment (Whittle 1997a: 166). One of us has referred to ‘myths of return, and belief in renewal, allied to a desire to both honour and emulate the ancestors, in a matrix of cyclical, ritual time’ (Whittle 1997a: 166). This kind of view has been elaborated by Parker Pearson and Ramilisonina (1998: Figure 8; Parker Pearson 2000) for the Avebury area, but concentrating upon an argued contrast between the circles of the living in the form of the West Kennet palisade enclosures and the circles of the ancestors in the form of Avebury.
+  Both these models have been constructed on the basis of very imprecise chronology, and assume that all the major monuments of the Avebury area were built and in use at more or less the same time (Whittle 1997a: 164-5; Parker Pearson & Ramilisonina 1998: Figure 8). Parker Pearson (2000: Figures 17.4-5) gives a more diachronic view, in which Avebury is built before 2500 cal BC and is then joined by the West Kennet palisade enclosures and Silbury Hill between 2500 and 2000 cal BC. Imperfect though the preferred model 1 presented here may be, it serves to begin to refine the picture further, especially when combined with other advances in our understanding of the third millennium cal BC chronology for the region. The long barrows and causewayed enclosures of the region were already very old, potentially of ancestral status (Whittle 1997a: Figure 87), which we can now estimate to belong to specific centuries of the fourth millennium cal BC. That is another story, to be presented elsewhere (Whittle et al. 2007). The ditches of Windmill Hill were still infilling in the twenty-fourth and twenty-third centuries cal BC, and Beaker pottery there could belong to that sort of date or later (Whittle et al. 1999). The secondary filling of the chambers and passage of the West Kennet long barrow was probably completed around or soon after c. 2400 cal BC (Bayliss et al. 2007b). The small, short-lived enclosure
+
+Figure 8. Probability distributions of dates from the stone settings at Stonehenge, incorporating the interpretation of the sequence proposed by Cleal et al. (1995: Appendix 3). The format is identical to that for Figure 4. The overall model is that described by Bronk Ramsey and Bayliss (2000), with the model for phase 3 defined by the large square brackets down the left-hand side along with the OxCal keywords.
+at Beckhampton appears to date to the mid-third millennium cal BC or before, with Grooved Ware at the base of the ditch and dates variously given as between 2650/2500 and 2510/2300 cal BC (Gillings et al. 2002: 255) or for construction between 2900 and 2600 cal BC (Pollard & Cleal 2004: 125). The initial, slight earthwork at Avebury was followed by the major ditch and bank construction perhaps in the second quarter of the third millennium cal BC (Pollard & Cleal 2004); the construction or completion of the Outer Stone Circle, however, may have taken rather longer (Pitts & Whittle 1992). The West Kennet palisade enclosures are not precisely dated, but can be assigned to the second half of the third millennium cal BC (Whittle 1997a: Table 1). We do not have radiocarbon dates for the West Kennet or Beckhampton Avenues, nor for The Sanctuary (Pollard & Cleal 2004: 125).
+  So there remain many uncertainties, but it looks increasingly unlikely that the construction phases of all these monuments fall in exactly the same horizon. The situations envisaged by both Whittle (1997a: Figure 87) and Pearson and Ramilisonina (1998: Figure 8; note again Parker Pearson 2000), with a number of monuments in contemporary and inter-linked use, may only have come into being after long histories of development. The same point can of course be made for Stonehenge itself (Cleal et al. 1995; Bayliss et al. 1997). By the time of the twenty-fourth or twenty-third centuries cal BC, when we suggest that the construction of Silbury Hill may have begun, the sarsen settings had probably been set up, but the bluestone circle and horseshoe had probably not, perhaps being raised at the end of the third millennium cal BC. (Unfortunately, the archives for earlier work at both Silbury Hill and Stonehenge are probably now insufficient to get any more precision for this comparison.)
+  The published model for the dating of Stonehenge (Cleal et al. 1995: Appendix 3; Bayliss et al. 1997; Bronk Ramsey & Bayliss 2000) has been recalculated using the updated internationally agreed calibration data of Reimer et al. (2004), and is shown in Figure 8. This model treats each major setting as a unitary construction, and so stratigraphic relationships between one element of a setting can be taken as representative of the whole. On this basis, the sarsen trilithons must be earlier than the bluestone settings, and the sarsen circle must be earlier than the Y and Z Holes (Cleal et al. 1995, Figure 268). Our revised estimates for the construction of the stone settings at Stonehenge are shown in Table 3. We have also, however, remodelled the dating of Stonehenge in Figure 9, using the practical suggestion of Humphrey Case (1997: 263-5) that the trilithons can only have been constructed before the construction of the sarsen circle, simply because there could scarcely have been space to put them up within an already standing sarsen circle. In this reading, UB-3821 from the sarsen circle (on an antler from the stonehole of Sarsen 1) is interpreted as residual. The estimates for the construction of the major stone settings of Stonehenge derived from this model are also shown in Table 3.
+  Our alternative chronologies for Silbury Hill and the stone settings at Stonehenge are shown in Figure 10. This demonstrates that, according to model 1 for Silbury Hill, it is probable that the great mound was constructed after the major sarsen settings of Stonehenge, but before the bluestone settings. If model 2 is preferred, however, the sequence is more dependent on our interpretation of the data from Stonehenge. If Case’s reading is followed, then both Silbury I and the sarsen settings of Stonehenge may fall in the twenty-fourth century cal BC. If, however, the already published model is preferred, then the sarsens may have reached Stonehenge and been set up there from the twenty-sixth century cal BC onwards. We find Case’s logistical argument attractive, if the stone settings were unitary constructions. This may be supported by the presence of a Beaker sherd in the stonehole of Trilithon 54 (Cleal et al. 1995: 198). As yet another variation, we could see the settings as the outcome of longer and more piecemeal construction – thus not unitary or quick building events. In that case, sarsen circle and trilithons could have been begun from the same point onwards, to be dated by UB-3821 and OxA-4840 (from Trilithon 53/54) respectively, and been completed by the dates given by OxA-4839 (Trilithon 57) and BM-46 (claimed
+
+Figure 9. Probability distributions of dates from the stone settings at Stonehenge, incorporating the revised interpretation of the sequence proposed by Case (1997: 263-5). The format is identical to that for Figure 4. The overall model is that described by Bronk Ramsey and Bayliss (2000), with the revised reading for phase 3 defined by the large square brackets down the left-hand side along with the OxCal keywords.
+erection ramp for Trilithon 56). In this scenario, Silbury Hill is either later than the sarsen settings at Stonehenge or was constructed as they were nearing their final form. In our view, multiple readings of the chronologies of both these monuments are currently possible, and it is a matter of archaeological interpretation to determine which are preferred. Without further excavation, it is unlikely that we can reach a consensus on these issues.
+  If, despite the difficulties at both Silbury Hill and Stonehenge, a more robust sequence is beginning to emerge, so too is a stronger sense of change with passing generations. There may have been layered senses of time at work here, some looking back to ancestral pasts, already referred to above in the notion of ritual cycle. But this notion may itself have been in
+  
+Table 3. Posterior density estimates for the construction of the stone settings at Stonehenge, according to the alternative models for phase 3 of the monument shown in Figures 8 and 9.
+	Figure 8 (after Cleal et al. 1995)	Figure 9 (after Case 1997)
+95% Probability68% Probability95% Probability68% ProbabilityParameter(unless otherwise noted)(unless otherwise noted)(unless otherwise noted)(unless otherwise noted)Sarsen Circle2580-2470 cal BC2575-2560 cal BC (14%) or 2535-2490 cal BC (54%)--Sarsen Trilithons2455-2215 cal BC2405-2265 cal BC2455-2210 cal BC2405-2265 cal BCBluestone Circle2280-2245 cal BC (6%) or
+2235-2030 cal BC (89%)2205-2125 cal BC (45%) or 2090-2040 cal BC (23%)2275-2245 cal BC (3%) or
+2240-2025 cal BC (92%)2200-2125 cal BC (45%) or 2090-2045 cal BC (23%)Bluestone Horseshoe2280-2250 cal BC (2%) or
+2210-1925 cal BC (93%)2195-2175 cal BC (8%) or 2145-2015 cal BC (57%) or 1995-1980 cal BC (4%)2275-2250 cal BC (1%) or
+2210-1925 cal BC (94%)2195-2170 cal BC (7%) or 2145-2020 cal BC (58%) or 1995-1980 (3%)  
+
+Figure 10. Probability distributions of key dates from Silbury Hill, derived from model 1 (Figure 4) and model 2 (Figure 5) and of key dates from Stonehenge (see Bronk Ramsey & Bayliss 2000 and Figures 8 and 9). Estimates for the overall prevalence of Beakers in Scotland are derived from Sheridan (forthcoming: Table 1), and those of Beakers in England from Needham (2005: Tables 1-7). The format is identical to that for Figure 4.
+part a creation of its own times. There is a mixture of old and new. Monuments continued to be built in places which had seen monument construction already over centuries, and people were attracted to the same loci for the placement of Beaker graves. The circular earthworks, and avenues, can be argued to continue – with variation and innovation – older traditions of enclosure going back into the fourth millennium cal BC. But there is much that can be identified as novel around the twenty-fourth or twenty-third centuries cal BC. It is probable that the major sarsen settings of Stonehenge began before the initiation of Silbury Hill (Figure 10), suggesting that the latter could have been some kind of response from people to the north, with their trajectories of development converging a little further into their
+Redating Silbury Hill in its monumental landscape
+respective histories at the end of the third millennium cal BC. Both Stonehenge and Silbury Hill are novel in their different ways, the idea of existing timber settings being transformed into stepped stone versions at Stonehenge (judging by the profile of the completed sarsen settings: Whittle 1997b), and the concept of the circular mound, already known in other monuments and on an impressive scale in the passage graves of the Boyne, being magnified in the feats of Silbury Hill: both perhaps in their different ways acting as symbols of cosmic origin or rebirth (Whittle 1997a; 1997b). Each may have played off the other, as novel, grandiose conceptions of how the world came into being, promoted and developed in the changing circumstances of the times.
+  Around this time another way of thinking and acting as social beings may have begun to come into existence through the Beaker network, in part a shared ideology consistent enough with communal traditions but in part a way of emphasising chosen individuals and events in the mortuary process. We have modelled data given by Needham (2005) for English Beakers to suggest beginnings in 2475-2315 cal BC (95% probability; start English Beakers; Figure 10) or 2425-2350 cal BC (68% probability); and data given by Sheridan (forthcoming) for Scottish Beakers to suggest beginnings in 2385-2235 cal BC (95% probability; start Scottish Beakers; Figure 10) or 2345-2270 cal BC (68% probability). This dating may refer principally to the placement of Beakers in graves, and it remains an open question for the present whether Beakers were in use in other contexts slightly before these dates. In either case, we can now see the aggrandisement of both Stonehenge and Silbury Hill in close relation to the appearance of novel material culture and practices.
+  It has been commonplace for some time to contrast older if not archaic ways of doing things and of thinking about the world with new practices associated with the Beaker network. One version of that found expression in the contrast between ‘ritual authority structures’ and ‘prestige goods economies’ (Thorpe & Richards 1984), and the separation of Grooved Ware and Beakers in our Late Neolithic chronologies (e.g. Cleal & McSween 1999) might seem to reinforce that kind of distinction. But the chronological model offered here for Silbury Hill, datings for other monuments including Avebury and Stonehenge, and revised Beaker chronologies, serve now to complicate that kind of scenario. Those were complex times (Figure 10), and the rising mass of Silbury Hill as much as the silhouette of the sarsen settings at Stonehenge may now symbolise the many dimensions of that history.
+The future
+Wehopethatwehavestressedenoughthatwhilethepreferredchronologicalmodelpresented here helps to clarify sequences in the third millennium cal BC and has many implications, it is not yet nearly robust enough for a monument of the importance of Silbury Hill. The potential of the existing archive for providing more precise results has probably been exhausted. Silbury Hill needs a better chronology still, and the further mitigation work on the tunnels will provide an opportunity to collect a fresh series of precisely contexted samples for radiocarbon dating. To misquote Jacquetta Hawkes on Stonehenge, every Silbury Hill should get the generations it deserves.
+Acknowledgements
+We are grateful to the late John Evans for his interest and provision of samples; Polydora Baker for animal bone identifications; Matt Canti for soil analysis; Allan Hall of York University for identification of mosses; and Amanda Chadburn for encouragement and advice. We thank the staff of the Oxford Radiocarbon Accelerator Unit and the Centre of Isotope Research, Rijksuniversiteit Groningen, for dating the new samples. Figure 1b was prepared by John Vallender. Stuart Needham, Alison Sheridan, Mike Parker Pearson, Amanda Chadburn, Frances Healy and two anonymous Antiquity referees gave invaluable information and constructive criticism of
+  
+earlier drafts.
+References
+Aerts-Bijma, A.T., H.A.J. Meijer & J. van der Plicht. 1997. AMS sample handling in Groningen. Nuclear Instruments and Methods in Physics Research B 123: 221-25.
+Aerts-Bijma, A.T., J. van der Plicht & H.A.J. Meijer. 2001. Automatic AMS sample combustion and CO2 collection. Radiocarbon 43: 293-98.
+Avebury Archaeological and Historical Research Group
+2001. Archaeological research agenda for the Avebury
+   World Heritage Site. Salisbury: Wessex Archaeology. Atkinson, R.J.C. 1967. Silbury Hill. Antiquity 41: 259-62.
+–1968. Silbury Hill, 1968. Antiquity 42: 299.
+–1969. The date of Silbury Hill. Antiquity 43: 216.
+–1970. Silbury Hill, 1969-70. Antiquity 44: 313-4.
+–1978. Silbury Hill, in R. Sutcliffe (ed.) Chronicle: essays from ten years of television archaeology: 159-73. London: British Broadcasting Corporation.
+Barker, H., R. Burleigh & N. Meeks. 1971. British Museum natural radiocarbon measurements VII. Radiocarbon 13: 157-88.
+Barrett, J.C. 1994. Fragments from antiquity: an archaeology of social life in Britain, 2900-1200 BC. Oxford: Blackwell.
+Bayliss, A. & C. Bronk Ramsey. 2004. Pragmatic Bayesians: a decade integrating radiocarbon dates into chronological models, in C.E. Buck & A.R. Millard (ed.) Tools for constructing chronologies: tools for crossing disciplinary boundaries: 25-41. London: Springer.
+Bayliss, A., C. Bronk Ramsey & F.G. McCormac.
+1997. Dating Stonehenge, in B. Cunliffe & C.
+Renfrew (ed.) Science and Stonehenge: 39-59. Oxford: British Academy.
+Bayliss, A., C. Bronk Ramsey, J. van der Plicht & A. Whittle. 2007a. Bradshaw and Bayes: towards a timetable for the Neolithic. Cambridge
+Archaeological Journal 17(1), Supplement, 1-28.
+Bayliss, A., Whittle, A. & Wysocki, M. 2007b.
+Talking about my generation: the date of the West Kennet long barrow. Cambridge Archaeological Journal 17(1), Supplement, 85-101.
+Bronk Ramsey, C. 1995. Radiocarbon calibration and analysis of stratigraphy. Radiocarbon 36: 425-30.
+–1998. Probability and dating. Radiocarbon 40: 461-74.
+–2001. Development of the radiocarbon calibration program. Radiocarbon 43: 355-63.
+Bronk Ramsey, C. & A. Bayliss. 2000. Dating Stonehenge, in K. Lockyer, T.J.T. Sly & V. Mihailescu-B?	ˆ?rliba (ed.) CAA96: computer applications and quantitative methods in archaeology: 29-39. Oxford: British Archaeological Reports.
+Bronk Ramsey, C. & R.E.M. Hedges. 1997. A gas ion source for radiocarbon dating, Nuclear Instruments and Methods in Physics Research B 29: 45-9.
+Bronk Ramsey, C., T. Higham, A. Bowles & R.E.M. Hedges. 2004a. Improvements to the pre-treatment of bone at Oxford. Radiocarbon 46: 155-63.
+Bronk Ramsey, C., T. Higham & P. Leach. 2004b. Towards high precision AMS: progress and limitations. Radiocarbon 46: 17-24.
+Bronk Ramsey, C., P.B. Pettitt, R.E.M. Hedges, G.W.L. Hodgins & D.C. Owen. 2000.
+Radiocarbon dates from the Oxford AMS system:
+Archaeometry datelist 30. Archaeometry 42: 459-79.
+Buck, C.E., W.G. Cavanagh & C.D. Litton. 1996.
+Bayesian approach to interpreting archaeological data. Chichester: Wiley.
+Buck, C.E., J.A. Christen, J.B. Kenworthy & C.D. Litton. 1994a. Estimating the duration of archaeological activity using 14C determinations. Oxford Journal of Archaeology 13: 229-40.
+Buck, C.E., C.D. Litton & E.M. Scott. 1994b. Making the most of radiocarbon dating: some statistical considerations. Antiquity 68: 252-63.
+Buck, C.E., C.D. Litton & S.J. Shennan. 1994c. A case study in combining radiocarbon and archaeological information: the early Bronze Age settlement of St. Veit-Klinglberg, Land Salzburg, Austria. Germania 72: 427-47.
+Buck, C.E., J.B. Kenworthy, C.D. Litton & A.F.M. Smith. 1991. Combining archaeological and radiocarbon information: a Bayesian approach to calibration. Antiquity 65: 808-21.
+Redating Silbury Hill in its monumental landscapeBuck, C.E., C.D. Litton & A.F.M. Smith. 1992. Calibration of radiocarbon results pertaining to related archaeological events. Journal of Archaeological Science 19: 497-512.
+Buckley, J.D., M.A. Trautman & E.H. Willis. 1968.
+Isotopes radiocarbon measurements VI. Radiocarbon 10: 246-94.
+Burleigh, R., A. Hewson & N. Meeks. 1976. British Museum natural radiocarbon measurements VIII. Radiocarbon 18: 16-42.
+Case, H. 1997. Stonehenge revisited. Wiltshire Archaeological and Natural History Magazine 90: 161-8.
+Chadburn, A., F. McAvoy & G. Campbell. 2005.
+Inside the hill. British Archaeology 80 (January/February 2005): 14-15.
+Cleal, R.M.J. & A. McSween. (ed.) 1999. Grooved Ware in Britain and Ireland. Oxford: Oxbow.
+Cleal, R.M.J., R. Montague & K.E. Walker. 1995.
+Stonehenge in its landscape: twentieth-century excavations. London: English Heritage.
+Cornwall, I., G.W. Dimbleby & J.G. Evans. 1997.
+Soils, in A. Whittle (ed.) Sacred mound, holy rings. Silbury Hill and the West Kennet palisade enclosures: a Later Neolithic complex in north Wiltshire: 26-9. Oxford: Oxbow.
+Field, D. 2005. Surface story. British Archaeology 80 (January/February 2005): 15-8.
+Fitzpatrick, A. 2002. ‘The Amesbury Archer’: a well furnished Early Bronze Age burial in southern England. Antiquity 76: 629-30.
+Garwood, P. 1991. Ritual tradition and the reconstitution of society, in P. Garwood, D. Jennings, R. Skeates & J. Toms (ed.) Sacred and profane: 10-32. Oxford: Oxford University Committee for Archaeology.
+Gillings, M. & J. Pollard. 2004. Avebury. London: Duckworth.
+Gillings, M., J. Pollard & D. Wheatley. 2002. Excavations at the Beckhampton enclosure, Avenue and Cove, Avebury: an interim report on the 2000 season. Wiltshire Archaeological and Natural History Magazine 95: 249-58.
+Harding, R., A. Chadburn, F. McAvoy & G.
+Campbell. 2005. The future. British Archaeology 80 (January/February 2005): 18-9.
+Hedges, R.E.M., C.R. Bronk & R.A. Housley. 1989. The Oxford Accelerator Mass Spectrometry facility: technical developments in routine dating. Archaeometry 31: 99-113.
+Law, I.A. & R.E.M. Hedges. 1989. A semi-automated pretreatment system and the pretreatment of older and contaminated samples. Radiocarbon 31: 247-53.
+McAvoy, F. 2005. Silbury Hill, Wiltshire. An assessment of the conservation risks and possible responses arising from antiquarian and archaeological investigations deep into the Hill. Fort Cumberland, Portsmouth: English Heritage Research and Standards Department unpublished report.
+Needham, S.P. 2005. Transforming Beaker culture in north-west Europe: processes of fusion and fission. Proceedings of the Prehistoric Society 71: 171-218.
+Parker Pearson, M. & Ramilisonina. 1998.
+Stonehenge for the ancestors: the stones pass on the message. Antiquity 72: 308-26.
+Parker Pearson, M. 2000. Ancestors, bones and stones in Neolithic and Early Bronze Age Britain and Ireland, in A. Ritchie (ed.) Neolithic Orkney in its European context: 203-14. Cambridge: McDonald Institute for Archaeological research.
+Pitts, M. & A. Whittle. 1992. The development and date of Avebury. Proceedings of the Prehistoric Society 58: 203-12.
+Pollard, J. & J. Cleal. 2004. Dating Avebury, in R. Cleal & J. Pollard (ed.) Monuments and material culture. Papers in honour of an Avebury archaeologist: Isobel Smith: 120-9. East Knoyle: Hobnob Press. Pollard, J. & A. Reynolds. 2002. Avebury: the biography of a landscape. Stroud: Tempus.
+Reimer, P.J., M.G.L. Baillie, E. Bard, A. Bayliss,
+J.W. Beck, C.J.H. Bertrand, P.G. Blackwell,
+C.E. Buck, G.S. Burr, K.B. Cutler, P.E. Damon,
+R.L. Edwards, R.G. Fairbanks, M. Friedrich,
+T.P. Guilderson, A.G. Hogg, K.A. Hughen, B. Kromer, F.G. McCormac, S. Manning, C.
+Bronk Ramsey, R.W. Reimer, S. Remmele, J.R. Southon, M. Stuiver, S. Talamo, F.W. Taylor, J. van der Plicht & C.E. Weyhenmeyer. 2004. IntCal04 Terrestrial Radiocarbon Age Calibration, 0-26 cal kyr BP. Radiocarbon 46: 1029-58.
+Renfrew, C. 1973. Monuments, mobilisation and social organisation in Neolithic Wessex. in C.
+Renfrew (ed.) The explanation of culture change: 539-58. London: Duckworth.
+Richards, C. 2005. A choreography of construction: monuments, mobilization and social organization in Neolithic Orkney, in J. Cherry, C. Scarre & S. Shennan (ed.) Explaining social change: studies in honour of Colin Renfrew: 103-13. Cambridge: McDonald Institute for Archaeological Research. Sheridan, A. forthcoming. Scottish Beaker chronology: an assessment of the currently-available radiocarbon dating evidence, in J. Turek & M.
+Krutova (ed.) Beaker days in Bohemia and Moravia. Prague: Archaeologica.
+Sigalove, J.J. & A. Long. 1964. Smithsonian Institution radiocarbon measurements I. Radiocarbon 6: 182-8.
+Stuckenrath, R. & J.E. Mielke. 1973. Smithsonian Institution radiocarbon measurements VIII. Radiocarbon 15: 388-424.
+Stuiver, M. & H.A. Polach. 1977. Reporting of 14C data. Radiocarbon 19: 355-63.
+Stuiver, M. & P.J. Reimer. 1986. A computer program for radiocarbon age calculation. Radiocarbon 28: 1022-30.
+–1993. Extended 14C data base and revised CALIB 3.0 14C age calibration program. Radiocarbon 35: 215-30.
+Thorpe, I.J. & C. Richards. 1984. The decline of ritual authority and the introduction of Beakers into Britain, in R. Bradley & J. Gardiner (ed.) Neolithic studies: a review of some current research: 67-84. Oxford: British Archaeological Reports.
+Trautman, M.A. & E.H. Willis. 1966. Isotopes, Inc. radiocarbon measurements V. Radiocarbon 8: 161-203.
+van der Plicht, J., S. Wijma, A.T. Aerts, M.H. Pertuisot & H.A.J. Meijer. 2000. Status report: the Groningen AMS facility. Nuclear Instruments and Methods in Physics Research B 172: 58-65.
+Wainwright, G. 1989. The henge monuments. London: Thames & Hudson.
+Walton, A., M. Trautman & J.P. Friend. 1961.
+Isotopes, Inc. radiocarbon measurements I. Radiocarbon 3: 47-59.
+Ward, G.K. & S.R. Wilson. 1978. Procedures for comparing and combining radiocarbon age determinations: a critique. Archaeometry 20: 19-31.
+Whittle, A. 1997a. Sacred mound, holy rings. Silbury Hill and the West Kennet palisade enclosures: a Later Neolithic complex in north Wiltshire. Oxford: Oxbow.
+–1997b. Remembered and imagined belongings: Stonehenge in its traditions and structures of meaning, in B. Cunliffe & C. Renfrew (ed.) Science and Stonehenge: 145-66. London: British Academy.
+Whittle, A., A. Barclay, A. Bayliss, L. McFadyen, R. Schulting & M. Wysocki. 2007. Building for the dead: events, processes and changing worldviews from the 38th to the 34th centuries cal BC in southern Britain. Cambridge Archaeological Journal 17(1), Supplement, 123-47.
+Whittle, A., J. Pollard & C. Grigson. 1999. The harmony of symbols: the Windmill Hill causewayed enclosure, Wiltshire. Oxford: Oxbow.
+1 English Heritage, 1 Waterhouse Square, 138-142 Holborn, London EC1N 2ST, UK
+2 English Heritage, Fort Cumberland, Fort Cumberland Road, Eastney, Portsmouth PO4 9LD, UK
+3 Cardiff School of History and Archaeology, Cardiff University, Humanities Building, Colum Drive, Cardiff CF10
+3EU, UK
+Received: 5 April 2006; Accepted: 21 July 2006; Revised: 4 August 2006 antiquity 81 (2007): 26–53
+---------------
+  
+------------------------------------------------------------
+  
+  ---------------
+  
+  ------------------------------------------------------------
+  
+
+  
+
+  
+26
+  
+
+  
+
+  
+26
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+Redating Silbury Hill in its monumental landscape
+  
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+  
+35
+  
+35
+  
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+  
+35
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+  
+35
+  
+35
+  
+Alex Bayliss, Fachtna McAvoy & Alasdair Whittle
+  
+35
+  

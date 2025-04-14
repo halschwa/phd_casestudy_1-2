@@ -1,0 +1,85 @@
+Parchmarks at Stonehenge, July 2013
+Simon Banton1, Mark Bowden2, Tim Daw3, Damian Grady2 & Sharon Soutar2
+Despite being one of the most intensively explored prehistoric monuments in western Europe, Stonehenge continues to hold surprises. The principal elements of the complex are well known: the outer bank and ditch, the sarsen circle capped by lintels, the smaller bluestone settings and the massive central trilithons. They represent the final phase of Stonehenge, the end product of a complicated sequence that is steadily being refined (most recently in Darvill et al. ‘Stonehenge remodelled’, Antiquity 86 (2012): 1021–40). Yet Stonehenge in its present form is incomplete—some of the expected stones are missing—and it has sometimes been suggested that it was never
+complete; that the sarsen circle, for example, was only ever finished on the north-eastern side, facing the main approach along the Avenue. A chance appearance of parchmarks, however, provides more evidence.
+Keywords: Stonehenge, sarsens, Y and Z holes, Aubrey holes, parchmarks
+The hot, dry spell in July 2013 following a wet spring and early summer caused some unusual parchmarks to appear at Stonehenge. These were spotted by two members of the English Heritage site staff (TD and SB) who immediately realised their significance and drew them to the attention of colleagues. The first marks were those in the expected positions of stones 17 and 18 of the sarsen ‘circle’, which have never been observed before by geophysical survey or any other means—they lie in an unexcavated area. They are situated on the western side of the sarsen circle, away from the Avenue, in a part of the sarsen circle that some have suggested was never completed.
+  It was also noticed that, importantly, there were marks nearby, close to the expected positions of Z holes. These are the inner of two rings of pits that encircle the sarsen circle. The others are known as Y holes, and they are currently dated to the Middle Bronze Age, a millennium or more after the construction of the sarsen circle (Darvill et al. 2012: 1038).
+1 11 Avon Banks, Figheldean, Wilts SP4 8JU, UK
+2 English Heritage, The Engine House, Swindon SN2 2EH, UK 3	Cannings Cross Farm, All Cannings, Devizes, Wilts SN10 3NP, UK
+C Antiquity Publications Ltd.
+ANTIQUITY 88 (2014): 733–739	http://antiquity.ac.uk/ant/088/ant0880733.htm
+  
+
+Figure 1. First survey of the parchmarks (for location see Figure 4); these include three of William Gowland’s 1901 trenches (his A, B and C—the latter, the right-angled southern corner of the stone 20 parchmark, demonstrating that Gowland’s original plan is accurate), stone holes 17–20 of the sarsen ‘circle’, bluestone 40g and Z holes 15–18. Stone holes 17 and 18 have never been seen before; a geophysical anomaly previously suggested as stone hole 18 (Linford et al. 2012, GPR 32) lies to the west of the parchmark and off the projected line of the ‘circle’. Stone hole 20 has been partly excavated, which may explain its different response. Stone 40g is a below-surface stump which has been capped by a lead sheet. The four Z holes are amongst those which are not visible as earthworks but 15 and 16 have both been excavated. Drawing by Sharon Soutar. c English Heritage.
+  These two sets of marks were surveyed (byMB)on23July(Figure1)andpromptly reported by Mike Pitts (2013). Pitts argues that this concludes the case for the sarsen circle having originally been complete. In our view, however, the evidence is still inconclusive (see below).
+  Subsequent to the initial work, the site staff member and archaeologist David Field noticed further parchmarks. Some of these appeared to correspond to Y and Z holes that were already known, while others apparently formed a third, concentric ring between them. Towards the periphery of the site the former position of Station Stone 94 (now missing—within the ‘North Barrow’) was also parched. A number of more diffuse marks were noted, at approximately 5m intervals, on the inner flank of the southern and eastern sections of the enclosure bank, three of them apparently corresponding with holes F, G and H. The latter are hollows of disputed significance lying between the Aubrey hole circle and the bank, and covered by the tail of the latter. Holes F, G and H were excavated by William Hawley and Robert Newall in 1920 and 1923. They were irregular hollows in the chalk up to about 1.6m wide and 1.2m deep; Newall believed that hole H was a bush or tree hole and holes F and G have generally been thought to have the same origin (Cleal et al. 1995: 288–90, plan 1). This second set of marks was photographed from the air (by DG) on 26 July and from a lower level by Adam Stanford on 27 July (Figures 2 & 3) but unfortunately it was not possible to survey them until the following week when they were already fading rapidly (and some had indeed disappeared).
+  This survey was undertaken (by MB and SS with assistance from TD and SB) on 30 July, using survey-grade DGPS equipment.
+  
+
+Figure 2. Low level oblique photograph by Adam Stanford, showing the parchmarks around the western arc on 27 July 2013; the ranging rods are between stone holes 17, 18 and 19. English Heritage is grateful to Adam Stanford for his rapid response to reports of the parching at Stonehenge and for allowing us to reproduce this image. Adam Stanford/EH c Aerial-Cam Ltd 2013.
+Unfortunately, the survey suffered from some equipment malfunction and limited time on site, in addition to the more challenging issue of the fugitive nature of the vanishing marks. Ideally the survey would have differentiated between marks caused by parching (the majority) and those caused by lusher growth; it would also have graded the marks into ‘definite’, ‘probable’ and ‘possible’ categories. In the event this was not possible and the result (Figure 4) must therefore be treated with caution. These marks need to be corroborated, through further high resolution geophysical survey, through searching historic aerial photographs and other sources, and—it is to be hoped—through future observation of these same phenomena in similar weather conditions.
+  Some of the marks are of known origin. They correspond to previously known or suspected prehistoric features—missing uprights of the sarsen circle, Y and Z holes, and three holes between the Aubrey holes and the henge bank. Others correspond to recorded archaeological excavations, particularly William Gowland’s trenches of 1901, or to the planned positions of timber props placed against leaning stones in the late nineteenth and early twentieth centuries. Some are coincident with areas of surface damage caused by pyrotechnic sculptures of the ‘fire garden’ installation, part of the Cultural Olympiad in 2012 (Linford 2013) and may be due to this event. This leaves a number of marks to be explained, however, such as those between the Y and Z holes and previously unrecorded ones between the Aubrey holes and the enclosing bank.
+  Onecuriosityisthatnegativefeatures(presumedstoneholes)shouldappearasparchmarks rather than the more usual dark cropmarks. However, this ‘reversal’ is something that has
+
+been noted before, especially on chalk, and was occurring elsewhere in July 2013. It seems likely that this is due to severe drought conditions when plants, that may have initially benefited from the easily available rooting and moisture in disturbed ground, fail as the soil dries out, whilst the shorter rooting surrounding plants manage to survive by extracting water directly from the porous chalk; a fuller explanation has been provided by Evans and Catt (1987: 316). Similar conditions in 1995 resulted in the discovery and reporting in Antiquity of a long barrow at Lockeridge where the flanking ditches were showing as ‘reversal’ marks (Featherstone et al. 1995: pl. 4). The fact that some of the observed parchmarks in this recent survey could be shown to correspond to known excavation trenches gives confidence that they show disturbed ground.
+  It may also appear curious that the parchmarks of the Y and Z holes appear just the same in the areas excavated by Hawley between 1919 and 1926 as in the unexcavated section of the site (see Cleal et al. 1995: plan 1). If we assume that Hawley backfilled them with what he had taken out of them, they will still survive as holes up to a metre deep dug into the chalk, and these excavated holes will therefore affect grass growth in the same way as the unexcavated ones. This is not restricted to the parching. Many of the Y and Z holes are
+
+Figure 4. Second survey of parchmarks (the box indicates the position of Figure 1). This survey was undertaken rapidly in difficult circumstances and poor conditions; corroboration is needed for all marks, except those of known archaeological features and recent disturbances. The more diffuse marks on the inner slope of the enclosure bank were not surveyed but the positions of the excavated holes F, G and H and the Station Stones are shown. Drawing by Sharon Soutar. c English Heritage.
+visible as slight earthworks (Field & Pearson 2010: 8–10, 56–58; Bowden et al. forthcoming) and these earthworks are also of similar character in the areas of the site that were excavated by Hawley, and in the unexcavated areas. This might be the result of intention on Hawley’s part. Hawley marked the positions of the Aubrey holes he excavated and left the portion of the ditch that he had excavated deeper. He may have attempted to leave the Y and Z holes visible in the same way.
+  The new features noted between the Y and Z holes also appear in excavated and unexcavated parts of the site. These new features must either be of recent origin, and post-date Hawley’s excavations, or they must be features that he didn’t see during excavation. That suggests that future re-excavation of Hawley’s trenched areas might prove fruitful.
+  The slight ridge between the Y and Z holes noted by the earthwork survey (Field & Pearson 2010: 9–10, 57–58) must also be considered in this connection. Gowland’s 1901 trenches around the Great Trilithon, by contrast, appeared as clear parchmarks (see Figure 1) in exactly the positions shown on his plans (which do not always correspond precisely with the positions indicated by Cleal et al. 1995: 21–22, plan 1). Why Gowland’s backfilled excavation trenches in particular should parch so clearly is not certain.
+  The possibility that the sarsen circle was never completed has been discussed many times since the mid eighteenth century (Bowden et al. forthcoming: ch. 3):
+ lintels are missing from positions where it would have been difficult (and illogical) to remove them;
+ several upright stones (11, 16, 23) are under-sized or otherwise incapable of supporting lintels;
+ stones lying horizontally on the ground (12, 14) are irregular or asymmetrical and would have been difficult to set upright;
+ stone hole 9 seems to be askew from its ‘correct’ position;
+ stone holes 14 and 15 have never been detected (Ashbee 1998; Tilley et al. 2007, 199–201; Field & Pearson 2010: 64–66).
+  While the discovery of parchmarks corresponding to stone holes 17 and 18 does have a bearing on this question it does not answer some of the other difficulties listed above—and the presence of a stone hole does not of itself prove that a stone ever stood in it.
+  The new discoveries between the Y and Z holes do throw tentative new light on the multicircuit timber post settings at Stonehenge envisaged by Gibson (1998: 41–44). He derived these from the numerous undated postholes recovered mainly by Hawley’s excavations. Multi-circuit post settings are also suggested by the comparison offered by the multiple timberringsatDurringtonWalls,WoodhengeandtheSanctuary(Wainwright&Longworth 1971: 23–44, 204–30; Pollard 1995; Pitts 2001) as well as Stanton Drew (David et al. 2004). Until the new features at Stonehenge can be corroborated and in the absence of dating evidence this remains speculative but if they could be proved to be postholes of mid third millennium BC date they would offer firm evidence for Gibson’s proposal.
+  The more diffuse marks around the periphery of the site offer some support for Pitts’ suggestion of an outer ring of stones between the Aubrey holes and the enclosure bank. This was based on antiquarian evidence, the presence of holes F, G and H, and the Station Stones (Pitts 1981). However, again, more research is needed to clarify this issue.
+  These transient parchmarks emphasise the potential for new discoveries about Stonehenge (one of the most widely researched monuments in the world) through non-invasive as well as invasive techniques. The results reported here show the value of repeated aerial and ground reconnaissance, and an approach that brings together ground observation, remote sensing and detailed ground survey. Crucially, they also demonstrate how very narrow are the windows available to document such cropmarks and parchmarks before they vanish.
+Acknowledgements
+The authors are grateful to Martyn Barber, David Field, Susan Greaney, Pete Horne, Jonathan Last, Neil Linford, Paul Linford, Mike Pitts, Heather Sebire, Adam Stanford and Helen Winton for discussion and assistance; and to Simon Crutchley and Jon Bedford for the creation of the orthophoto. We are also grateful to Mike Parker Pearson and Toby Driver for very helpful comments on the first version of this paper.
+  
+References
+ASHBEE, P. 1998. Stonehenge: its possible non-completion, slighting and dilapidation. Wiltshire Archaeology and Natural History Magazine 91: 139–42.
+BOWDEN, M.C.B., S. SOUTAR, D.J. FIELD & M.J. BARBER. Forthcoming. “A striking picture of ancient times”: analysing the Stonehenge World Heritage Site landscape. Swindon: English Heritage.
+CLEAL, R.M.J., K.E. WALKER & R. MONTAGUE. 1995.
+Stonehenge in its landscape: twentieth-century excavations. London: English Heritage.
+DARVILL, T., P. MARSHALL, M. PARKER PEARSON & G.J.
+WAINWRIGHT. 2012. Stonehenge remodelled. Antiquity 86: 1021–40.
+DAVID, A., M. COLE, T. HORSLEY, N. LINFORD, P.
+LINFORD & L. MARTIN. 2004. A rival to Stonehenge? Geophysical survey at Stanton Drew, England. Antiquity 78: 341–48.
+EVANS, R. & J.A. CATT. 1987. Causes of crop patterns in eastern England. Journal of Soil Science 38: 309–24. http://dx.doi.org/10.1111/j.1365-2389.
+1987.tb02147.x
+FEATHERSTONE, R., P. HORNE, D. MACLEOD & R. BEWLEY. 1995. Aerial reconnaissance in England, summer 1995. Antiquity 69: 981–88.
+FIELD, D.J. & T. PEARSON. 2010. Stonehenge World Heritage Site Landscape Project: Stonehenge, Amesbury, Wiltshire: archaeological survey report (EH Research Dept Report Series 109-2010). Swindon: English Heritage.
+GIBSON, A. 1998. Stonehenge and timber circles. Stroud: Tempus.
+LINFORD, N. 2013. Stonehenge, Wiltshire: report on magnetic susceptibility survey, January 2013 (EH Research Dept Report Series 49-2013). Swindon: English Heritage.
+LINFORD, N., P. LINFORD & A. PAYNE. 2012. Stonehenge monument field and barrows, Wiltshire: report on geophysical surveys, September 2010, April and July 2011 (EH Research Dept Report Series 34-2012). Swindon: English Heritage.
+PITTS, M.W. 1981. Stones, pits, and Stonehenge. Nature
+290: 46–47. http://dx.doi.org/10.1038/290046a0
+– 2001. Excavating the Sanctuary: new investigationson Overton Hill, Avebury. Wiltshire Archaeology and Natural History Magazine 94: 1–23.
+– 2013. Stonehenge dispute solved after 260 years.British Archaeology 132: 6.
+POLLARD, J. 1995. Structured deposition at Woodhenge. Proceedings of the Prehistoric Society 61:
+137–56. http://dx.doi.org/10.1017/ S0079497X00003066
+TILLEY, C., C. RICHARDS, W. BENNETT & D. FIELD. 2007. Stonehenge—its landscape and its architecture: a reanalysis, in M. Larsson & M. Parker Pearson (ed.) From Stonehenge to the Baltic: living with cultural diversity in the third millennium BC (British Archaeological Reports international series 1692): 183–204. Oxford: Archaeopress.
+WAINWRIGHT, G.J. & I.H. LONGWORTH. 1971. Durrington Walls: excavations 1966–1968 (Society of Antiquaries Research Reports 29). London: Society of Antiquaries.
+  
+
+Received: 1 November 2013; Accepted: 9 January 2014; Revised: 10 February 2014
+Parchmarks at Stonehenge, July 2013
+  
+Simon Banton et al.
+  
+C Antiquity Publications Ltd.
+734
+  
+C Antiquity Publications Ltd.
+735
+  
+
+  
+733
+  

@@ -1,0 +1,73 @@
+High-resolution satellite imagery in archaeological application: a Russian satellite photograph of the
+Stonehenge region
+MARTIN J.F. FOWLER*
+The spy satellites — by repute of the thriller writers — have such good image-resolution that they can read the letters on a vehicle licence-plate. A generation after LANDSAT imagery vividly showed broad ecological zones, higher resolution pictures are now being released of a quality to allow practical archaeological application. The example printed here illustrates the Stonehenge landscape — a little patch of southern England that is among the most photographed archaeologically anywhere.
+
+Archaeological potential of satellite imagery Since the monument at Stonehenge was photographed 90 years ago from a balloon (Capper 1907), a light aircraft flying at low altitude has become the usual platform for aerial photography for archaeological studies. With the launch in 1972 of the first of the American LANDSAT series of satellites, a new source of remote-sensed data became available to the archaeologist in the form of satellite imagery from low Earth orbit.
+  The first LANDSAT satellites produced low resolution digital imagery with a pixel size approximating to 80 m on the ground. Ten years later, with the launch of LANDSAT 4 carrying the Thematic Mapper (TM) sensor, the resolution improved to 30 m and in 1986 the launch of the French SPOT satellite provided products with resolutions of 20 and 10 m. Since the break-up of the Former Soviet Union, highresolution imagery has become available with nominal ground resolutions of 3—4 m or better (Fowler 1995a) and imagery from the early US spy satellite programme is also becoming available (McDonald 1995).
+  With early and low-resolution imagery, it was possible to see only very large archaeological structures such as the Pyramids at Giza (Quann & Bevan 1977); archaeological applications have attempted to exploit the multi-spectral nature of the LANDSAT and SPOT products through the use of image classification and modelling techniques (Ebert & Lyons 1980; Ebert 1989; Allen et al. 1990). In Britain, LANDSAT and SPOT images have been used to study areas of archaeological potential in the Cumbrian peatlands (Cox 1992), archaeological features in the eastern Fenlands (Shennan & Donoghue 1992), linear features such as Roman roads 'fossilized' into the modern landscape around the Danebury hill-fort (Fowler 1994a), and the circular earthworks ofthe Figsbury Rings hill-fort on the Wessex chalklands near Salisbury (Fowler 1994b).
+Satellite imagery of the Stonehenge environs The immediate Stonehenge region includes upstanding features, crop- and soil-marks in relatively uncluttered grassland and arable. This region is well documented archaeologically (RCHM(E) 1979; Richards 1990; Chippindale 1994; Cleal et al. 1995) and represents a good area to see what archaeological features can be visible on satellite imagery.
+  An earlier study (Fowler 1995b) demonstrated that LANDSAT TM Band 4 imagery, covering the near-infra-red region of the spectrum at a resolution of 30 m, shows areas of dark tone associated with round barrows in reserved areas of older grassland which have different spectral signatures to the surrounding fields. These areas are also visible to an extent on SPOT Panchromatic imagery (10-m resolution), where the highly-reflective visitor footpath around Stonehenge itself is most apparent. Apart from these examples, the low resolutions of the LANDSAT and SPOT products used in the study precludes the direct identification of archaeo-
+
+* 60 Harrow Down, Badger Farm, Winchester s022 4LZ, England,
+Received 19 April 1996, accepted 14 May 1996, revised 26 June 1996.
+ANTIQUITY 70 (1996): 667—71
+668
+
+FIGURE 1. KVR-IOOO image of Stonehenge (lower left) and its immediate surroundings to the east. (Image supplied by Nigel Press Associates Ltd.)
+
+FIGtJRE 2. Image of Stonehenge and surroundings interpreted. Barrows are numbered according to the 1979 RC'FIM(E) survey. Features visible in relief are shown as solid lines, crop- and soil-mark features are s[ippled.
+
+FIGURE 3. KVR-IOOO image of Boreland Hill, about 4 km south of Stonehenge, and its immediate surroundings. (Image supplied by Nigel Press Associates Ltd.)
+
+FIGURE 4. Image of Boreland Hill and surroundings interpreted. Barrows are numbered according to the 1979 RCHM(E) suzvey. Features visible in relief are shown as solid lines, crop- and soil-mark features are stippled.
+
+670
+logical features present in the area. Recently released Russian imagery, however, is comparable in detail with medium-scale vertical air photography and hence has the potential of directly detecting archaeological features.
+KVR-IOOO image and processing
+Russian KVR-IOOO satellite imagery is taken from an altitude of 210—235 km with a camera recording an area of 40x300 km on film at a nominal ground resolution of 3—4 m or better (Fowler 1995a). The panchromatic film, covering the spectral range  m, is subsequently scanned for distribution as digital image products.
+  An image covering an area some 4•7x6-3 km to the east of Stonehenge photographed one early morning in June 1993 was kindly provided by Nigel Press Associates Ltd (Edenbridge, Kent) for the cost of writing the digital image to film and making a 1:25,000 photographic print. Scanned at a resolution of 300 dots per inch, the resulting images have a ground pixel size of about 2 m (compared with 1-4 m for the original digital product). The digital images were displayed and contrast enhanced using CorelDraw! 3.0TM , with overlays of features manually transcribed and exported into Map ViewerTM for the production of interpretative maps. Two extracts of the image are interpreted below.
+Stonehenge and immediate environs to the east (FIGURES 1 & 2)
+The circular bank and ditch of Stonehenge are readily traced as highlights and shadows and the central circular stone setting can be discerned, but not its individual stones. Leading away to the northeast, the Avenue is seen as parallel dark and light lines over some 500 m. Within it, close by the modern road, the Heel Stone is seen as a highlight, with bell barrow 11 upstanding to the east. The light-toned visitor footpath is again prominent, and traces of older tracks to the monument are apparent as dark lines (they are visible on the original 1906 air photographs: Capper 1907).
+  Northeast of Stonehenge, across the open ground, are the New King Barrow group, standing monuments within woodland; four are seen as highlights and shadows. East of Stonehenge, a circular crop-mark is the site of Coneybury henge, totally flattened by ploughing. Other circular and linear crop-mark features can be spotted in the vicinity — where ridge-and-furrow is reported visible on sorne air photographs (RCHM(E) 1979: 13). Of more recent origin are the 18th-century earthworks of an unfinished causewayed road crossing Stonehenge Bottom visible in relief. To the ncxtheast of these earthworks, a square of light streaks is characteristic of fodder for grazing animals as seen on air-photographs (cf. Wilson 1982: figure 110).
+Boreland Hill (FIGURES 3 & 4)
+Prominent on this image extract are the 'Celtic' field systems, visible as soil marks and in relief, that are adjacent to two enclosures on Boreland Hill. The northern enclosure, a dark oval crop-mark some 100x150m oriented north— south, is visible on air-photographs taken in 1976 (National Monuments Record SU 1137/ 3/145—47); the southern, a similar dark oval oriented east—west, was photographed as a soilmark that same dry summer (SU 1137/1, SU1137/2/141-4).
+Discussion
+Considerably better than the low resolution LANDSAT and SPOT images, the KVR-IOOO images are comparable with orthodox medium scale vertical air photographs and show both standing monuments and — for the first time — crop- and soil-marks. As the satellite records an area of 40x300 km, a single image theoretically can cover a whole study-area (e.g. Palmer's (1984) around Danebury). At a cost of some E2500 for a 40x40-km image, this could be a cost-effective means of carrying out a first pass investigation of a new study area. However, it should be recognized that the Stonehenge area is relatively uncluttered and the particular KVR1000 image may be of a lucky quality. Further work is required to assess the quality of the typical Russian product and its suitability to those many regions of the world not explored by orthodox air photography.
+Acknowledgements. I thank Rog Palmer and Chris Cox for their encouragement of this work, Bob Bewley for identifying the aerial photographs of the enclosures on Boreland Hill, Hilary Needham for commenting cn an earlier version of this note and Nigel Press Associates Ltd for kindly providing the satellite image.
+References
+ALLEN, K.M.S., S.W. GREEN & E.B.W. ZUBROW (ed.). 1990. lnterpreting space: GIS and archaeology. London: Taylor & Francis.
+CAPPER, J. 1907. Photographs of Stonehenge, as seen from a war balloon, Archaeologia 60: 571, plates 69—70.
+CHIPPINDALI@, C. 1994. Stonehenge complete, London: Thames & Hudson.
+CLEAL, R.M.J„ K.E. WALKER & R. MONTAGUE. 1995. Stonehenge in its landscape: twentieth-century excavations. London: English Heritage. Archaeological Report 10.
+COX, C. 1992. Satellite imagery, aerial photography and wetland archaeology, World Archaeology 24: 249—67.
+EBERT, j.[. 1989. Techniques, methods and theoretical goals in American archaeological remote sensing: 'Predictive modelling' as an example, in D. Kennedy (ed,), Into the sun: essays in air photography in archaeology in honour of Derrick Riley: 86—101. Sheffield: J.R. Collis Publications.
+EBERT, J.l. & T.R. LYONS. 1980. Remote sensing in archaeology, cultural resources treatment and anthropology: the United States or America in 1979, Aerial Archaeology 5: 1—19.
+FOWLER, M.J.F. 1994a. Danebury and its environs from 830 kilometres, Hatnpshire Field Club and Archaeological Society Section Newsletters new series 21: 26—30.
+1994b. Satellite image processing for the archaeologist, Archaeological Computing Newsletter 39: 2—8.
+1995a. High resolution Russian satellite imagery, AARGnews 11: 28-32.
+1995b, Detection of archaeological features on multispectral satellite imagery, AARGnews 10: 7—14.
+MCDONALD, R.A. 1995. Opening the Cold War sky to the public: declassifying satellite reconnaissance imagery, Photogrammetric Engineering and Remote Sensing 61: 385-90.
+PALMER, R. 1984. Danebury, an Iron Age hillfort in Hampshire: an aerial photographic interpretation of its environs. London: RCHM(E).
+QUANN, J. & B, BEVAN. 1977. The Pyramids from 900 kilometrest MASCA Newsletter 13: 12—14.
+RCHM(E). 1979. Stonehenge and its environs: monuments and land use. Edinburgh: University Press.
+RICHARDS, J. 1990. The Stonehenge Environs Project. London: English Heritage. Archaeological Report 16.
+SHENNAN, l. & D.N.M. DONOGHUE. 1992. Remote sensing in archaeological research, Proceedings of the British Academy 77: 223-32.
+
+Between Sutton Hoo and Chernaya Mogila:
+barrows in eastern and western early medieval Europe
+MICHAL LUTOVSKf*
+This complement to Van de Noort's 1993 contribution to ANTIQUITY extends the pattern in early medieval barrows seen on the British Isles and neighbouring portions of the European continent out to its central and towards its eastern zones.WILSON, D.R. 1982. Air photo interpretation for archaeologists. London: Batsford.
+
+The article by Robert Van de Noort (1993) attempts an evaluation of problems related to early medieval barrows on the British Isles and in the western part of the European continent. A similar case for the use of burial mounds as a response to Christian imperialism had been made by Carver in the context of the Sutton Hoo excavations (1986; 1992; 1995). In view of his objectives, primarily [he study of social aspects and problems of mutual inter-relations between the barrow burial rite and Christianity, Van de Noort focused his interest upon the richly furnished barrows dated to the period 550—750 AD. Barrows of the preceding period 450—550 AD, and of the later period 750—1000 AD, he rightly classifies as belonging to a different tradition. Van de Noort proposes the interpretation of barrows as a single phenomenon within a certain territory; but the present author fails to find in his article the mention that this concerns only some barrows. Van de Noort excludes many barrow sites east of the Elbe River (1993: figure 2, cf. also FIGURE la in the present contribution).
+  The article by Van de Noort should be modifled in two ways. For the time-period in question, this map does not include a very high number of localities in Central Europe which simply cannot be overlooked the situation shown on the map differs substantially from the actual conditions. The second modification required is to what might be called [he author's inspirative approach. His comparison between barrows from the western and eastern parts of
+
+k institute of Archaeological Heritage, Letenskä 4, 1 18 	Prague 1_ , Czech Republic.
+Received 2() ()ctobcr 1995, revised 1 2 March 1996, accepted 23 April 1996, revised 21 May 1996.
+ANTIQUITY 70 (1996): 671-6
+NOTES
+
+	NOTES	667
+
+	NOTES	667
+
