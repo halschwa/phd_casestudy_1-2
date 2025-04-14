@@ -1,0 +1,209 @@
+#load libraries 
+library(RSQLite)
+library(NLP)
+library(tm)
+
+#upload and connect database to r studio 
+#prefer to use SQLite to store data and connect to r
+conn <- dbConnect(RSQLite::SQLite(), "C:\\Users\\ ... \\pilotproject.db")
+
+#within SQLite - the name of the table is 'papers'
+papers <- dbGetQuery(conn, "select * from papers")
+dbDisconnect(conn)
+str(papers) # check the structure
+
+#add the required column names for the preprocessing 
+papers$doc_id <- papers$id
+papers$id <- NULL
+
+#preprocessing chain and building corpus
+#this is the personalized stopwords list
+wordsToIgnore <- c("arch", "archaeology", "archaeologist", "archaeological", "archæology", "archæological", "archæologist", 
+                   "stone", "stones", "stonehenge", "henge", "hengeworld", "circl", "circle", "circles", "excav", "excavation", 
+                   "excavations", "examine", "evid", "evidence", "discoveri", "discovery", "discoveries", "structur", 
+                   "structure", "structures", "sourc", "source", "sources", "theori", "theory", "theories", "figur", "figure", 
+                   "figures", "featur", "feature", "features", "data", "date", "wall", "walls", "use", "uses", "used", "year", 
+                   "with", "within", "also", "new", "will", "one", "two", "first", "second", "mani", "manag", "manage", "now", 
+                   "probabl", "probable", "probably", "possibl", "possible", "hole", "holes", "spot", "site", "sites", "may", 
+                   "must", "much", "feet", "foot", "far", "area", "areas", "measur", "measure", "measures", "day", "cal", "axe", 
+                   "can", "age", "end", "might", "rock", "plan", "find", "found", "seem", "well", "hors", "say", "way", "still",
+                   "fill", "small", "error", "even", "dig", "face", "tool", "group", "differ", "different", "differences", "bank", 
+                   "includ", "include", "including", "squar", "square", "earli", "earlier", "early", "analysi", "analyses", 
+                   "avail", "available", "page", "author", "chapter", "book", "publish", "peer", "review", "article", "report",
+                   "research", "colum", "column", "studi", "studies", "study", "matri", "material", "english", "boundari",
+                   "boundary", "calibr", "caliber", "howev", "however", "barrow", "ditch", "deposit", "nation", "world", "british",
+                   "univers", "university", "universe", "universities", "cursus", "pitt", "pitts", "tilley", "hoyle", "pearson", 
+                   "atkinson", "watson", "parker", "wainwright", "and", "the", "b.c", "long", "which", "were", "lockyer", "stoneheng", 
+                   "avenu", "avenue", "side", "said", "like", "cist", "right", "left", "cut", "erect", "just", "inter", "archaeolog", 
+                   "sampl", "materi", "made", "onli", "ani", "veri", "road", "work", "show", "result", "surfac", "record", "set", 
+                   "line", "posit", "number", "part", "ground", "centr", "trust", "near", "form", "round", "carv", "suggest", 
+                   "professor", "cremat", "construct", "peopl", "antiqu", "top", "larg", "late", "time", "upright", "draw", 
+                   "repres", "becaus", "provid", "live", "centuri", "mark", "note", "known", "build", "fig", "quarri",
+                   "distribute", "later", "hoyl", "less", "fact", "blue", "see", "clear", "close", "certain", "though", "cleal", 
+                   "mean", "slight", "great", "allow", "make", "befor", "illustr", "outcrop", "three", "propos", "inch", "present")
+
+#continue with the processing 
+createCorpus <- function( papers )
+{
+  # final list is custom words + standard english words
+  stopWords <- tm::stopwords("en")
+  stopWords <- c(stopWords, wordsToIgnore)
+  
+  corpus <- Corpus(DataframeSource(papers))
+  processedCorpus <- tm_map(corpus, content_transformer(tolower))
+  removeSpecialChars <- function(x) gsub("[^a-zA-Z0-9 ]","",x)
+  processedCorpus <- tm_map(processedCorpus, removeSpecialChars)
+  processedCorpus <- tm_map(processedCorpus, removeNumbers)
+  processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+  processedCorpus <- tm_map(processedCorpus, removeWords, stopWords)
+  # remove dashes after deletion of words with dashes (some times dashes were stil present)
+  #	processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+  processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+  return(processedCorpus)
+}
+corpus <- createCorpus(papers)
+str(corpus)
+
+#create document-term matrix 
+minimumFrequency <- 5
+createDTM <- function( corpus )
+{
+  DTM <- DocumentTermMatrix(corpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+  return(DTM)
+}
+getPresentIdx <- function(DTM)
+{
+  presentIdx <- slam::row_sums(DTM) > 0
+  return(presentIdx)
+}
+
+removeEmptyRows <- function( presentIdx, dataset )
+{
+  # because some terms are not repeated in other documents we have empty rows (e.g. rows with no terms)
+  # LDA will not like this so we remove them from the analysis
+  return(dataset[presentIdx,])
+}
+
+ppDTM <- createDTM(corpus)
+presentIdx <- getPresentIdx(ppDTM)
+ppDTM <- removeEmptyRows(presentIdx, ppDTM)
+papers <- removeEmptyRows(presentIdx, papers)
+dim(ppDTM) # have a look at the number of documents and terms in the matrix
+
+#model calculation 
+#additional libraries 
+library(lda)
+library(ldatuning)
+library(topicmodels)
+library(ggplot2)
+library(gridExtra)
+library(reshape2)
+
+#run metrics testing to aid in deciding on number of topics 
+#find topic numbers
+ppTopicsNum <- ldatuning::FindTopicsNumber(
+  ppDTM,
+  topics = seq(from = 4, to = 20, by = 1),
+  metrics = c("CaoJuan2009",  "Deveaud2014"),
+  method = "Gibbs",
+  control = list(seed = 77),
+  verbose = TRUE
+)
+
+#plot results
+FindTopicsNumber_plot(ppTopicsNum)
+#explore metrics to pick optimal number of topìcs
+plotMetrics <- function( df )
+{
+  g1 <- ggplot(df, aes(x=topics, y=CaoJuan2009)) + geom_line() + geom_point() + ggtitle("minimize") + theme_bw() + scale_x_continuous(breaks=seq(min(df$topics), max(df$topics,1)))
+  
+  g2 <- ggplot(df, aes(x=topics, y=Deveaud2014)) + geom_line() + geom_point() + ggtitle("maximize") + theme_bw()+ scale_x_continuous(breaks=seq(min(df$topics), max(df$topics,1)))
+  grid.arrange(g1, g2)
+}
+plotMetrics(ppTopicsNum)
+
+#set up the number of topics for the LDA model
+ppTopicsNum <- 5
+ppLDA <- LDA(ppDTM, ppTopicsNum, method = "Gibbs", control = list(iter = 1000, verbose = 25, alpha = 50/ppTopicsNum, seed = 77))
+
+#results from this topic model algorithm leads to some probability distributions
+#first: theta over K topics - as they appear in every document
+#second: beta over v terms - as they (terms) appear in each topic - v represents vocabularly length 
+#posterior distributions 
+tmResult <- posterior(ppLDA)
+#object format
+attributes(tmResult)
+#vocabulary length
+nTerms(ppDTM)  
+#topics are probability distributions per total corpus 
+#use results to get beta 
+beta <- tmResult$terms 
+#k distributions - as they appear over nTerms (DTM)
+dim(beta) 
+#beta rows - sum to 1 
+rowSums(beta) 
+#corpus size
+nDocs(ppDTM) 
+#per document - probability distribution of included topics 
+theta <- tmResult$topics
+#k topics - nDocs(DTM) distributions 
+dim(theta) 
+#theta rows - sum to 1
+rowSums(theta)[1:5] 
+terms(ppLDA, 10)
+exampleTermData <- terms(ppLDA, 10)
+exampleTermData[, 1:5]
+
+#preliminary data visualization - using wordclouds
+#additional libraries 
+library(RColorBrewer)
+library(wordcloud)
+
+#topic 1
+topicToViz1 <- 1
+top10terms <- sort(tmResult$terms[topicToViz1,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+#probabilities per 10 terms
+probabilities <- sort(tmResult$terms[topicToViz1,], decreasing=TRUE)[1:10] 
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors) 
+
+#topic 2
+topicToViz2 <- 2
+top10terms <- sort(tmResult$terms[topicToViz2,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+probabilities <- sort(tmResult$terms[topicToViz2,], decreasing=TRUE)[1:10]
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors)
+
+#topic 3
+topicToViz3 <- 3
+top10terms <- sort(tmResult$terms[topicToViz3,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+probabilities <- sort(tmResult$terms[topicToViz3,], decreasing=TRUE)[1:10]
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors)
+
+#topic 4
+topicToViz4 <- 4
+top10terms <- sort(tmResult$terms[topicToViz4,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+probabilities <- sort(tmResult$terms[topicToViz4,], decreasing=TRUE)[1:10]
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors)
+
+#topic 5
+topicToViz5 <- 5
+top10terms <- sort(tmResult$terms[topicToViz5,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+probabilities <- sort(tmResult$terms[topicToViz5,], decreasing=TRUE)[1:10]
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors)
+
+#topic 6
+topicToViz6 <- 6
+top10terms <- sort(tmResult$terms[topicToViz6,], decreasing=TRUE)[1:10]
+words <- names(top10terms)
+probabilities <- sort(tmResult$terms[topicToViz6,], decreasing=TRUE)[1:10]
+mycolors <- brewer.pal(8, "Dark2")
+wordcloud(words, probabilities, random.order = FALSE, color = mycolors)
