@@ -1,0 +1,271 @@
+#load libraries 
+library(RSQLite)
+library(NLP)
+library(tm)
+
+#upload and connect database to r studio 
+#name of database = ppdatabase.db
+#name of table = papers
+conn <- dbConnect(RSQLite::SQLite(), "C:\\Users\\ ... \\ppdatabase.db")
+papers <- dbGetQuery(conn, "select * from papers")
+str(papers) # check the structure
+
+#add the required column names for the preprocessing 
+papers$doc_id <- papers$id
+papers$id <- NULL
+
+#preprocessing chain and building corpus
+wordsToIgnore <- c("arch", "archaeology", "archaeologist", "archaeological", "archæology", "archæological", "archæologist", 
+                   "stone", "stones", "stonehenge", "henge", "hengeworld", "circl", "circle", "circles", "excav", "excavation", 
+                   "excavations", "examine", "evid", "evidence", "discoveri", "discovery", "discoveries", "structur", 
+                   "structure", "structures", "sourc", "source", "sources", "theori", "theory", "theories", "figur", "figure", 
+                   "figures", "featur", "feature", "features", "data", "date", "wall", "walls", "use", "uses", "used", "year", 
+                   "with", "within", "also", "new", "will", "one", "two", "first", "second", "mani", "manag", "manage", "now", 
+                   "probabl", "probable", "probably", "possibl", "possible", "hole", "holes", "spot", "site", "sites", "may", 
+                   "must", "much", "feet", "foot", "far", "area", "areas", "measur", "measure", "measures", "day", "cal", "axe", 
+                   "can", "age", "end", "might", "rock", "plan", "find", "found", "seem", "well", "hors", "say", "way", "still",
+                   "fill", "small", "error", "even", "dig", "face", "tool", "group", "differ", "different", "differences", "bank", 
+                   "includ", "include", "including", "squar", "square", "earli", "earlier", "early", "analysi", "analyses", 
+                   "avail", "available", "page", "author", "chapter", "book", "publish", "peer", "review", "article", "report",
+                   "research", "colum", "column", "studi", "studies", "study", "matri", "material", "english", "boundari",
+                   "boundary", "calibr", "caliber", "howev", "however", "barrow", "ditch", "deposit", "nation", "world", "british",
+                   "univers", "university", "universe", "universities", "cursus", "pitt", "pitts", "tilley", "hoyle", "pearson", 
+                   "atkinson", "watson", "parker", "wainwright", "and", "the", "b.c", "long", "which", "were", "lockyer", "stoneheng", 
+                   "avenu", "avenue", "side", "said", "like", "cist", "right", "left", "cut", "erect", "just", "inter", "archaeolog", 
+                   "sampl", "materi", "made", "onli", "ani", "veri", "road", "work", "show", "result", "surfac", "record", "set", 
+                   "line", "posit", "number", "part", "ground", "centr", "trust", "near", "form", "round", "carv", "suggest", 
+                   "professor", "cremat", "construct", "peopl", "antiqu", "top", "larg", "late", "time", "upright", "draw", 
+                   "repres", "becaus", "provid", "live", "centuri", "mark", "note", "known", "build", "fig", "quarri",
+                   "distribute", "later", "hoyl", "less", "fact", "blue", "see", "clear", "close", "certain", "though", "cleal", 
+                   "mean", "slight", "great", "allow", "make", "befor", "illustr", "outcrop", "three", "propos", "inch", "present")
+
+createCorpus <- function( papers )
+{
+  # final list is custom words + standard english words
+  stopWords <- tm::stopwords("en")
+  stopWords <- c(stopWords, wordsToIgnore)
+  
+  corpus <- Corpus(DataframeSource(papers))
+  processedCorpus <- tm_map(corpus, content_transformer(tolower))
+  removeSpecialChars <- function(x) gsub("[^a-zA-Z0-9 ]","",x)
+  processedCorpus <- tm_map(processedCorpus, removeSpecialChars)
+  processedCorpus <- tm_map(processedCorpus, removeNumbers)
+  processedCorpus <- tm_map(processedCorpus, stemDocument, language = "en")
+  processedCorpus <- tm_map(processedCorpus, removeWords, stopWords)
+  # remove dashes after deletion of words with dashes (some times dashes were stil present)
+  #	processedCorpus <- tm_map(processedCorpus, removePunctuation, preserve_intra_word_dashes = FALSE)
+  processedCorpus <- tm_map(processedCorpus, stripWhitespace)
+  return(processedCorpus)
+}
+corpus <- createCorpus(papers)
+str(corpus)
+
+#create document-term matrix 
+minimumFrequency <- 5
+createDTM <- function( corpus )
+{
+  DTM <- DocumentTermMatrix(corpus, control = list(bounds = list(global = c(minimumFrequency, Inf))))
+  return(DTM)
+}
+getPresentIdx <- function(DTM)
+{
+  presentIdx <- slam::row_sums(DTM) > 0
+  return(presentIdx)
+}
+
+removeEmptyRows <- function( presentIdx, dataset )
+{
+  return(dataset[presentIdx,])
+}
+
+ppDTM <- createDTM(corpus)
+presentIdx <- getPresentIdx(ppDTM)
+ppDTM <- removeEmptyRows(presentIdx, ppDTM)
+papers <- removeEmptyRows(presentIdx, papers)
+#number of documents
+dim(ppDTM) 
+
+#model calculation 
+#libraries
+library(lda)
+library(ldatuning)
+library(topicmodels)
+library(ggplot2)
+library(gridExtra)
+library(reshape2)
+
+#run metrics testing
+#find topic numbers
+ppTopicsNum <- ldatuning::FindTopicsNumber(
+  ppDTM,
+  topics = seq(from = 4, to = 20, by = 1),
+  metrics = c("CaoJuan2009",  "Deveaud2014"),
+  method = "Gibbs",
+  control = list(seed = 77),
+  verbose = TRUE
+)
+
+#plot results
+FindTopicsNumber_plot(ppTopicsNum)
+
+#explore metrics to pick optimal number of topìcs
+plotMetrics <- function( df )
+{
+  g1 <- ggplot(df, aes(x=topics, y=CaoJuan2009)) + geom_line() + geom_point() + ggtitle("minimize") + theme_bw() + scale_x_continuous(breaks=seq(min(df$topics), max(df$topics,1)))
+  
+  g2 <- ggplot(df, aes(x=topics, y=Deveaud2014)) + geom_line() + geom_point() + ggtitle("maximize") + theme_bw()+ scale_x_continuous(breaks=seq(min(df$topics), max(df$topics,1)))
+  grid.arrange(g1, g2)
+}
+plotMetrics(ppTopicsNum)
+
+#set up the number of topics for the LDA model
+ppTopicsNum <- 5
+ppLDA <- LDA(ppDTM, ppTopicsNum, method = "Gibbs", control = list(iter = 1000, verbose = 25, alpha = 50/ppTopicsNum, seed = 77))
+
+#explnation in exploratory file 
+tmResult <- posterior(ppLDA)
+attributes(tmResult)
+nTerms(ppDTM)  
+beta <- tmResult$terms 
+dim(beta) 
+rowSums(beta) 
+nDocs(ppDTM) 
+theta <- tmResult$topics
+dim(theta) 
+rowSums(theta)[1:5] # rows in theta sum to 1
+terms(ppLDA, 10)
+exampleTermData <- terms(ppLDA, 10)
+exampleTermData[, 1:5]
+
+#plot N terms per topic
+#library
+library(tidytext)
+library(ggplot2)
+library(dplyr)
+
+pptopics <- tidy(ppLDA, matrix = "beta")
+terms_per_topic <- 10
+pptopterms <- pptopics %>%
+  #    filter(topic==6 | topic==8) %>%
+  group_by(topic) %>%
+  top_n(terms_per_topic, beta) %>%
+  ungroup() %>%
+  arrange(topic, -beta)
+# top_n() doesn't handle ties -__- so just take top 10 manually
+pptopterms <- pptopterms %>%
+  group_by(topic) %>%
+  slice(1:terms_per_topic) %>%
+  ungroup()
+
+pptopterms$topic <- factor(pptopterms$topic)
+
+pptopterms %>%
+  mutate(term = reorder(term, beta)) %>%
+  ggplot(aes(term, beta, fill=topic)) +
+  geom_bar(stat = "identity") +
+  scale_fill_viridis_d() +
+  facet_wrap(~ topic, scales = "free", strip.position = "top") +
+  theme(legend.position = c(1, 0),
+        legend.justification = c(1, 0)) +
+  theme(strip.placement = "outside") +
+  ggtitle("Top 10 Terms per Topic") +
+  ylab("Beta") + xlab("Terms") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
+  theme(legend.position = c(0.9, 0.1), legend.justification = c(1, 0.2), legend.key.size = unit(0.5, "cm")) +
+  coord_flip()
+
+
+
+#plot stream graph
+#libraries
+library(reshape2)
+library(ggplot2)
+library(reshape2)
+library(viridisLite)
+library(viridis)
+library(RColorBrewer)
+library(hrbrthemes)
+
+#weight of every topic per every text 
+theta <- posterior(ppLDA)$topics
+#men proportions per year 
+topic_proportion_per_decade <- aggregate(theta, by = list(ley = papers$year), mean)
+
+#names based on top terms found per topic
+topicNames <- c("Archaeological Science", "Archaeological Fieldwork", "Astronomy", "Prehistoric Monument", "Heritage Site")
+#set topic names as aggregated columns
+colnames(topic_proportion_per_decade)[2:(ppTopicsNum+1)] <- topicNames 
+
+#create = color palette, number of colors per number of topics 
+ppTopicsNum <- 5
+leyColors <- colorRampPalette(brewer.pal(ppTopicsNum, "Accent"))
+#reshape - dataframe
+vizDataFrame <- melt(topic_proportion_per_decade, id.vars = "ley")
+
+#final plot
+ggplot(vizDataFrame,aes(x=ley, y=value, group=variable, fill=variable, position="stack")) + 
+  geom_density(position="fill", stat="identity") + 
+  scale_fill_manual(values=leyColors(ppTopicsNum)) + 
+  scale_fill_viridis(discrete = TRUE) +
+  theme_ipsum() + 
+  theme(axis.text.x = element_text(hjust = 1)) + 
+  scale_x_continuous(breaks = seq(1925,2020,10)) +
+  xlab("Year") + 
+  theme_bw()+ theme(axis.text.x = element_text(hjust = 1)) +
+  theme(legend.position = "bottom") +
+  guides(fill=guide_legend(nrow = 2, byrow = TRUE)) 
+
+
+#plot - area plots
+ggplot(vizDataFrame, aes(x=ley, y=value, group=variable, fill=variable)) +
+  geom_area() + scale_fill_viridis_d() +
+  facet_wrap(~variable, nrow = 2, scales = "free", strip.position = "top") +
+  theme_ipsum() +
+  theme(
+    strip.placement = "outside",
+    strip.text.x = element_text(size = 10),
+    axis.title.x = element_text(hjust = 0.5)
+  )
+
+  #area plots 
+  #stacking and area graphs and facet wrap
+  #first area graph; facet wrapped 
+  ggplot(vizDataFrame, aes(x=ley, y=value, group=variable, fill=variable)) +
+  geom_area() + scale_fill_viridis_d() +
+  facet_wrap(~variable, nrow = 2, scales = "free", strip.position = "top") +
+  theme_ipsum() +
+  theme(
+    strip.placement = "outside",
+    strip.text.x = element_text(size = 10),
+    axis.title.x = element_text(hjust = 0.5)
+  ) +
+  theme(
+    axis.text.x = element_text(size = 8), 
+    axis.title.x = element_text(size = 10, hjust = 0.5, vjust = -1)
+  ) +
+  theme(
+    axis.text.y = element_text(size = 8), 
+    axis.title.y = element_text(size = 10, hjust = 0.5, vjust = -1)
+  ) +
+  theme(legend.position = c(1, 0), legend.justification = c(1, 0.2), legend.key.size = unit(0.5, "cm")) +
+  ylab("Value") + xlab("Year") +
+  theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(size = 12, hjust = 0.5),
+    plot.caption = element_text(hjust = 0)
+  )
+  theme(
+    axis.text.x = element_text(size = 8), 
+    axis.title.x = element_text(size = 10, hjust = 0.5, vjust = -1)
+  ) +
+  theme(
+    axis.text.y = element_text(size = 8), 
+    axis.title.y = element_text(size = 10, hjust = 0.5, vjust = -1)
+  ) +
+  ylab("Value") + xlab("Year") +
+  theme(
+    plot.title = element_text(hjust = 0.5),
+    plot.subtitle = element_text(size = 12, hjust = 0.5),
+    plot.caption = element_text(hjust = 0)
+  )
