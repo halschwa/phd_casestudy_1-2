@@ -4,10 +4,12 @@ Data and code used for Case Study #1 and Case Study #2 for PhD Thesis project, "
 The result of both Case Study #1 and Case Study #2 are two papers: 
 
 1] Text Mining Analysis of Perception in Archaeological Landscapes: The Case of Stonehenge 
+
 Published: Proceedings of the 7th ACM SIGSPATIAL International Workshop on Geospatial Humanities
 https://dl.acm.org/doi/abs/10.1145/3615887.3627757
 
 2] It’s What You Value: A Theoretical Framework for Unveiling  Archaeological Heritage Values through Text Mining 
+
 Published: Conservation and Management of Archaeological Sites
 
 
